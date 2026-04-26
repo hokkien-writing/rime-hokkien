@@ -63,13 +63,13 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 
 ### 切換輸入方案
 
-按 F4 抑是 `Ctrl+`` 來選擇下面个方案：
+按 F4 抑是 `` Ctrl+` `` 來選擇下面个方案：
 - 	hokkien_poj：白話字輸入
 - 	hokkien_tl：台羅輸入
 - 	hokkien_bp：閩南語拼音輸入
 - 	hokkien：漢字佮羅馬字混合輸入
 
-### 輸入規則
+### 輸入規則（以 POJ 為例）
 
 1. 聲調數字：使用數字 1–8 表示聲調
    - 	li2 → lí（第二聲）
@@ -114,13 +114,13 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 
 1. [白話字 - 維基百科](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%A9%B1%E5%AD%97)
 2. [Rime 輸入法引擎](https://rime.im/)
-3. [dataset](https://github.com/hokkien-writing/dataset)
+3. [hokkien-writing/dataset](https://github.com/hokkien-writing/dataset) 
 
 ## 貢獻
 
 歡迎提出 Issue 抑是 Pull Request 來改善這个專案！
 1. 拍字法設定：請修改 *.schema.yaml
-2. 字典資料：請到 dataset 專案修改
+2. 字典資料：請到 [hokkien-writing/dataset](https://github.com/hokkien-writing/dataset) 專案修改
 
 ## 授權
 
