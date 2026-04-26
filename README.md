@@ -1,4 +1,4 @@
-# Rime Hokkien（福建話輸入法）
+# Rime Hokkien（福建話拍字法）
 
 ```
 【漢字】汝好世界
@@ -9,16 +9,15 @@
 
 ## 簡介
 
-本福建話輸入法方案是建基佇 Rime 輸入法引擎￼，支援多種羅馬字系統佮漢字輸入，會使佇全平台（Windows、macOS、Linux、iOS、Android）使用。
+本福建話拍字法方案是建基佇 Rime 輸入法引擎￼，支援多種羅馬字系統佮漢字輸入，會使佇全平台（Windows、macOS、Linux、iOS、Android）使用。
 
 特色
 
-- 	多種羅馬字系統：支援 POJ（白話字）、TL（台羅）、BP（閩南語拼音）
-- 	漢字輸入：支援純漢字佮羅馬字混合輸入
-- 	自動標調：使用數字聲調（1-8），會自動轉做正確个聲調符號
-- 	Lua 過濾：利用自訂 Lua 腳本，實現精準个音節過濾佮轉換
-- 	普通話查詢：支援用普通話拼音查詢福建話較地道个講法
-- 	英文查詢：支援用英文查詢福建話較地道个講法
+- **多種羅馬字系統**：支援 POJ（白話字）、TL（台羅）、BP（閩南語拼音）
+- **漢字輸入**：支援純漢字佮羅馬字混合輸入
+- **自動標調**：使用數字聲調（1-8），會自動轉做正確个聲調符號
+- **Lua 過濾**：利用自訂 Lua 腳本，實現精準个音節過濾佮轉換
+- **反查功能**：支持普通話拼音反查福建音佮福建話普通話對照；支持英文反查福建話
 
 
 ## 安裝
@@ -28,7 +27,7 @@
 #### Windows（小狼毫）
 
 ```bash
-# 下載福建話輸入法方案
+# 下載福建話拍字法方案
 curl -LO https://github.com/hokkien-writing/rime-hokkien/archive/main.zip
 # 解壓縮了後複製到設定目錄
 unzip main.zip
@@ -41,7 +40,7 @@ cp -f rime-hokkien-main/*.lua %APPDATA%\Rime
 #### macOS（鼠鬚管）
 
 ```bash
-# 下載福建話輸入法方案
+# 下載福建話拍字法方案
 curl -LO https://github.com/hokkien-writing/rime-hokkien/archive/main.zip
 # 解壓縮了後複製到設定目錄
 unzip main.zip
@@ -85,6 +84,12 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 5. 簡拼支援：支援頭字母簡拼
    - 	lh → 你好
 
+### 反查功能
+
+- **福建音查詢**：按 `` ` `` 鍵，輸入普通話拼音可查福建音
+- **普通話對照查詢**：按 `!` 鍵，輸入普通話拼音可查福建話地道用詞
+- **英文對照查詢**：按 `~` 鍵，輸入英文可查福建話地道用詞
+
 ## 開發
 
 若欲重新建立字典抑是更新 Lua 過濾器：
@@ -107,13 +112,14 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 
 ## 參考
 
-1. Rime 輸入法引擎：https://rime.im/
-2. https://github.com/hokkien-writing/dataset
+1. [白話字 - 維基百科](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%A9%B1%E5%AD%97)
+2. [Rime 輸入法引擎](https://rime.im/)
+3. [dataset](https://github.com/hokkien-writing/dataset)
 
 ## 貢獻
 
 歡迎提出 Issue 抑是 Pull Request 來改善這个專案！
-1. 輸入法設定：請修改 *.schema.yaml
+1. 拍字法設定：請修改 *.schema.yaml
 2. 字典資料：請到 dataset 專案修改
 
 ## 授權
