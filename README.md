@@ -67,7 +67,6 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 - 	hokkien_poj：白話字輸入
 - 	hokkien_tl：台羅輸入
 - 	hokkien_bp：閩南語拼音輸入
-- 	hokkien：漢字佮羅馬字混合輸入
 
 ### 輸入規則（以 POJ 為例）
 
@@ -79,7 +78,7 @@ cp -f rime-hokkien-main/*.lua ~/Library/Rime
 3. 入聲韻尾：直接輸入 p / t / k / h
    - 	tap4 → tap
    - 	tah8 → ta̍h
-4. 連字符：毋免特別輸入
+4. 連字符：免特別輸入
    - 	li2ho2 → lí-hó
 5. 簡拼支援：支援頭字母簡拼
    - 	lh → 你好
