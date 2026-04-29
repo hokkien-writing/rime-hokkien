@@ -2,7 +2,7 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: hokkien_tl_zh
-version: "20260428.232214"
+version: "20260429.234501"
 sort: by_weight
 ...
 
@@ -344,7 +344,7 @@ sort: by_weight
 哎喲☞Ai-ioh, Ná tsiah thiàⁿ?	aiyo	100
 噯唷☞ai-oh	aiyo	100
 哎喲☞我苦 (guá-khóo)	aiyo	100
-隘勇線☞番界 (huan-kài)	aiyongxian	100
+隘勇線☞番界 (huan-kài)	aiyongxian	100
 愛玉☞子仔 (tsí-á)	aiyu	100
 哀怨☞ai-uàn	aiyuan	100
 哀怨☞哀怨 (ai-uàn)	aiyuan	100
@@ -2285,17 +2285,17 @@ sort: by_weight
 白日☞pi̍k-ji̍t	bairi	100
 白日☞白日 (pi̍k-ji̍t)	bairi	100
 百日草☞pah-ji̍t-tsháu	bairicao	100
-百日咳☞he-ku-sàu	bairihai	100
-百日咳☞連聲嗽 (liân-siaⁿ-sàu)	bairihai	100
-百日咳☞百日痚 (pah-ji̍t-he)	bairihai	100
-百日咳☞pah-ji̍t-sàu	bairihai	100
-百日咳☞百日嗽 (pah-ji̍t-sàu)	bairihai	100
-百日咳☞百日嗽 (pah-li̍t-sàu)	bairihai	100
-百日咳☞百期嗽 (pik-kî-sàu)	bairihai	100
-百日咳又會發作。☞Nā kuâⁿ-tio̍h, he-ku-sàu ē koh giâ khí-lâi	bairihaiyouhuifazuo	100
 百日紅☞百日紅 (pah-ji̍t-hông)	bairihong	100
 百日祭☞百日 (pah-ji̍t)	bairiji	100
 百日菊☞pah-ji̍t-tsháu	bairiju	100
+百日咳☞he-ku-sàu	bairike	100
+百日咳☞連聲嗽 (liân-siaⁿ-sàu)	bairike	100
+百日咳☞百日痚 (pah-ji̍t-he)	bairike	100
+百日咳☞pah-ji̍t-sàu	bairike	100
+百日咳☞百日嗽 (pah-ji̍t-sàu)	bairike	100
+百日咳☞百日嗽 (pah-li̍t-sàu)	bairike	100
+百日咳☞百期嗽 (pik-kî-sàu)	bairike	100
+百日咳又會發作。☞Nā kuâⁿ-tio̍h, he-ku-sàu ē koh giâ khí-lâi	bairikeyouhuifazuo	100
 白日夢☞tshuā-jiō-bāng	bairimeng	100
 白日夢☞陷眠 (hām-bîn)	bairimeng	100
 白日夢☞pe̍h-ji̍t-bāng	bairimeng	100
@@ -3631,9 +3631,9 @@ sort: by_weight
 半斤八兩☞七仔笑八仔 (tshit--á tshiò peh--á)	banjinbaliang	100
 半斤八兩☞tsi̍t ê tsi̍t kin, tsi̍t ê tsa̍p-la̍k niú	banjinbaliang	100
 半斤八兩☞kun-tú sī kun-tú	banjinbaliang	100
-半斤八兩☞半斤八兩 (puàⁿ-kin-peh-niú)	banjinbaliang	100
 半斤八兩☞puàⁿ kin peh niú	banjinbaliang	100
 半斤八兩☞puàⁿ-kin peh-niú	banjinbaliang	100
+半斤八兩☞半斤八兩 (puàⁿ-kin-peh-niú)	banjinbaliang	100
 半斤八兩☞三跤貓笑一目狗 (saⁿ-kha-niau tshiò tsi̍t ba̍k káu)	banjinbaliang	100
 半徑☞半徑 (puàⁿ-kìng)	banjing	100
 半徑☞puàⁿ-kìng	banjing	100
@@ -4697,9 +4697,9 @@ black包☞phàu	bao	100
 寶可夢☞抱去摸 (phō khì bong)	baokemeng	100
 寶可夢☞抱魁魍 (phō-khe-bóng)	baokemeng	100
 寶可夢☞抱起毛 (phō-khí-moo)	baokemeng	100
+寶可夢☞抱去瘼 (phō-khì-moh)	baokemeng	100
 寶可夢☞Phoo-ké-moo-ǹg	baokemeng	100
 寶可夢☞phōo khì mooh	baokemeng	100
-寶可夢☞抱去瘼 (phō-khì-moh)	baokemeng	100
 寶可夢☞寶價望 (pó-kè-bōng)	baokemeng	100
 寶可夢☞寶可夢 (Pó-khó-bōng)	baokemeng	100
 寶可夢☞爆吉夢 (po̍k-kiat-bōng)	baokemeng	100
@@ -4752,11 +4752,10 @@ black包☞phàu	bao	100
 暴利☞暴利 (po̍k-lī)	baoli	100
 薄禮☞po̍k-siā	baoli	100
 包裏☞sió-pau	baoli	100
-爆料☞爆料 (po̍k-liāu)	baoliao	100
+爆料☞爆料 (po̍k-liāu)	baoliao	100
 寶裡寶氣☞國鱉 (kok-pih)	baolibaoqi	100
 寶裡寶氣☞駁孑 (pok-kiat)	baolibaoqi	100
 寶裡寶氣☞駁天孑 (pok-thian-kiat)	baolibaoqi	100
-薄利多銷☞po̍h-lī to-siau	baoliduoxiao	100
 爆裂☞pho̍k-lia̍t	baolie	100
 爆裂☞逼開 (piak-khui)	baolie	100
 爆裂☞逼裂 (piak-li̍h)	baolie	100
@@ -5095,9 +5094,9 @@ black包☞phàu	bao	100
 包廂☞pau-siuⁿ	baoxiang	100
 包廂☞包廂 (pau-siuⁿ)	baoxiang	100
 爆香☞煏 (piak替)	baoxiang	100
+保險桿☞bán-bah	baoxiangan	100
+保險桿☞挽肉 (bán-bah)	baoxiangan	100
 保險桿☞bàn-bà	baoxiangan	100
-保險桿☞bán-bah	baoxiangan	100
-保險桿☞挽肉 (bán-bah)	baoxiangan	100
 保險桿☞車擋脣 (tshia-tòng-tûn)	baoxiangan	100
 保險桿☞保險柱 (pó-hiám-thiāu)	baoxiangan	100
 保險公司☞pó-hiám kong-si	baoxiangongsi	100
@@ -5734,9 +5733,9 @@ black包☞phàu	bao	100
 背☞揹 (phāiⁿ替)	bei	100
 揹☞揹 (phāiⁿ替)	bei	100
 被☞phē	bei	100
+被☞被 (phēr)	bei	100
 被☞phuē	bei	100
 被☞被 (phuē)	bei	100
-被☞被 (phēr)	bei	100
 碑☞pi	bei	100
 碑☞碑 (pi)	bei	100
 卑☞卑 (pi)	bei	100
@@ -6455,8 +6454,8 @@ black包☞phàu	bao	100
 被選舉人☞pī-suán-kí-jîn	beixuanjuren	100
 背旭旯兒☞僻角 (phiah-kak)	beixulaer	100
 背眼☞挹角 (iap-kak)	beiyan	100
-悲咽☞苦慼 (khóo-tshueh)	beiyan	100
 被邀☞siū-tshián	beiyao	100
+悲咽☞苦慼 (khóo-tshueh)	beiye	100
 北宜☞北宜 (Pak-gî)	beiyi	100
 北醫☞北醫 (Pak-i)	beiyi	100
 被一大群人攻打得很利害。☞Hōo tsi̍t tuā-tīn lâng kong-táⁿ kah tsin lī-hāi	beiyidaqunrengongdadehenlihai	100
@@ -6680,8 +6679,8 @@ OK繃☞Ok tah	beng	100
 繃開☞king-khui	bengkai	100
 迸開☞piak-khui	bengkai	100
 崩垮☞ping-huāi	bengkua	100
-崩潰☞崩去 (pang--khì)	bengkui	100
-崩潰☞崩去 (pang--khìr)	bengkui	100
+崩潰☞崩去 (pang--khì)	bengkui	100
+崩潰☞崩去 (pang--khìr)	bengkui	100
 崩潰☞崩去 (pang--khù)	bengkui	100
 崩潰☞崩疶 (pang-tshuah)	bengkui	100
 崩潰☞崩敗 (pang-pāi)	bengkui	100
@@ -7716,6 +7715,7 @@ OK繃☞Ok tah	beng	100
 變相☞piàn-siòng	bianxiang	100
 變相☞變相 (pìⁿ-siàng)	bianxiang	100
 變小☞變小 (pìⁿ-sió)	bianxiao	100
+便血☞放血 (pàng-hueh)	bianxie	100
 編斜☞phian-tshua̍n	bianxie	100
 編寫☞編寫 (phian-siá)	bianxie	100
 變戲法☞變魔術 (piàn-môo-su̍t)	bianxifa	100
@@ -7746,7 +7746,6 @@ OK繃☞Ok tah	beng	100
 變性手術☞piàn-sìng tshiú-su̍t	bianxingshoushu	100
 編修☞編修 (phian-siu)	bianxiu	100
 編修☞編修 (pian-siu)	bianxiu	100
-便血☞放血 (pàng-hueh)	bianxue	100
 遍巡☞piàn-sûn	bianxun	100
 邊沿☞凜墘 (lím-kîⁿ)	bianyan	100
 變樣☞走形 (tsáu-hîng)	bianyang	100
@@ -8102,7 +8101,7 @@ OK繃☞Ok tah	beng	100
 表情☞piáu-tsîng	biaoqing	100
 表情☞表情 (piáu-tsîng)	biaoqing	100
 表情惡劣☞死人面 (sí-lâng-bīn)	biaoqingelie	100
-表情符號☞表情符號 (piáu-tsîng-hû-hō)	biaoqingfuhao	100
+表情符號☞表情符號 (piáu-tsîng-hû-hō)	biaoqingfuhao	100
 標示☞注 (tsù文)	biaoshi	100
 標識☞號頭 (hō-thâu)	biaoshi	100
 標識☞標識 (phiau-sik)	biaoshi	100
@@ -8176,6 +8175,7 @@ OK繃☞Ok tah	beng	100
 表彰☞piáu-tsiong	biaozhang	100
 表彰☞表彰 (piáu-tsiong)	biaozhang	100
 錶針☞pió-á-tsiam	biaozhen	100
+表徵☞表徵 (piáu-ting)	biaozheng	100
 標緻☞清飄 (tshing-phiau)	biaozhi	100
 標誌☞號頭 (hō-thâu)	biaozhi	100
 標致☞緣投 (iân-tâu)	biaozhi	100
@@ -8195,7 +8195,6 @@ OK繃☞Ok tah	beng	100
 標幟☞標幟 (piau-tsì)	biaozhi	100
 標緻☞piau-tì	biaozhi	100
 標緻☞標緻 (piau-tì)	biaozhi	100
-表徵☞表徵 (piáu-ting)	biaozhi	100
 表姪☞piáu-ti̍t	biaozhi	100
 表姪☞表姪 (piáu-ti̍t)	biaozhi	100
 裱紙☞puè-tsuá	biaozhi	100
@@ -9614,25 +9613,25 @@ OK繃☞Ok tah	beng	100
 比如說☞pí-lūn kóng	birushuo	100
 比如說☞比論講 (pí-lūn-kóng)	birushuo	100
 閉塞☞實 (tsa̍t)	bisai	100
-鼻塞☞tsa̍t-phīⁿ	bisai	100
-鼻塞☞實鼻 (tsa̍t-phīⁿ)	bisai	100
 比賽☞tshì-ha̍p	bisai	100
 比賽☞車拼 (tshia-piàⁿ)	bisai	100
-鼻塞☞鼻齆齆 (phīⁿ-àng-àng)	bisai	100
 比賽☞比 (pí)	bisai	100
 比賽☞比並 (pí-phīng)	bisai	100
 比賽☞pí-sài	bisai	100
 比賽☞比賽 (pí-sài)	bisai	100
 比賽☞參賽 (saⁿ-sè)	bisai	100
 比賽☞相賽 (saⁿ-suè)	bisai	100
-鼻塞☞塞鼻 (sat-phīⁿ)	bisai	100
-鼻塞☞sat-phīⁿ	bisai	100
 比賽☞sio-piàⁿ	bisai	100
 比賽☞輸贏 (su-iâⁿ)	bisai	100
 比賽☞鬥賽 (tàu-suè)	bisai	100
 閉塞☞that	bisai	100
 比賽哪有包贏的？☞Pí-sài kám ū it-tīng pau-iâⁿ ê?	bisainayoubaoyingde	100
 比賽跳☞sài-thiàu	bisaitiao	100
+鼻塞☞tsa̍t-phīⁿ	bise	100
+鼻塞☞實鼻 (tsa̍t-phīⁿ)	bise	100
+鼻塞☞鼻齆齆 (phīⁿ-àng-àng)	bise	100
+鼻塞☞塞鼻 (sat-phīⁿ)	bise	100
+鼻塞☞sat-phīⁿ	bise	100
 碧山☞碧山 (phik-suaⁿ)	bishan	100
 比上不足☞Pí siōng put-tsiok, pí hā iú-î	bishangbuzu	100
 閉上眼睛☞ba̍k-tsiu pàng-kheh	bishangyanjing	100
@@ -9952,7 +9951,7 @@ OK繃☞Ok tah	beng	100
 逼真☞逼真 (pik-tsin)	bizhen	100
 逼真☞sing-tōng pik-tsin	bizhen	100
 幣政☞pè-tsìng	bizheng	100
-避震器☞khu-sióng	bizhenqi	100
+避震器☞khu-sióng	bizhenqi	100
 避震器☞pī-tsín-khì	bizhenqi	100
 幣值☞gîn-tsúi	bizhi	100
 幣值☞gûn-tsúi	bizhi	100
@@ -10249,9 +10248,9 @@ OK繃☞Ok tah	beng	100
 跛腳☞tshiáng-kha	bojiao	100
 跛腳☞瘸跤 (khê-kha)	bojiao	100
 跛腳☞瘸腳 (khê-kha)	bojiao	100
+跛腳☞瘸跤 (khêr-kha)	bojiao	100
 跛腳☞瘸跤 (khuê-kha)	bojiao	100
 跛腳☞瘸腳 (khuê-kha)	bojiao	100
-跛腳☞瘸跤 (khêr-kha)	bojiao	100
 跛腳☞nńg-kha	bojiao	100
 跛腳☞跛跤 (pái-kha)	bojiao	100
 跛腳☞pái-kha	bojiao	100
@@ -10347,6 +10346,7 @@ OK繃☞Ok tah	beng	100
 玻璃櫥☞po-lê-tû	bolichu	100
 玻璃窗☞po-lê-thang	bolichuang	100
 玻璃窗☞玻璃窗 (po-lê-thang)	bolichuang	100
+薄利多銷☞po̍h-lī to-siau	boliduoxiao	100
 勃里咯氏鰈☞pu̍t-lí-khik-sī-tia̍p	boligeshidie	100
 玻璃罐☞玻璃罐仔 (po-lê kuàn-á)	boliguan	100
 玻璃管☞po-lê-kńg	boliguan	100
@@ -13244,7 +13244,7 @@ OK繃☞Ok tah	beng	100
 不相配☞bô phit-phuè	buxiangpei	100
 步向前☞ta̍h tsìn-tsîng	buxiangqian	100
 不相欠☞tú-khí	buxiangqian	100
-不像人☞毋成人 (m̄-tsiâⁿ-lâng)	buxiangren	100
+不像人☞毋成人 (m̄-tsiâⁿ-lâng)	buxiangren	100
 不像人樣☞m̄-tsiâⁿ-kâu	buxiangrenyang	100
 不相上下☞無相輸 (bô-siang-su)	buxiangshangxia	100
 不相上下☞無輸無贏 (bô-su-bô-iâⁿ)	buxiangshangxia	100
@@ -14909,7 +14909,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 才學☞tsâi-ha̍k	caixue	100
 才學☞內才 (lāi-tsâi)	caixue	100
 才學空虛☞無腹內 (bô-pak-lāi)	caixuekongxu	100
-蔡徐坤☞蔡徐坤 (Tshuà Tshî-khun)	caixukun	100
+蔡徐坤☞蔡徐坤 (Tshuà Tshî-khun)	caixukun	100
 菜蟳☞菜蟳 (tshài-tsîm)	caixun	100
 菜鴨☞tshài-ah	caiya	100
 菜蚜☞菜龜仔 (tshài-ku-á)	caiya	100
@@ -14937,7 +14937,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 猜疑☞懷疑 (huâi-gî)	caiyi	100
 猜疑☞蹊蹺 (khi-khiau)	caiyi	100
 猜疑☞可疑 (khó-gî)	caiyi	100
-蔡英文☞蔡英文 (Tshuà Ing-bûn)	caiyingwen	100
+蔡英文☞蔡英文 (Tshuà Ing-bûn)	caiyingwen	100
 蔡易餘☞蔡易餘 (Tshuà I̍k-û)	caiyiyu	100
 採用☞tshái-iōng	caiyong	100
 採用☞採用 (tshái-iōng)	caiyong	100
@@ -15207,8 +15207,8 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 藏技☞khǹg-pōo	cangji	100
 藏嬌☞tsông-kiau	cangjiao	100
 藏鏡人☞藏鏡人 (Tsông-kiàⁿ-jîn)	cangjingren	100
-藏鏡人☞藏鏡人 (Tsông‑kiàⁿ‑jîn)	cangjingren	100
-藏鏡人☞藏鏡人 (Tsông‑kiàⁿ‑lîn)	cangjingren	100
+藏鏡人☞藏鏡人 (Tsông‑kiàⁿ‑jîn)	cangjingren	100
+藏鏡人☞藏鏡人 (Tsông‑kiàⁿ‑lîn)	cangjingren	100
 倉庫☞棧 (tsàn)	cangku	100
 倉庫☞棧間 (tsàn-king)	cangku	100
 倉庫☞棧房 (tsàn-pâng)	cangku	100
@@ -18246,7 +18246,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 車鼓弄☞車鼓戲 (tshia-kóo-hì)	chegunong	100
 車鼓戲☞車鼓弄 (tshia-kóo-lāng)	cheguxi	100
 車鼓陣☞車鼓戲 (tshia-kóo-hì)	cheguzhen	100
-車鼓陣☞車鼓陣 (tshia-kóo-tīn)	cheguzhen	100
+車鼓陣☞車鼓陣 (tshia-kóo-tīn)	cheguzhen	100
 車號☞車號 (tshia-hō)	chehao	100
 車痕☞tshia-hûn	chehen	100
 扯後腿☞上後腳 (tshiūⁿ-āu-kha)	chehoutui	100
@@ -19314,7 +19314,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 襯景☞創景 (tshòng-kíng)	chenjing	100
 襯景☞伴景 (phuāⁿ-kíng)	chenjing	100
 沉浸式教學☞浸水式教學 (tsìm-tsúi-sik kàu-ha̍k)	chenjinshijiaoxue	100
-沉浸式教學☞浸水式教育 (tsìm-tsuí-sik kàu-io̍k)	chenjinshijiaoxue	100
+沉浸式教學☞浸水式教育 (tsìm-tsúi-sik kàu-io̍k)	chenjinshijiaoxue	100
 陳舊☞古老博 (kóo-ló-phok)	chenjiu	100
 陳舊☞古博 (kóo-phok)	chenjiu	100
 陳舊☞舊漚 (kū-àu)	chenjiu	100
@@ -19889,7 +19889,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 齒鰆☞ian-á-hóo	chichun	100
 齒鰆☞煙仔虎 (ian-á-hóo)	chichun	100
 齒鰆☞lia̍h-khí-ian	chichun	100
-吃醋☞醋桶 (tshòo-tháng)	chicu	100
+吃醋☞醋桶 (tshòo-tháng)	chicu	100
 吃醋☞tsia̍h-tshòo	chicu	100
 吃醋☞食醋 (tsia̍h-tshòo)	chicu	100
 吃粗飽☞食粗飽 (tsia̍h tshoo-pá)	chicubao	100
@@ -20360,7 +20360,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 赤身露體☞tshiah-sin lōo-thé	chishenluti	100
 赤身露體☞tshiah-sin-lōo-thé	chishenluti	100
 赤身露體☞tshiah-thé	chishenluti	100
-吃什麼☞食啥物 (tsia̍h siáⁿ-mih)	chishenme	100
+吃什麼☞食啥物 (tsia̍h siáⁿ-mih)	chishenme	100
 持身守己☞tshî-sin siú kí	chishenshouji	100
 吃食☞食齋 (tsia̍h-tsai)	chishi	100
 吃屎☞食屎 (tsia̍h-sái)	chishi	100
@@ -20439,7 +20439,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 吃晚飯☞tsia̍h àm	chiwanfan	100
 吃晚飯☞食暗 (tsia̍h-àm)	chiwanfan	100
 吃晚飯☞食暗頓 (tsia̍h-àm-tùiⁿ)	chiwanfan	100
-吃碗內看碗外☞食碗內看碗外 (tsia̍h uáⁿ-lāi khuàⁿ uáⁿ-guā)	chiwanneikanwanwai	100
+吃碗內看碗外☞食碗內看碗外 (tsia̍h uáⁿ-lāi khuàⁿ uáⁿ-guā)	chiwanneikanwanwai	100
 赤尾冬☞石兵 (tsio̍h-ping)	chiweidong	100
 赤尾冬☞雞仔 (ke-á)	chiweidong	100
 赤尾青竹絲☞tshiah-bé-tshiⁿ-tik-si	chiweiqingzhusi	100
@@ -20587,8 +20587,8 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 吃中飯☞食中晝頓 (tsia̍h-tiong-tàu-tùiⁿ)	chizhongfan	100
 吃重鹹☞食重鹹 (tsia̍h-tāng-kiâm)	chizhongxian	100
 持中庸之態度☞put-tik-put-sit	chizhongyongzhitaidu	100
-赤柱☞赤柱 (tshiah-thiāu)	chizhu	100
 赤柱☞赤柱 (tshiah-thiǎu)	chizhu	100
+赤柱☞赤柱 (tshiah-thiāu)	chizhu	100
 吃著玩的☞tsia̍h thit-thô	chizhuwande	100
 赤字☞tshiah-jī	chizi	100
 池子☞浴池 (i̍k-tî)	chizi	100
@@ -23055,17 +23055,17 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 吹牛☞pûn-ta̍h-ti	chuiniu	100
 吹牛☞thi̍h-thi̍h-kiò	chuiniu	100
 吹牛☞大話 (tuā-uē)	chuiniu	100
-吹牛大王☞臭屁仙 (tshàu-phùi-sian)	chuiniudaiwang	100
-吹牛大王☞臭彈仙 (tshàu-tuāⁿ-sian)	chuiniudaiwang	100
-吹牛大王☞虎膦仙 (hóo-lān-sian)	chuiniudaiwang	100
-吹牛大王☞hóo-lān-sian	chuiniudaiwang	100
-吹牛大王☞ke-kui-á-sian	chuiniudaiwang	100
-吹牛大王☞ke-kui-sian	chuiniudaiwang	100
-吹牛大王☞雞胿仙 (ke-kui-sian)	chuiniudaiwang	100
-吹牛大王☞雞胿仙 (kue-kui-sian)	chuiniudaiwang	100
-吹牛大王☞膨風龜 (phòng-hong-ku-á)	chuiniudaiwang	100
-吹牛大王☞膨風龜仔 (phòng-hong-ku-á)	chuiniudaiwang	100
-吹牛大王☞膨風仙 (phòng-hong-sian)	chuiniudaiwang	100
+吹牛大王☞臭屁仙 (tshàu-phùi-sian)	chuiniudawang	100
+吹牛大王☞臭彈仙 (tshàu-tuāⁿ-sian)	chuiniudawang	100
+吹牛大王☞虎膦仙 (hóo-lān-sian)	chuiniudawang	100
+吹牛大王☞hóo-lān-sian	chuiniudawang	100
+吹牛大王☞ke-kui-á-sian	chuiniudawang	100
+吹牛大王☞ke-kui-sian	chuiniudawang	100
+吹牛大王☞雞胿仙 (ke-kui-sian)	chuiniudawang	100
+吹牛大王☞雞胿仙 (kue-kui-sian)	chuiniudawang	100
+吹牛大王☞膨風龜 (phòng-hong-ku-á)	chuiniudawang	100
+吹牛大王☞膨風龜仔 (phòng-hong-ku-á)	chuiniudawang	100
+吹牛大王☞膨風仙 (phòng-hong-sian)	chuiniudawang	100
 吹牛的人☞ke-kui-á-sian	chuiniuderen	100
 吹牛皮☞臭彈 (tshàu-tuāⁿ)	chuiniupi	100
 吹牛皮☞誇口 (khua-kháu)	chuiniupi	100
@@ -24141,6 +24141,16 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 出席表☞tshut-si̍k-pió	chuxibiao	100
 出席簿☞tshut-si̍k-phōo	chuxibu	100
 除夕的特別菜（是用芥菜做的）☞tn̂g-nî-tshài	chuxidetebiecaishiyongjiecaizuode	100
+出血☞tshut-hiat	chuxie	100
+出血☞出血 (tshut-hueh)	chuxie	100
+出血☞tshut-hueh	chuxie	100
+出血☞tshut-huih	chuxie	100
+出血☞出血 (tshut-huih)	chuxie	100
+出血☞血漏 (hiat-lāu)	chuxie	100
+出血☞流血 (lâu-hueh)	chuxie	100
+出血☞流血 (lâu-huih)	chuxie	100
+出血過度☞tshut-hueh kuè-tōo	chuxieguodu	100
+出血症☞lâu-huiih-tsìng	chuxiezheng	100
 雛形☞粗胚 (tshoo-phue)	chuxing	100
 雛形☞雛形 (tshu-hîng)	chuxing	100
 雛型☞雛型 (tshu-hîng)	chuxing	100
@@ -24165,22 +24175,12 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 初選☞初選 (tshoo-suán)	chuxuan	100
 初選☞tshoo-suán	chuxuan	100
 初學☞tshoo-ha̍k	chuxue	100
-出血☞tshut-hiat	chuxue	100
-出血☞出血 (tshut-hueh)	chuxue	100
-出血☞tshut-hueh	chuxue	100
-出血☞tshut-huih	chuxue	100
-出血☞出血 (tshut-huih)	chuxue	100
-出血☞血漏 (hiat-lāu)	chuxue	100
-出血☞流血 (lâu-hueh)	chuxue	100
-出血☞流血 (lâu-huih)	chuxue	100
-出血過度☞tshut-hueh kuè-tōo	chuxueguodu	100
 初學神師☞tshoo-ha̍k sîn-su	chuxueshenshi	100
 初學修女☞tshoo-ha̍k siu-lí	chuxuexiunv	100
 初學修士☞tshoo-ha̍k siu-sū	chuxuexiushi	100
 初學者☞初學者 (tshoo-ha̍k-tsiá)	chuxuezhe	100
 初學者☞tshoo-ha̍k-tsiá	chuxuezhe	100
 初學者☞新學山 (sin-o̍h-suaⁿ)	chuxuezhe	100
-出血症☞lâu-huiih-tsìng	chuxuezheng	100
 儲蓄互助社☞Thú-thiok hōo-tsōo-siā	chuxuhuzhushe	100
 初旬☞tshe-nih	chuxun	100
 初旬☞初旬 (tshoo-sûn)	chuxun	100
@@ -26897,9 +26897,15 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 答覆☞回答 (hê-tap)	dafu	100
 答覆☞回覆 (huê-hok)	dafu	100
 答覆☞回答 (huê-tap)	dafu	100
+大夫☞醫生 (i-sing)	dafu	100
+大夫☞醫師 (i-su)	dafu	100
+大夫☞先生 (sian-seⁿ)	dafu	100
+大夫☞先生 (sian-siⁿ)	dafu	100
 大富☞大富 (Tāi-hô)	dafu	100
 大富☞大和 (Tāi-hô)	dafu	100
 大幅☞大幅 (tāi-hok)	dafu	100
+大夫☞tāi-hu	dafu	100
+大夫☞大夫 (tāi-hu)	dafu	100
 大副☞tāi-kong	dafu	100
 答覆☞答覆 (tap-hok)	dafu	100
 答覆☞tap-hok	dafu	100
@@ -27524,12 +27530,6 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 貸放☞貸放 (tāi-hòng)	daifang	100
 戴反了☞tian-tò tì	daifanle	100
 帶鳳冠☞tshiūⁿ-thâu	daifengguan	100
-大夫☞醫生 (i-sing)	daifu	100
-大夫☞醫師 (i-su)	daifu	100
-大夫☞先生 (sian-seⁿ)	daifu	100
-大夫☞先生 (sian-siⁿ)	daifu	100
-大夫☞tāi-hu	daifu	100
-大夫☞大夫 (tāi-hu)	daifu	100
 代付☞tāi-hù	daifu	100
 代父☞tāi-hū	daifu	100
 代父母☞tāi-hū-bó	daifumu	100
@@ -27813,9 +27813,6 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 歹完☞臺灣 (Tâi-uân)	daiwan	100
 歹完查埔郎☞臺灣查埔人 (tâi-uân tsa-poo-lâng)	daiwanchapulang	100
 歹完查埔郎☞台灣查埔人 (Tâi-uân tsa-poo-lâng)	daiwanchapulang	100
-大王☞tāi-ông	daiwang	100
-大王☞大王 (tāi-ông)	daiwang	100
-大王椰子☞tāi-ông-ia-tsí	daiwangyezi	100
 代為☞代為 (tāi-ûi)	daiwei	100
 帶紋赤蛇☞tuà-bûn-tshiah-tsuâ	daiwenchishe	100
 带我去☞tshuā guá khì	daiwoqu	100
@@ -28071,7 +28068,6 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 大捷☞大捷 (tāi-tsia̍t)	dajie	100
 打劫☞táⁿ-kiap	dajie	100
 打劫☞打劫 (táⁿ-kiap)	dajie	100
-打劫☞打劫 (táⁿ-kiap)	dajie	100
 大姐☞tuā-tsé	dajie	100
 大姐☞tuā-tsí	dajie	100
 大街☞tuā-ke	dajie	100
@@ -28134,7 +28130,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 大巨蛋☞大巨蛋 (tuā-kù-tàn)	dajudan	100
 大軍☞tāi-kun	dajun	100
 大軍未動☞bī hîng-kun,sing hîng-niû	dajunweidong	100
-打卡☞簽到 (tshiam-kàu)	daka	100
+打卡☞簽到 (tshiam-kàu)	daka	100
 打卡☞拍卡 (phah-khah)	daka	100
 打卡☞打卡 (táⁿ-khah)	daka	100
 大咖啡樹☞tuā-ka-pi-tshiū	dakafeishu	100
@@ -28170,9 +28166,9 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 打瞌睡☞啄龜 (tok-ku)	dakeshui	100
 打瞌睡☞tok-ku	dakeshui	100
 打瞌睡☞盹瞌睡 (tuh-ka-tsē)	dakeshui	100
+打瞌睡☞盹瞌睡 (tuh-ka-tsēr)	dakeshui	100
 打瞌睡☞盹瞌睡 (tuh-ka-tsuē)	dakeshui	100
 打瞌睡☞tuh-ka-tsuē	dakeshui	100
-打瞌睡☞盹瞌睡 (tuh-ka-tsēr)	dakeshui	100
 打瞌睡☞盹龜 (tuh-ku)	dakeshui	100
 打瞌睡☞tuh-ku	dakeshui	100
 打磕睡☞tuh-ku	dakeshui	100
@@ -28510,7 +28506,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 大拇指☞指頭拇公 (tsíng-thâu-bú-kong)	damuzhi	100
 大拇指☞指頭公 (tsíng-thâu-kong)	damuzhi	100
 大拇指☞手大步拇 (tshiú tuā pōo bó)	damuzhi	100
-大姆指☞指頭拇公 (tsíng‑thâu‑bú‑kong)	damuzhi	100
+大姆指☞指頭拇公 (tsíng‑thâu‑bú‑kong)	damuzhi	100
 大拇指☞指頭拇 (tsńg-thâu-bó)	damuzhi	100
 大姆指☞tsńg-thâu-kong	damuzhi	100
 大拇指☞大拇公 (tuā-bó-kong)	damuzhi	100
@@ -29568,7 +29564,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 擔任☞tí-tn̄g	danren	100
 單人床☞個人床 (kò-jîn-tshn̂g)	danrenchuang	100
 單人床☞六桱床 (la̍k-kèⁿ-tshn̂g)	danrenchuang	100
-單人床☞六桱床 (la̍k-kìⁿ-tshn̂g)	danrenchuang	100
+單人床☞六桱床 (la̍k-kìⁿ-tshn̂g)	danrenchuang	100
 單人床☞tan-jîn tshn̂g	danrenchuang	100
 單人床☞tan-jîn-tshn̂g	danrenchuang	100
 單人床☞單人床 (tan-jîn-tshn̂g)	danrenchuang	100
@@ -30302,7 +30298,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 倒灌☞倒激 (tò-kik)	daoguan	100
 倒灌☞tò-kuàn	daoguan	100
 導管☞tō-kuán	daoguan	100
-道館☞道館 (tō-kuán)	daoguan	100
+道館☞道館 (tō-kuán)	daoguan	100
 刀光劍影☞刀光劍影 (to-kong-kiàm-iáⁿ)	daoguangjianying	100
 道光英☞tō-kong-ing	daoguangying	100
 搗鬼☞變魍 (pìⁿ-báng)	daogui	100
@@ -30410,10 +30406,10 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 道理☞事理 (sū-lí)	daoli	100
 倒立☞倒栽 (tò-tsai)	daoli	100
 倒立☞倒徛騰 (tò-khiā-thîng)	daoli	100
+倒立☞倒頭栽 (tò-thâu-tsai)	daoli	100
 道理☞tō-lí	daoli	100
 道理☞道理 (tō-lí)	daoli	100
 道理☞tō-lí-kut	daoli	100
-倒立☞倒頭栽 (tò-thâu-tsai)	daoli	100
 道理精華☞tō-lí-kut	daolijinghua	100
 道理論☞tō-lí-lūn	daolilun	100
 盜領☞偷領 (thau-niá)	daoling	100
@@ -31576,9 +31572,12 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 大碗☞uán-kong	dawan	100
 大碗☞uán-thâu	dawan	100
 打網☞拋網 (pha-bāng)	dawang	100
+大王☞tāi-ông	dawang	100
+大王☞大王 (tāi-ông)	dawang	100
 打網球☞phah bāng-kiû	dawangqiu	100
 打網球☞拍網球 (phah-bāng-kiû)	dawangqiu	100
 打網球的時候☞Phah bāng-kiû ê-sî kha-bé ài sió-khuá khut lo̍h-khì	dawangqiudeshihou	100
+大王椰子☞tāi-ông-ia-tsí	dawangyezi	100
 大衛☞Tāi-pi̍t	dawei	100
 大衛☞大闢 (Tāi-pi̍t)	dawei	100
 大未必佳☞花開滿天芳結子才驚人 (hue khui muá-thiⁿ phang   kiat-tsí tsiah kiaⁿ-lâng)	daweibijia	100
@@ -31987,7 +31986,6 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 大約☞liōng-kî-iok	dayue	100
 大約☞量其約 (liōng-kî-iok)	dayue	100
 大約☞量其約仔 (liōng-kî-iok-á)	dayue	100
-大約☞量其約仔 (liōng-kî-iok-á)	dayue	100
 大約☞頗其略 (phóo-kî-lia̍k)	dayue	100
 大約☞頗其略仔 (phóo-kî-lia̍k)	dayue	100
 大約☞頗其略仔 (phóo-kî-lio̍k-á)	dayue	100
@@ -32562,7 +32560,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 登科☞登科 (ting-kho)	dengke	100
 等類☞tíng-iūi	denglei	100
 燈類之一☞ting-kâu	dengleizhiyi	100
-鄧麗君☞鄧麗君 (Tīng Lê-kun)	denglijun	100
+鄧麗君☞鄧麗君 (Tīng Lê-kun)	denglijun	100
 燈籠☞鼓仔燈 (kóo-á-ting)	denglong	100
 燈籠☞kóo-á-ting	denglong	100
 燈籠☞掛燈 (kuà-ting)	denglong	100
@@ -33258,11 +33256,11 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 店戶☞tiàm-hōo	dianhu	100
 電弧☞電火花 (tiān-hé-hue)	dianhu	100
 電弧☞電弧 (tiān-hô͘o)	dianhu	100
+電弧☞電火花 (tiān-hér-hue)	dianhu	100
 電弧☞電弧 (tiān-hôo)	dianhu	100
 佃戶☞tiān-hōo	dianhu	100
 佃戶☞佃戶 (tiān-hōo)	dianhu	100
 電弧☞電火花 (tiān-hué-hue)	dianhu	100
-電弧☞電火花 (tiān-hér-hue)	dianhu	100
 點化☞開破 (khui-phuà)	dianhua	100
 電化☞tiān-huà	dianhua	100
 電化☞電化 (tiān-huà)	dianhua	100
@@ -33807,8 +33805,8 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 電子菸☞電子薰 (tiān-tsú-hun)	dianziyan	100
 電子菸☞電子薰 (tiān-tsír-hun)	dianziyan	100
 電子菸☞電薰 (tiān-hun)	dianziyan	100
-電子業☞電子業 (tiān-tsír-gia̍p)	dianziye	100
-電子業☞電子業 (tiān-tsú-gia̍p)	dianziye	100
+電子業☞電子業 (tiān-tsír-gia̍p)	dianziye	100
+電子業☞電子業 (tiān-tsú-gia̍p)	dianziye	100
 電子音樂☞電子音樂 (tiān-tsú im-ga̍k)	dianziyinle	100
 電子郵件☞數碼批 (sòo-má-phue)	dianziyoujian	100
 電子郵件☞電子郵件 (tiān-tsú iû-kiāⁿ)	dianziyoujian	100
@@ -34092,7 +34090,7 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 調理包☞調理包 (tiâu-lí-pau)	diaolibao	100
 弔離地☞tiàu-lī-tuē	diaolidi	100
 凋零☞蔫去 (lian--khì)	diaoling	100
-凋零☞凋零 (tiau-lîng)	diaoling	100
+凋零☞凋零 (tiau-lîng)	diaoling	100
 掉漏☞落溝 (làu-kau)	diaolou	100
 調露☞凍露水 (tàng-lōo-tsúi)	diaolu	100
 吊爐☞tiàu-lôo	diaolu	100
@@ -34247,8 +34245,8 @@ A菜☞萵仔菜 (ue-á-tshài)	cai	100
 吊上去☞縋 (lūi)	diaoshangqu	100
 吊上去☞lūi khí-khì	diaoshangqu	100
 吊上去☞縋 (lūi替)	diaoshangqu	100
+吊飾☞吊媠的 (tiàu-súi--ê)	diaoshi	100
 調適☞調適 (tiâu-sik)	diaoshi	100
-吊飾☞吊媠的 (tiàu-suí--ê)	diaoshi	100
 調時間☞撨時鐘 (tshiâu sî-tsing)	diaoshijian	100
 彫石獅☞phah tsio̍h-sai	diaoshishi	100
 調時鐘☞撨時鐘 (tshiâu sî-tsing)	diaoshizhong	100
@@ -34937,9 +34935,9 @@ long3蝶☞包葉蟲 (pau-hio̍h-thâng)	die	100
 地瓜絲☞番薯簽 (han-tsû-tshiam)	diguasi	100
 地瓜葉☞蕃藷葉 (han-tsî-hio̍h)	diguaye	100
 地瓜葉☞番薯葉 (han-tsî-hio̍h)	diguaye	100
-地瓜葉☞番薯葉仔 (han-tsî-hio̍h-á)	diguaye	100
+地瓜葉☞番薯葉仔 (han-tsî-hio̍h-á)	diguaye	100
 地瓜葉☞番薯葉 (han-tsû-hio̍h)	diguaye	100
-地瓜葉☞番薯葉仔 (han-tsû-hio̍h-á)	diguaye	100
+地瓜葉☞番薯葉仔 (han-tsû-hio̍h-á)	diguaye	100
 地瓜葉☞過溝菜 (kè-kau-tshài)	diguaye	100
 地瓜葉☞過溝菜 (kuè-kau-tshài)	diguaye	100
 地瓜葉☞豬菜 (ti-tshài)	diguaye	100
@@ -35852,12 +35850,11 @@ long3蝶☞包葉蟲 (pau-hio̍h-thâng)	die	100
 地頭☞地盤 (tē-puâⁿ)	ditou	100
 地頭☞地頭 (tē-thâu)	ditou	100
 低頭☞頭犁犁 (thâu lê-lê)	ditou	100
-低頭☞頭犁犁 (thâu luê-luê)	ditou	100
 低頭☞頭犁犁 (thâu lerê-lerê)	ditou	100
+低頭☞頭犁犁 (thâu luê-luê)	ditou	100
 低頭☞thâu-khak tshih-tshih	ditou	100
 低頭☞thâu-khak lê-lê	ditou	100
 蒂頭☞蒂頭 (tì-thâu)	ditou	100
-蒂頭☞蒂頭 (tì-thâu)	ditou	100
 地頭☞地界 (tuē-kài)	ditou	100
 地頭☞地盤 (tuē-puâⁿ)	ditou	100
 地頭☞地頭 (tuē-thâu)	ditou	100
@@ -36564,7 +36561,6 @@ long3蝶☞包葉蟲 (pau-hio̍h-thâng)	die	100
 東方正教☞Tong-hong Tsìng-kàu	dongfangzhengjiao	100
 冬粉☞冬粉 (tang-hún)	dongfen	100
 冬粉☞tang-hún	dongfen	100
-冬粉☞冬粉 (tang-hún)	dongfen	100
 東風☞春風 (tshun-hong)	dongfeng	100
 東風☞東風 (tang-hong)	dongfeng	100
 東風☞tang-hong	dongfeng	100
@@ -36664,7 +36660,7 @@ long3蝶☞包葉蟲 (pau-hio̍h-thâng)	die	100
 棟樑☞tòng-liông	dongliang	100
 棟梁☞棟梁 (tòng-liông)	dongliang	100
 棟樑☞棟樑 (tòng-niû)	dongliang	100
-動量☞動量 (tōng-liōng)	dongliang	100
+動量☞動量 (tōng-liōng)	dongliang	100
 棟樑之才☞tòng-liông tsi tsâi	dongliangzhicai	100
 棟梁之才☞棟梁之才 (tòng-liông-tsi-tsâi)	dongliangzhicai	100
 動力的供給☞tōng-li̍k ê kiòng-kip	donglidegonggei	100
@@ -40385,9 +40381,9 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 耳機☞耳仔訪 (hīⁿ-á-hóng)	erji	100
 耳機☞耳仔機 (hīⁿ-á-ki)	erji	100
 耳機☞耳風 (hīⁿ-hong)	erji	100
+耳機☞耳訪 (hīⁿ-hóng)	erji	100
 耳機☞耳機 (hīⁿ-ki)	erji	100
 耳機☞hīⁿ-ki	erji	100
-耳機☞耳訪 (hīⁿ-hóng)	erji	100
 耳機☞ní-ki	erji	100
 耳尖☞耳孔利 (hīⁿ-khang-lāi)	erjian	100
 二結☞二結 (Jī-kiat)	erjie	100
@@ -42648,6 +42644,10 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 放下身段☞放落軟 (pàng-lo̍h-nńg)	fangxiashenduan	100
 放下屠刀☞Hòng hā tôo-to li̍p tē sîng hu̍t	fangxiatudao	100
 放下心來☞落心 (lo̍h-sim)	fangxiaxinlai	100
+放血☞kuah-hueh	fangxie	100
+放血☞放血 (pàng-hueh)	fangxie	100
+放血☞pàng-hueh	fangxie	100
+放血☞放血 (pàng-huih)	fangxie	100
 放心☞安心 (an-sim)	fangxin	100
 放心☞an-sim	fangxin	100
 芳心☞hong-sim	fangxin	100
@@ -42666,11 +42666,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 方形口徑之木材☞kak-á	fangxingkoujingzhimucai	100
 方興未艾☞方興未艾 (hong-hing-bī-ngāi)	fangxingweiai	100
 芳心無主☞hong-sim bû-tsú	fangxinwuzhu	100
-放血☞kuah-hueh	fangxue	100
 放學☞放暇 (pàng-hē)	fangxue	100
-放血☞放血 (pàng-hueh)	fangxue	100
-放血☞pàng-hueh	fangxue	100
-放血☞放血 (pàng-huih)	fangxue	100
 放學☞pàng-o̍h	fangxue	100
 放學☞放學 (pàng-o̍h)	fangxue	100
 放學☞放冬 (pàng-tang)	fangxue	100
@@ -44434,7 +44430,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 非驢非馬☞m̄-tsiâⁿ-kàu-kúi	feilvfeima	100
 非賣品☞hui-bē-phín	feimaipin	100
 非賣品☞hui-buē-phín	feimaipin	100
-肥貓☞肥貓 (puî-niau)	feimao	100
+肥貓☞肥貓 (pûi-niau)	feimao	100
 飛毛腿☞飛毛腿 (hui-mn̂g-thúi)	feimaotui	100
 飛毛腿☞hui-môo-thúi	feimaotui	100
 肥美☞pûi-súi	feimei	100
@@ -45533,7 +45529,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 奉命出差☞hōng-tshe	fengmingchuchai	100
 蜂蜜檸檬☞檸檬蜜 (lê-bóng-bi̍t)	fengminingmeng	100
 蜂蜜檸檬☞檸檬蜜茶 (lê-bóng-bi̍t-tê)	fengminingmeng	100
-蜂蜜檸檬☞蜂蜜檸檬 (phang-bi̍t-lê-bóng)	fengminingmeng	100
+蜂蜜檸檬☞蜂蜜檸檬 (phang-bi̍t-lê-bóng)	fengminingmeng	100
 風魔☞魔神 (môo-sîn)	fengmo	100
 瘋魔☞魔神 (môo-sîn)	fengmo	100
 風魔☞siáu	fengmo	100
@@ -45650,15 +45646,15 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 豐潤☞肥潤 (pûi-lūn)	fengrun	100
 豐潤☞肥軟 (pûi-nńg)	fengrun	100
 風弱☞風回回 (hong hê-hê)	fengruo	100
-風弱☞風回回 (hong huê-huê)	fengruo	100
 風弱☞風回回 (hong hêr-hêr)	fengruo	100
+風弱☞風回回 (hong huê-huê)	fengruo	100
 風弱☞風較無遐透 (hong khah bô hiah thàu)	fengruo	100
 風弱☞風較回 (hong khah hê)	fengruo	100
-風弱☞風較回 (hong khah huê)	fengruo	100
 風弱☞風較回 (hong khah hêr)	fengruo	100
+風弱☞風較回 (hong khah huê)	fengruo	100
 風弱☞風較細港 (hong khah sè-káng)	fengruo	100
-風弱☞風較細港 (hong khah suè-káng)	fengruo	100
 風弱☞風較細港 (hong khah serè-káng)	fengruo	100
+風弱☞風較細港 (hong khah suè-káng)	fengruo	100
 風弱☞風較恬 (hong khah tiām)	fengruo	100
 風弱☞風變軟 (hong piàn nńg)	fengruo	100
 風弱☞風變軟 (hong piàn núi)	fengruo	100
@@ -45853,7 +45849,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 蜂王☞母蜂 (bó-phang)	fengwang	100
 蜂王☞phang-ông	fengwang	100
 蜂王☞蜂王 (phang-ông)	fengwang	100
-蜂王乳☞蜂王奶 (phang-ông-ling)	fengwangru	100
+蜂王乳☞蜂王奶 (phang-ông-ling)	fengwangru	100
 蜂王乳（漿）☞phang-ông-ling	fengwangrujiang	100
 風尾☞風尾 (hong-bé)	fengwei	100
 風味☞風味 (hong-bī)	fengwei	100
@@ -47359,8 +47355,8 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 婦科☞婦科 (hū-kho)	fuke	100
 婦科醫生☞hū-kho i-sing	fukeyisheng	100
 府庫☞hú-khòo	fuku	100
+浮誇☞譀呱呱 (hàm-kuā-kuā)	fukua	100
 浮誇☞譀浡 (hàm-phu̍h)	fukua	100
-浮誇☞譀呱呱 (hàm-kuā-kuā)	fukua	100
 浮誇☞風譀 (hong-hàm)	fukua	100
 浮誇☞風謗 (hong-pòng)	fukua	100
 浮誇☞浮譀 (hôo-hàm)	fukua	100
@@ -48013,10 +48009,10 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 複習☞復習 (ho̍k-si̍p)	fuxi	100
 複習☞複習 (ho̍k-si̍p)	fuxi	100
 復習☞ho̍k-si̍p	fuxi	100
+輔系☞輔系 (hú-hē)	fuxi	100
 付息☞hù-sik	fuxi	100
 付洗☞hù-sián	fuxi	100
 伏羲☞伏羲 (Hū-hi)	fuxi	100
-輔系☞輔系 (hú-hē)	fuxi	100
 複習☞餾 (liū)	fuxi	100
 復習☞liū	fuxi	100
 復習☞餾 (liū)	fuxi	100
@@ -49251,8 +49247,8 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 岡梅☞萬點金 (bān-tiám-kim)	gangmei	100
 崗梅☞秤星木 (tshìn-tsheⁿ-bo̍k)	gangmei	100
 崗梅☞冬青 (tang-tsheⁿ)	gangmei	100
-肛門☞尾口 (bué-kháu)	gangmen	100
 肛門☞尾口 (bér-kháu)	gangmen	100
+肛門☞尾口 (bué-kháu)	gangmen	100
 肛門☞雨傘襇 (hōo-suàⁿ-kíng)	gangmen	100
 肛門☞肛門 (kāng-mn̂g)	gangmen	100
 肛門☞kha-tshng	gangmen	100
@@ -50117,11 +50113,11 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 高貴的人☞ko-kùi ê lâng	gaoguideren	100
 搞鬼作怪☞tsò-kúi tsò-kuài	gaoguizuoguai	100
 糕粿☞粿路 (ké-lōo)	gaoguo	100
-糕粿☞粿路 (kué-lōo)	gaoguo	100
 糕粿☞粿路 (kér-lōo)	gaoguo	100
+糕粿☞粿路 (kué-lōo)	gaoguo	100
 糕粿類☞粿路 (ké-lōo)	gaoguolei	100
-糕粿類☞粿路 (kué-lōo)	gaoguolei	100
 糕粿類☞粿路 (kér-lōo)	gaoguolei	100
+糕粿類☞粿路 (kué-lōo)	gaoguolei	100
 高呼☞ko-hoo	gaohu	100
 高呼☞大聲喝 (tuā-siaⁿ-huah)	gaohu	100
 搞壞☞㾀 (khiap)	gaohuai	100
@@ -50929,7 +50925,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 給他施洗禮☞kā i sé-lé	geitashixili	100
 給他一個耳光☞sai tsi̍t ē- hōo i	geitayigeerguang	100
 給他佔那麼便宜☞Hōo i phiⁿ hiah tsē bô kap i kiù-sú ná ē-īng-tit?	geitazhannamepianyi	100
-給我☞予我 (hōo--guá)	geiwo	100
+給我☞予我 (hōo--guá)	geiwo	100
 給我緩三天。☞Hōo guá uān saⁿ ji̍t	geiwohuansantian	100
 給我們解決這個問題。☞Pài-thok lí tsò-tsú, kā guán kái-kuat tsit ê būn-tê	geiwomenjiejuezhegewenti	100
 給我們欣賞一下。☞Tshiáⁿ lí tshiùⁿ tsi̍t tiâu kua hōo guán him-sióng tsi̍t ē	geiwomenxinshangyixia	100
@@ -51202,7 +51198,7 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 更動☞更動 (king-tōng)	gengdong	100
 更動☞振動 (tín-tāng)	gengdong	100
 耕讀☞耕讀 (king-tho̍k)	gengdu	100
-更多☞較濟 (khah tsē)	gengduo	100
+更多☞較濟 (khah tsē)	gengduo	100
 更多☞khah-tsē	gengduo	100
 更多☞khah-ke	gengduo	100
 羹飯☞菜羹飯 (tshài-keⁿ-pn̄g)	gengfan	100
@@ -53244,8 +53240,8 @@ m5r耳☞僕耳腔 (phak-hī-khang)	er	100
 狗窩☞狗岫 (káu-siū)	gouwo	100
 狗窩☞káu-siū	gouwo	100
 狗窩☞káu-tiâu	gouwo	100
+購物☞買物 (bé-bu̍t)	gouwu	100
 購屋☞買厝 (bé-tshù)	gouwu	100
-購物☞買物 (bé-bu̍t)	gouwu	100
 垢汙☞垢潔鉎 (káu-kueh-sian)	gouwu	100
 購物☞購物 (kòo-bu̍t)	gouwu	100
 購物袋☞加薦仔 (ka-tsì-á)	gouwudai	100
@@ -53841,7 +53837,7 @@ tu2枴杖☞撞枴仔 (tōng-kuái-á)	guaizhang	100
 棺材☞壽枋 (siū-pang)	guancai	100
 棺材☞大厝 (tuā-tshù)	guancai	100
 棺材☞大壽 (tuā-siū)	guancai	100
-棺材板☞棺柴枋 (kuaⁿ-tshâ-pang)	guancaiban	100
+棺材板☞棺柴枋 (kuaⁿ-tshâ-pang)	guancaiban	100
 棺材店☞pán-tiám	guancaidian	100
 觀測☞觀測 (kuan-tshik)	guance	100
 觀測☞kuan-tshik	guance	100
@@ -54189,7 +54185,7 @@ X光片☞電光片 (tiān-kong-phìⁿ)	guangpian	100
 光身子☞thǹg-tshiah-theh	guangshenzi	100
 光是☞kian-ta	guangshi	100
 x光室☞tiān-long-sik	guangshi	100
-逛市場☞踅菜市仔 (se̍h tshài-tshī-á)	guangshichang	100
+逛市場☞踅菜市仔 (se̍h tshài-tshī-á)	guangshichang	100
 光說不練☞用嘴限 (iōng-tshùi-ān)	guangshuobulian	100
 光說不練☞空喙哺舌 (khang-tshùi-pōo-tsi̍h)	guangshuobulian	100
 光速☞kng-sok	guangsu	100
@@ -55317,8 +55313,8 @@ x光室☞tiān-long-sik	guangshi	100
 歸服☞kui-ho̍k	guifu	100
 貴府☞貴府 (kúi-hú)	guifu	100
 貴府☞kùi-hú	guifu	100
+貴婦☞貴婦人 (kùi-hū-lâng)	guifu	100
 跪伏☞kūi-phak	guifu	100
-貴婦☞貴婦人 (kuì-hū-lâng)	guifu	100
 貴夫人☞阿奶娘 (a-nái-niû)	guifuren	100
 貴夫人☞貴夫人 (kùi-hu-jîn)	guifuren	100
 鬼附身☞kúi hū-sin	guifushen	100
@@ -55349,8 +55345,8 @@ x光室☞tiān-long-sik	guangshi	100
 鬼鬼祟祟☞ku-ku sui-sui	guiguisuisui	100
 鬼鬼祟祟☞kúi-kúi sūi-sūi	guiguisuisui	100
 龜粿☞龜粿 (ku-ké)	guiguo	100
-龜粿☞龜粿 (ku-kué)	guiguo	100
 龜粿☞龜粿 (ku-kér)	guiguo	100
+龜粿☞龜粿 (ku-kué)	guiguo	100
 歸國☞kui-kok	guiguo	100
 歸國☞歸國 (kui-kok)	guiguo	100
 貴國☞kùi kok	guiguo	100
@@ -55387,7 +55383,7 @@ x光室☞tiān-long-sik	guangshi	100
 鬼魂☞亡魂 (bông-hûn)	guihun	100
 鬼混☞hàiⁿ-lān	guihun	100
 鬼魂☞kúi-hûn	guihun	100
-鬼混☞浪流連 (lōng-liû-liân)	guihun	100
+鬼混☞浪流連 (lōng-liû-liân)	guihun	100
 鬼混☞賴賴趖 (luā-luā-sô)	guihun	100
 鬼混☞摸飛 (moo-hui)	guihun	100
 鬼火☞kúi-á-hué	guihuo	100
@@ -55476,7 +55472,7 @@ x光室☞tiān-long-sik	guangshi	100
 龜裡椹☞龜裡椹 (ku-lí-tsim)	guilishen	100
 龜裡椹☞過山香 (kuè-suaⁿ-hiuⁿ)	guilishen	100
 鬼柳根☞kúi-liú-kun	guiliugen	100
-龜鹿二仙膠☞龜鹿二仙膠 (ku-lo̍k-jī-sián-ka)	guiluerxianjiao	100
+龜鹿二仙膠☞龜鹿二仙膠 (ku-lo̍k-jī-sián-ka)	guiluerxianjiao	100
 龜崙社☞龜崙社 (Ku-lun-siā)	guilunshe	100
 規律☞約束 (iok-sok)	guilv	100
 規律☞kui-lu̍t	guilv	100
@@ -56657,9 +56653,9 @@ x光室☞tiān-long-sik	guangshi	100
 果盤☞果子盤 (kué-tsí-puâⁿ)	guopan	100
 國賠☞國賠 (kok-pê)	guopei	100
 國賠☞國賠 (kok-puê)	guopei	100
+果皮☞果子皮 (kér-tsí-phêr)	guopi	100
 果皮☞kué-tsí-phuê	guopi	100
 果皮☞果子皮 (kué-tsí-phuê)	guopi	100
-果皮☞果子皮 (kér-tsí-phêr)	guopi	100
 國片☞國片 (kok-phìⁿ)	guopian	100
 果皮箱☞果皮箱 (kué-phuê-siuⁿ)	guopixiang	100
 國破家亡☞kok phò ka bông	guopojiawang	100
@@ -56737,8 +56733,8 @@ x光室☞tiān-long-sik	guangshi	100
 過日子☞過日 (kuè-ji̍t)	guorizi	100
 過日子☞過日子 (kuè-ji̍t-tsí)	guorizi	100
 過日子☞度日子 (tōo-ji̍t-tsí)	guorizi	100
-果肉☞果子肉 (kué-tsí-bah)	guorou	100
 果肉☞果子肉 (kér-tsí-bah)	guorou	100
+果肉☞果子肉 (kué-tsí-bah)	guorou	100
 果肉一瓣☞bān	guorouyiban	100
 國喪☞kok-song	guosang	100
 國色天香☞kok-sik thian-hiong	guosetianxiang	100
@@ -56828,6 +56824,8 @@ x光室☞tiān-long-sik	guangshi	100
 國書☞國書 (kok-su)	guoshu	100
 國術☞kok-su̍t	guoshu	100
 國術☞國術 (kok-su̍t)	guoshu	100
+果樹☞果子欉 (kér-tsí-tsâng)	guoshu	100
+果樹☞果子樹 (kér-tsí-tshiū)	guoshu	100
 果樹☞kué-tsí-tsâng	guoshu	100
 果樹☞果子欉 (kué-tsí-tsâng)	guoshu	100
 果樹☞果子樹 (kué-tsí-tshiū)	guoshu	100
@@ -56839,8 +56837,6 @@ x光室☞tiān-long-sik	guangshi	100
 過熟☞kuè-si̍k	guoshu	100
 過熟☞過熟 (kuè-si̍k)	guoshu	100
 國術☞kûn-thâu	guoshu	100
-果樹☞果子欉 (kér-tsí-tsâng)	guoshu	100
-果樹☞果子樹 (kér-tsí-tshiū)	guoshu	100
 鍋刷☞棕筅 (tsang-tshíng)	guoshua	100
 鍋刷☞竹筅 (tik-tshíng)	guoshua	100
 鍋刷☞鼎摖 (tiáⁿ-tshè)	guoshua	100
@@ -57025,15 +57021,15 @@ x光室☞tiān-long-sik	guangshi	100
 果園☞果子園 (ké-tsí-hn̂g)	guoyuan	100
 果園☞ké-tsí-thah	guoyuan	100
 果園☞果園 (ké-hn̂g)	guoyuan	100
+果園☞果子園 (kér-tsí-hn̂g)	guoyuan	100
+果園☞果子宅 (kér-tsí-the̍h)	guoyuan	100
+果園☞果園 (kér-hn̂g)	guoyuan	100
 果園☞kué-tsí-hn̂g	guoyuan	100
 果園☞果子園 (kué-tsí-hn̂g)	guoyuan	100
 果園☞kué-tsí-the̍h	guoyuan	100
 果園☞果子宅 (kué-tsí-the̍h)	guoyuan	100
 果園☞果園 (kué-hn̂g)	guoyuan	100
 果園☞果園 (kué-hûiⁿ)	guoyuan	100
-果園☞果子園 (kér-tsí-hn̂g)	guoyuan	100
-果園☞果子宅 (kér-tsí-the̍h)	guoyuan	100
-果園☞果園 (kér-hn̂g)	guoyuan	100
 鍋緣☞tiáⁿ-tûn	guoyuan	100
 郭元益糕餅博物館☞郭元益糕餅博物館 (Kueh Guân-ik Ko-piáⁿ Phok-bu̍t-kuán)	guoyuanyigaobingbowuguan	100
 過於成熟☞過分 (kè-hun)	guoyuchengshu	100
@@ -57076,12 +57072,12 @@ x光室☞tiān-long-sik	guangshi	100
 果汁☞果汁 (ké-tsiap)	guozhi	100
 果汁☞kó-tsiap	guozhi	100
 果汁☞果汁 (kó-tsiap)	guozhi	100
+果汁☞果汁 (kér-tsap)	guozhi	100
+果汁☞果子汁 (kér-tsí-tsap)	guozhi	100
 果汁☞kué-tsí-tsiap	guozhi	100
 果汁☞果子汁 (kué-tsí-tsiap)	guozhi	100
 果汁☞果汁 (kué-tsiap)	guozhi	100
 過枝☞kuè-ue	guozhi	100
-果汁☞果汁 (kér-tsap)	guozhi	100
-果汁☞果子汁 (kér-tsí-tsap)	guozhi	100
 果汁機☞ká-tsiap-ki	guozhiji	100
 果汁機☞ko-tsiap-ki	guozhiji	100
 果汁機☞果汁機 (kó-tsiap ki)	guozhiji	100
@@ -57106,10 +57102,10 @@ x光室☞tiān-long-sik	guangshi	100
 鍋子☞鼎仔 (tiáⁿ-á)	guozi	100
 鍋子☞ue-á	guozi	100
 鍋子☞鍋仔 (ue-á)	guozi	100
-果子醬☞果子醬 (kué-tsí-tsiòⁿ)	guozijiang	100
-果子醬☞果子膏 (kué-tsí-ko)	guozijiang	100
 果子醬☞果子醬 (kér-tsí-tsiùⁿ)	guozijiang	100
 果子醬☞果子膏 (kér-tsí-ko)	guozijiang	100
+果子醬☞果子醬 (kué-tsí-tsiòⁿ)	guozijiang	100
+果子醬☞果子膏 (kué-tsí-ko)	guozijiang	100
 果子醬☞苒 (liám)	guozijiang	100
 果子貍☞水果猫 (tsúi-kó-bâ)	guozili	100
 果子貍☞果子猫 (ké-tsí-bâ)	guozili	100
@@ -57901,7 +57897,7 @@ x光室☞tiān-long-sik	guangshi	100
 海軍中校☞hái-kun tiong-hāu	haijunzhongxiao	100
 海軍總司令☞hái-kun tsóng-su-līng	haijunzongsiling	100
 海軍總司令部☞hái-kun tsóng-su-līng-pōo	haijunzongsilingbu	100
-駭客☞械客 (hāi-kheh)	haike	100
+駭客☞械客 (hāi-kheh)	haike	100
 還可以☞bóng-bóng-á	haikeyi	100
 還可以☞猶會使 (iáu-ē-sái)	haikeyi	100
 還可以☞Nā tsi̍t nn̄g ji̍t iáu hó	haikeyi	100
@@ -58745,8 +58741,6 @@ x光室☞tiān-long-sik	guangshi	100
 行情☞行情 (hâng-tsîng)	hangqing	100
 航權☞航權 (hâng-khuân)	hangquan	100
 航權☞航權 (hông-kuân)	hangquan	100
-行商☞走水的 (tsáu-tsúi-ê)	hangshang	100
-行商☞行商 (hîng-siong)	hangshang	100
 行市☞hâng-tshī	hangshi	100
 航速☞航速 (hâng-sok)	hangsu	100
 汗褂兒☞紗仔衫 (se-á-saⁿ)	hanguaer	100
@@ -59544,7 +59538,7 @@ x光室☞tiān-long-sik	guangshi	100
 好可愛☞足古錐 (tsiok kóo-tsui)	haokeai	100
 好口才☞好口才 (hóo-kháu-tsâi)	haokoucai	100
 好口才☞好口舌 (hóo-kháu-sia̍t)	haokoucai	100
-好口角的☞sia̍t-phuat	haokoujuede	100
+好口角的☞sia̍t-phuat	haokoujiaode	100
 號哭☞開聲哭 (khui-siaⁿ-khàu)	haoku	100
 好萊塢☞好萊塢 (Hó-lâi-ù)	haolaiwu	100
 好萊塢☞荷里聿 (Hô-lí-u̍t)	haolaiwu	100
@@ -59945,7 +59939,7 @@ x光室☞tiān-long-sik	guangshi	100
 好在☞佳哉 (ka-tsài)	haozai	100
 好在☞該哉 (kai-tsài)	haozai	100
 蒿仔菜☞e-á-tshài	haozaicai	100
-豪宅☞好額厝 (hó-gia̍h-tshù)	haozhai	100
+豪宅☞好額厝 (hó-gia̍h-tshù)	haozhai	100
 好戰☞hòⁿ-tsiàn	haozhan	100
 好戰☞好戰 (hòⁿ-tsiàn)	haozhan	100
 號召☞hō-tiàu	haozhao	100
@@ -60251,7 +60245,7 @@ x光室☞tiān-long-sik	guangshi	100
 河底☞河底 (hô-té)	hedi	100
 河堤☞河堤 (hô-thê)	hedi	100
 闔第☞khap-ka	hedi	100
-河堤☞溪仔墘 (khe-á-kîⁿ)	hedi	100
+河堤☞溪仔墘 (khe-á-kîⁿ)	hedi	100
 河堤☞溪岸 (khe-huāⁿ)	hedi	100
 河堤☞溪崁 (khe-khàm)	hedi	100
 河堤☞駁岸 (poh-huāⁿ)	hedi	100
@@ -60505,8 +60499,8 @@ x光室☞tiān-long-sik	guangshi	100
 黑腹虎頭蜂☞雞籠蜂 (kere-lang-phang)	heifuhutoufeng	100
 黑腹虎頭蜂☞雞籠蜂 (kue-lang-phang)	heifuhutoufeng	100
 黑腹虎頭蜂☞烏尾仔 (oo-bé-á)	heifuhutoufeng	100
-黑腹虎頭蜂☞烏尾仔 (oo-bué-á)	heifuhutoufeng	100
 黑腹虎頭蜂☞烏尾仔 (oo-bér-á)	heifuhutoufeng	100
+黑腹虎頭蜂☞烏尾仔 (oo-bué-á)	heifuhutoufeng	100
 黑復燕鷗☞tshiu-phû-oo	heifuyanou	100
 黑復燕鷗☞hue-thâu-sió-iàn-oo	heifuyanou	100
 黑腹燕鷗☞oo-tóo-iàn-oo	heifuyanou	100
@@ -61456,7 +61450,7 @@ x光室☞tiān-long-sik	guangshi	100
 很誇張☞真譀 (tsin hàm)	henkuazhang	100
 很困難☞tsin khùn-lân	henkunnan	100
 很老（肉）☞lūn-pòo-pòo	henlaorou	100
-很累☞誠忝 (tsiâⁿ-thiám)	henlei	100
+很累☞誠忝 (tsiâⁿ-thiám)	henlei	100
 很累☞tsin thiám-thâu	henlei	100
 很累☞真忝 (tsin-thiám)	henlei	100
 很冷☞足冷 (tsiok líng)	henleng	100
@@ -62468,8 +62462,6 @@ x光室☞tiān-long-sik	guangshi	100
 猴☞著猴爽 (tio̍h-kâu-sńg)	hou	100
 厚愛☞hōo-ài	houai	100
 厚愛☞厚愛 (hōo-ài)	houai	100
-厚薄☞厚薄 (kāu-po̍h)	houbao	100
-厚薄☞kāu-po̍h	houbao	100
 後輩☞後輩 (hiō-puè)	houbei	100
 後輩☞hiō-puè	houbei	100
 後輩☞hōo-puè	houbei	100
@@ -62486,6 +62478,8 @@ x光室☞tiān-long-sik	guangshi	100
 後備軍人☞hiō-pī-kun-jîn	houbeijunren	100
 後壁☞侯伯寮 (Hâu-peh-liâu)	houbi	100
 後壁寮☞侯伯寮 (Hâu-peh-liâu)	houbiliao	100
+厚薄☞厚薄 (kāu-po̍h)	houbo	100
+厚薄☞kāu-po̍h	houbo	100
 後補☞hāu-póo	houbu	100
 候補☞候補 (hāu-póo)	houbu	100
 候補☞hāu-póo	houbu	100
@@ -62850,8 +62844,8 @@ x光室☞tiān-long-sik	guangshi	100
 猴子☞魎哀 (lióng-aiⁿ)	houzi	100
 猴子☞躼尾仔 (lò-bé-á)	houzi	100
 猴子☞躼尾仔 (lò-bué-á)	houzi	100
-猴子稱大王☞kau-á-té bô hî, sam-kài-niû-á ûi ông	houzichengdaiwang	100
-猴子稱大王☞kau-á-tué bô hî, sam-kài-niû-á ûi ông	houzichengdaiwang	100
+猴子稱大王☞kau-á-té bô hî, sam-kài-niû-á ûi ông	houzichengdawang	100
+猴子稱大王☞kau-á-tué bô hî, sam-kài-niû-á ûi ông	houzichengdawang	100
 猴子當霸王☞將軍無佇得小鬼拍獵 (tsiong-kun bô tī tit  sió-kúi phah-la̍h)	houzidangbawang	100
 猴子當霸王☞水裡無魚三界娘仔為大 (tsúi lí bô hî  sam-kài-niû-á ūi tuā)	houzidangbawang	100
 猴子當霸王☞家內無貓鳥鼠會曲跤 (ka-lāi bô niau  niáu-tshí ē khiau-kha)	houzidangbawang	100
@@ -64658,9 +64652,9 @@ x光室☞tiān-long-sik	guangshi	100
 緩刑☞uān-hîng	huanxing	100
 緩刑☞緩刑 (uān-hîng)	huanxing	100
 歡欣鼓舞☞huan-him kóo-bú	huanxinguwu	100
-浣熊☞浣熊 (uān-hîm)	huanxiong	100
 浣熊☞洗手熊 (sé-tshiú-hîm)	huanxiong	100
 浣熊☞洗熊 (Sé-hîm)	huanxiong	100
+浣熊☞浣熊 (uān-hîm)	huanxiong	100
 歡喜五端☞Huaⁿ-hí Gōo-tuan	huanxiwuduan	100
 換牙☞褪牙 (thǹg-gê)	huanya	100
 換牙☞褪齒 (thǹg-khí)	huanya	100
@@ -65223,7 +65217,7 @@ x光室☞tiān-long-sik	guangshi	100
 蝴蝶☞蝶仔 (ia̍h-á)	hudie	100
 蝴蝶☞埔蛯 (poo-láu)	hudie	100
 蝴蝶花☞pe̍h-bé-ia̍h-hue	hudiehua	100
-蝴蝶結☞tsiű-tsiú	hudiejie	100
+蝴蝶結☞tsiű-tsiú	hudiejie	100
 蝴蝶結☞蝶仔結 (ia̍h-á-kat)	hudiejie	100
 蝴蝶蘭☞ia̍h-lân	hudielan	100
 蝴蝶蘭☞蝶蘭 (ia̍h-lân)	hudielan	100
@@ -67978,7 +67972,6 @@ x光室☞tiān-long-sik	guangshi	100
 胡說八道☞濫摻講 (lām-sám-kóng)	hushuobadao	100
 胡說八道☞濫摻呾 (lām-sám-tàⁿ)	hushuobadao	100
 胡說八道☞練痟話 (liān-siáu-uē)	hushuobadao	100
-胡說八道☞uē-hóo-lān	hushuobadao	100
 胡說八道☞烏紅搭 (oo-âng-tah)	hushuobadao	100
 胡說八道☞烏魯木齊 (oo-lóo-bo̍k-tsè)	hushuobadao	100
 胡說八道☞烏白炸 (oo-pe̍h-tsuàⁿ)	hushuobadao	100
@@ -67989,6 +67982,7 @@ x光室☞tiān-long-sik	guangshi	100
 胡說八道☞四散講 (sì-suàⁿ-kóng)	hushuobadao	100
 胡說八道☞吐憐涎 (thòo-liân-siân)	hushuobadao	100
 胡說八道☞吐連涎 (thòo-liân-siân)	hushuobadao	100
+胡說八道☞uē-hóo-lān	hushuobadao	100
 虎死留皮☞lâng sí lâu miâ, hóo sí lâu phuê	husiliupi	100
 胡思亂想☞戇想 (gōng-siūⁿ)	husiluanxiang	100
 胡思亂想☞hôo-su luān-sióng	husiluanxiang	100
@@ -68004,7 +67998,7 @@ x光室☞tiān-long-sik	guangshi	100
 互送禮物☞sio-sàng	husongliwu	100
 互訴☞相告 (sio-kò)	husu	100
 胡荽☞芫荽 (iân-sui)	husui	100
-滸苔☞滸苔 (hóo-thî)	hutai	100
+滸苔☞滸苔 (hóo-thî)	hutai	100
 胡桃☞hu̍t-thô	hutao	100
 呼天叫地☞kiò-thiⁿ kiò-tē	hutianjiaodi	100
 呼天搶地☞哀爸叫母 (ai-pē-kiò-bú)	hutianqiangdi	100
@@ -68952,7 +68946,7 @@ x光室☞tiān-long-sik	guangshi	100
 價格☞價格 (kè-kik)	jiage	100
 價格☞kè-siàu	jiage	100
 價格☞價數 (kè-siàu)	jiage	100
-價格大跌☞大落價 (tuā lo̍h-kè)	jiagedadie	100
+價格大跌☞大落價 (tuā lo̍h-kè)	jiagedadie	100
 加給☞加給 (ka-kip)	jiagei	100
 嫁給☞嫁互 (kè-hōo)	jiagei	100
 價格有差☞錢走縒 (tsîⁿ-tsáu-tsua̍h)	jiageyoucha	100
@@ -68960,8 +68954,8 @@ x光室☞tiān-long-sik	guangshi	100
 加工☞加工 (ka-kang)	jiagong	100
 加工☞過成 (kè-tsiâⁿ)	jiagong	100
 夾攻☞kiap-kong	jiagong	100
-加工☞過成 (kuè-tsiâⁿ)	jiagong	100
 加工☞過成 (kèr-tsiâⁿ)	jiagong	100
+加工☞過成 (kuè-tsiâⁿ)	jiagong	100
 夾攻☞雙頭夾 (siang-thâu-kiap)	jiagong	100
 加工廠☞加工廠 (ka-kang-tshiúⁿ)	jiagongchang	100
 加工出口區☞ka-kang tshut-kháu-khu	jiagongchukouqu	100
@@ -68982,7 +68976,6 @@ x光室☞tiān-long-sik	guangshi	100
 嫁狗隨狗☞Kè ke tuè ke pue, kè káu tuè káu tsáu	jiagousuigou	100
 嫁狗隨狗☞tuè ke pue, tuè káu tsáu, tuè khit-tsia̍h kuāⁿ ka-tsí tsáu	jiagousuigou	100
 甲溝炎☞㨂甲 (tàng-kah)	jiagouyan	100
-甲溝炎☞㨂甲 (tàng-kah)	jiagouyan	100
 胛骨☞飯匙骨 (pn̄g-sî-kut)	jiagu	100
 加冠☞ka-kuan	jiaguan	100
 加冠晉祿☞ka-kuan tsìn-lo̍k	jiaguanjinlu	100
@@ -69143,7 +69136,7 @@ x光室☞tiān-long-sik	guangshi	100
 家裏如無貓☞Ke-lāi nā bô bâ, niáu-tshí ē khiau-kha	jialiruwumao	100
 家裡無貓☞Ke-lāi bô bâ, niáu-tshí ē khiau-kha	jialiwumao	100
 佳里鎮☞佳里區 (Ka-lí-khu)	jializhen	100
-家裡子女☞厝內囝兒 (tshù-lāi kiáⁿ-jî)	jializinv	100
+家裡子女☞厝內囝兒 (tshù-lāi kiáⁿ-jî)	jializinv	100
 加祿☞加祿 (Ka-lo̍k)	jialu	100
 家亂萬世窮。☞Ka hô bān-sū sîng, ka luān bān-sì kîng	jialuanwanshiqiong	100
 加侖☞ka-lûn	jialun	100
@@ -71087,7 +71080,7 @@ x光室☞tiān-long-sik	guangshi	100
 簡寫☞tiah-kán	jianxie	100
 間歇熱☞kan-hat-jia̍t	jianxiere	100
 間歇熱☞間日的瘧疾 (kàn-ji̍t ê gio̍k-tsi̍t)	jianxiere	100
-間歇痛☞搐搐彈 (tiuh-tiuh-tuāⁿ)	jianxietong	100
+間歇痛☞搐搐彈 (tiuh-tiuh-tuāⁿ)	jianxietong	100
 間歇性☞kan-hat-sìng	jianxiexing	100
 間歇性☞間歇性 (kàn-hioh-sìng)	jianxiexing	100
 見習護士☞kiàn-si̍p hōo-sū	jianxihushi	100
@@ -73646,7 +73639,6 @@ x光室☞tiān-long-sik	guangshi	100
 祭拜土地公）☞thâu-gê	jibaitudigong	100
 羈絆☞纏絆 (tîⁿ-puàⁿ)	jiban	100
 覊絆☞纏絆 (tîⁿ-puàⁿ)	jiban	100
-瘠薄☞瘦 (sán)	jibao	100
 極薄的☞po̍h lì-lì	jibaode	100
 脊背☞胛脊 (ka-tsiah)	jibei	100
 脊背☞ka-tsiah-phiaⁿ	jibei	100
@@ -73690,6 +73682,7 @@ x光室☞tiān-long-sik	guangshi	100
 疾病纏身☞辛苦病疼 (sin-khóo-pīⁿ-thiàⁿ)	jibingchanshen	100
 疾病管制署☞疾病管制署 (tsi̍k-pēⁿ-kuán-tsè-sú)	jibingguanzhishu	100
 疾病管制署☞病管署 (pēⁿ-kuán-sú)	jibingguanzhishu	100
+瘠薄☞瘦 (sán)	jibo	100
 緝捕☞緝捕 (tship-póo)	jibu	100
 緝捕☞tship-pōo	jibu	100
 緝捕☞緝捕 (tsip-póo)	jibu	100
@@ -73881,10 +73874,10 @@ x光室☞tiān-long-sik	guangshi	100
 雞蛋☞雞卵 (ke-nūi)	jidan	100
 忌憚☞khī-tàn	jidan	100
 忌憚☞驚懍 (kiaⁿ-lún)	jidan	100
-雞蛋☞雞卵 (kere-nňg)	jidan	100
+雞蛋☞雞卵 (kere-nňg)	jidan	100
+雞蛋☞雞卵 (kue-nňg)	jidan	100
 雞蛋☞kue-nn̄g	jidan	100
 雞蛋☞雞卵 (kue-nn̄g)	jidan	100
-雞蛋☞雞卵 (kue-nňg)	jidan	100
 雞蛋☞雞卵 (kue-nūi)	jidan	100
 鷄蛋包☞ke-nn̄g pau	jidanbao	100
 雞蛋冰☞ke-nn̄g-ping	jidanbing	100
@@ -75574,7 +75567,7 @@ x光室☞tiān-long-sik	guangshi	100
 解憂☞kái iu-tshiû	jieyou	100
 解憂☞解憂 (kái-iu)	jieyou	100
 解憂☞解鬱 (kái-ut)	jieyou	100
-街友☞街友 (ke-iú)	jieyou	100
+街友☞街友 (ke-iú)	jieyou	100
 街友☞街友 (kue-iú)	jieyou	100
 街友☞流浪漢 (liû-lōng-hàn)	jieyou	100
 節育☞tsiat-io̍k	jieyu	100
@@ -76703,7 +76696,6 @@ x光室☞tiān-long-sik	guangshi	100
 進讒言☞燒歹話 (sio-pháiⁿ-uē)	jinchanyan	100
 進讒言☞燒話 (sio-uē)	jinchanyan	100
 晉朝☞tsìn-tiâu	jinchao	100
-今朝有酒☞Kim-tiau iú tsiú kim-tiau tsùi	jinchaoyoujiu	100
 金車☞金車 (kim-tshia)	jinche	100
 今晨☞今仔早起 (kin-á-tsá-khí)	jinchen	100
 進呈☞tsìn-thîng	jincheng	100
@@ -77391,7 +77383,7 @@ x光室☞tiān-long-sik	guangshi	100
 精靈☞精濟 (tsing-tsè)	jingling	100
 精靈☞精緊 (tsing-kín)	jingling	100
 精靈☞tsing-lîng	jingling	100
-精靈☞精靈 (tsing-lîng)	jingling	100
+精靈☞精靈 (tsing-lîng)	jingling	100
 警鈴☞kíng-lîng	jingling	100
 警鈴☞警鈴 (kíng-lîng)	jingling	100
 敬領☞kìng-líng	jingling	100
@@ -79266,6 +79258,7 @@ x光室☞tiān-long-sik	guangshi	100
 金盞花☞kim-tsuáⁿ-tsháu	jinzhanhua	100
 金盞花☞金盞草 (kim-tsuáⁿ-tsháu)	jinzhanhua	100
 金盞花☞金盞花 (kim-tsuáⁿ-hue)	jinzhanhua	100
+今朝有酒☞Kim-tiau iú tsiú kim-tiau tsùi	jinzhaoyoujiu	100
 今朝醉。☞Kim-tiau iú tsiú kim-tiau tsùi	jinzhaozui	100
 金針☞金針 (kim-tsiam)	jinzhen	100
 金針菜☞kim-tsiam	jinzhencai	100
@@ -80078,6 +80071,13 @@ x光室☞tiān-long-sik	guangshi	100
 臼齒☞大牙 (tuā-gê)	jiuchi	100
 酒池肉林☞tsiú-tî jio̍k-lîm	jiuchiroulin	100
 九齒扇蝦☞蝦蛄擗仔 (hê-koo-phia̍k-á)	jiuchishanxia	100
+九重炊☞九重炊 (káu-tîng-tshue)	jiuchongchui	100
+九重葛☞刺仔花 (tshì-á-hue)	jiuchongge	100
+九重葛☞葉似花 (ia̍p-sū-hue)	jiuchongge	100
+九重葛☞龜花 (ku-hue)	jiuchongge	100
+九重葛☞三角梅 (saⁿ-kak muê)	jiuchongge	100
+九重葛☞三角花 (saⁿ-kak-hue)	jiuchongge	100
+九重葛☞三角梅 (saⁿ-kak-mûi)	jiuchongge	100
 酒臭☞臭酒味 (tshàu-tsiú-bī)	jiuchou	100
 酒臭☞臭酒羶 (tshàu-tsiú-hiàn)	jiuchou	100
 酒臭☞酒羶 (tsiú-hiàn)	jiuchou	100
@@ -80229,13 +80229,13 @@ x光室☞tiān-long-sik	guangshi	100
 糾集☞瀉 (sià)	jiuji	100
 酒家☞tshài-tiàm	jiujia	100
 酒家☞菜店 (tshài-tiàm)	jiujia	100
+酒駕☞酒後開車 (tsiú-āu-khui-tshia)	jiujia	100
+酒駕☞酒後駛車 (tsiú-āu-sái-tshia)	jiujia	100
 酒家☞tsiú-ka	jiujia	100
 酒家☞酒家 (tsiú-ka)	jiujia	100
-酒駕☞酒後開車 (tsiú-āu-khui-tshia)	jiujia	100
-酒駕☞酒後駛車 (tsiú-āu-sái-tshia)	jiujia	100
-酒駕☞酒駕 (tsiú-kà)	jiujia	100
-酒駕☞酒駛 (tsiú-sái)	jiujia	100
-酒駕☞醉駛 (tsuì-sái)	jiujia	100
+酒駕☞酒駕 (tsiú-kà)	jiujia	100
+酒駕☞酒駛 (tsiú-sái)	jiujia	100
+酒駕☞醉駛 (tsùi-sái)	jiujia	100
 酒間☞tsiú-king	jiujian	100
 九降風☞káu-kàng-hong	jiujiangfeng	100
 九降風☞九降風 (káu-kàng-hong)	jiujiangfeng	100
@@ -80727,13 +80727,6 @@ x光室☞tiān-long-sik	guangshi	100
 就職（業）☞tsiū-tsit	jiuzhiye	100
 酒盅☞酒盞 (tsiú-tsuáⁿ)	jiuzhong	100
 糾眾☞糾眾 (kiù-tsiòng)	jiuzhong	100
-九重炊☞九重炊 (káu-tîng-tshue)	jiuzhongchui	100
-九重葛☞刺仔花 (tshì-á-hue)	jiuzhongge	100
-九重葛☞葉似花 (ia̍p-sū-hue)	jiuzhongge	100
-九重葛☞龜花 (ku-hue)	jiuzhongge	100
-九重葛☞三角梅 (saⁿ-kak muê)	jiuzhongge	100
-九重葛☞三角花 (saⁿ-kak-hue)	jiuzhongge	100
-九重葛☞三角梅 (saⁿ-kak-mûi)	jiuzhongge	100
 九州☞九州 (kiú-tsiu)	jiuzhou	100
 救助☞kiù-tsōo	jiuzhu	100
 救助☞救助 (kiù-tsōo)	jiuzhu	100
@@ -82066,8 +82059,8 @@ x光室☞tiān-long-sik	guangshi	100
 覺醒☞覺醒 (kak-tshéⁿ)	juexing	100
 覺醒☞kak-tshíⁿ	juexing	100
 覺醒☞想轉 (siūⁿ-tńg)	juexing	100
-覺醒青年☞覺醒青年 (kak-tshíⁿ tshing-liân)	juexingqingnian	100
-覺醒青年☞覺醒青年 (kak-tshé́ⁿ1 tshing-liân)	juexingqingnian	100
+覺醒青年☞覺醒青年 (kak-tshíⁿ tshing-liân)	juexingqingnian	100
+覺醒青年☞覺醒青年 (kak-tshé́ⁿ1 tshing-liân)	juexingqingnian	100
 決選☞決選 (kuat-suán)	juexuan	100
 絕學☞tsua̍t-ha̍k	juexue	100
 決意☞tsū-pān	jueyi	100
@@ -84903,7 +84896,7 @@ m2竣l☞sió-kīm-á	jun	100
 可樂餅☞khoo-lo̍k-kheh	kelebing	100
 可樂餅☞可吉卓 (khóo-kiat-toh)	kelebing	100
 可樂餅☞馬鈴薯炱 (má-lîng-tsû-te)	kelebing	100
-可樂餅☞馬鈴薯炱 (má-lîng-tsî-te)	kelebing	100
+可樂餅☞馬鈴薯炱 (má-lîng-tsî-te)	kelebing	100
 顆粒☞粒 (lia̍p)	keli	100
 可憐☞無捨施 (bô-siá-sì)	kelian	100
 可憐☞無捨世 (bô-siá-sì)	kelian	100
@@ -86076,14 +86069,50 @@ m2竣l☞sió-kīm-á	jun	100
 口技☞口技 (kháu-ki)	kouji	100
 扣減☞khàu-kiám	koujian	100
 扣減☞扣減 (khàu-kiám)	koujian	100
+口角☞諍喙 (tsèⁿ-tshùi)	koujiao	100
+口角☞tsèⁿ-tshùi	koujiao	100
+口角☞嘴角 (tshùi-kak)	koujiao	100
+口角☞諍喙 (tsìⁿ-tshùi)	koujiao	100
 口交☞舐蟯 (tsīⁿ-giô)	koujiao	100
 口交☞吮膣屄 (tsn̄g tsi-bai)	koujiao	100
+口角☞逆口 (gi̍k-kháu)	koujiao	100
 口交☞含茄 (kâm-kiô)	koujiao	100
 口交☞含鞭 (kâm-pian)	koujiao	100
+口角☞ke̍h-káu	koujiao	100
+口角☞kháu-kak	koujiao	100
+口角☞口桀 (kháu-ke̍h)	koujiao	100
+口角☞口逆 (kháu-ke̍h)	koujiao	100
 扣繳☞扣繳 (khàu-kiáu)	koujiao	100
+口角☞起話星 (khí-uē-tsheⁿ)	koujiao	100
+口角☞口角 (khió-kak)	koujiao	100
+口角☞駁嘴 (poh-tshùi)	koujiao	100
+口角☞駁喙 (poh-tshùi)	koujiao	100
+口角☞駁話 (poh-uē)	koujiao	100
+口角☞盤嘴 (puâⁿ-tshùi)	koujiao	100
+口角☞盤喙 (puâⁿ-tshùi)	koujiao	100
+口角☞盤喙錦 (puâⁿ-tshùi-gím)	koujiao	100
 口交☞歕鼓吹 (pûn kóo-tshue)	koujiao	100
+口角☞相駁喙 (sio poh tshùi)	koujiao	100
+口角☞相諍嘴 (sio-tsèⁿ-tshùi)	koujiao	100
+口角☞相諍喙 (sio-tsèⁿ-tshùi)	koujiao	100
+口角☞相嚷 (sio-jiáng)	koujiao	100
+口角☞相嚷 (sio-lióng)	koujiao	100
+口角☞相罵 (sio-mā)	koujiao	100
+口角☞相罵 (sio-mē)	koujiao	100
+口角☞sio-mē	koujiao	100
+口角☞相駁嘴 (sio-poh-tshùi)	koujiao	100
+口角☞相觸嘴 (sio-tak-tshùi)	koujiao	100
+口角☞相觸喙 (sio-tak-tshùi)	koujiao	100
 口交☞欶膦鳥 (suh lān-tsiáu)	koujiao	100
 口交☞欶膦脬 (suh lān-pha)	koujiao	100
+口角☞觸嘴 (tak-tshùi)	koujiao	100
+口角☞觸喙 (tak-tshùi)	koujiao	100
+口角☞觸牙 (tak-gê)	koujiao	100
+口角☞觸口 (tak-kháu)	koujiao	100
+口角☞答喙鼓 (tap-tshùi-kóo)	koujiao	100
+口角☞鬥口 (tàu-kháu)	koujiao	100
+口角☞冤家 (uan-ke)	koujiao	100
+口角☞冤家量債 (uan-ke-niû-tsè)	koujiao	100
 口角春風☞喙講甲無油 (tshùi kóng-kah bô-iû)	koujiaochunfeng	100
 口角春風☞喙脣皮相款待 (tshùi-tûn-phuê sio khuán-thāi)	koujiaochunfeng	100
 口角春風☞放屁安狗心 (pàng-phùi an káu sim)	koujiaochunfeng	100
@@ -86095,46 +86124,10 @@ m2竣l☞sió-kīm-á	jun	100
 口徑☞kháu-king	koujing	100
 口徑☞kháu-kìng	koujing	100
 口徑☞口徑 (kháu-kìng)	koujing	100
-口角☞諍喙 (tsèⁿ-tshùi)	koujue	100
-口角☞tsèⁿ-tshùi	koujue	100
-口角☞嘴角 (tshùi-kak)	koujue	100
-口角☞諍喙 (tsìⁿ-tshùi)	koujue	100
-口角☞逆口 (gi̍k-kháu)	koujue	100
-口角☞ke̍h-káu	koujue	100
-口角☞kháu-kak	koujue	100
 口訣☞口教 (kháu-kàu)	koujue	100
-口角☞口桀 (kháu-ke̍h)	koujue	100
-口角☞口逆 (kháu-ke̍h)	koujue	100
 口訣☞kháu-kuat	koujue	100
 口訣☞口訣 (kháu-kuat)	koujue	100
-口角☞起話星 (khí-uē-tsheⁿ)	koujue	100
-口角☞口角 (khió-kak)	koujue	100
 口訣☞唸訣 (liām-kuat)	koujue	100
-口角☞駁嘴 (poh-tshùi)	koujue	100
-口角☞駁喙 (poh-tshùi)	koujue	100
-口角☞駁話 (poh-uē)	koujue	100
-口角☞盤嘴 (puâⁿ-tshùi)	koujue	100
-口角☞盤喙 (puâⁿ-tshùi)	koujue	100
-口角☞盤喙錦 (puâⁿ-tshùi-gím)	koujue	100
-口角☞相駁喙 (sio poh tshùi)	koujue	100
-口角☞相諍嘴 (sio-tsèⁿ-tshùi)	koujue	100
-口角☞相諍喙 (sio-tsèⁿ-tshùi)	koujue	100
-口角☞相嚷 (sio-jiáng)	koujue	100
-口角☞相嚷 (sio-lióng)	koujue	100
-口角☞相罵 (sio-mā)	koujue	100
-口角☞相罵 (sio-mē)	koujue	100
-口角☞sio-mē	koujue	100
-口角☞相駁嘴 (sio-poh-tshùi)	koujue	100
-口角☞相觸嘴 (sio-tak-tshùi)	koujue	100
-口角☞相觸喙 (sio-tak-tshùi)	koujue	100
-口角☞觸嘴 (tak-tshùi)	koujue	100
-口角☞觸喙 (tak-tshùi)	koujue	100
-口角☞觸牙 (tak-gê)	koujue	100
-口角☞觸口 (tak-kháu)	koujue	100
-口角☞答喙鼓 (tap-tshùi-kóo)	koujue	100
-口角☞鬥口 (tàu-kháu)	koujue	100
-口角☞冤家 (uan-ke)	koujue	100
-口角☞冤家量債 (uan-ke-niû-tsè)	koujue	100
 口角炎☞臭嘴頷 (tshàu-tshùi-ham)	koujueyan	100
 口角炎☞tshàu-tshùi-ham	koujueyan	100
 口角炎☞臭喙角 (tshàu-tshùi-kak)	koujueyan	100
@@ -86173,8 +86166,8 @@ m2竣l☞sió-kīm-á	jun	100
 叩門☞敲門 (khà-mn̂g)	koumen	100
 扣門☞敲門 (khà-mn̂g)	koumen	100
 摳門☞酷 (khok)	koumen	100
+摳門☞鹹 (kiâm)	koumen	100
 摳門☞鹹閣澀 (kiâm koh siap)	koumen	100
-摳門☞鹹 (kiâm)	koumen	100
 叩門☞叫門 (kiò-mn̂g)	koumen	100
 扣門☞叫門 (kiò-mn̂g)	koumen	100
 叩門☞挵門 (lòng mn̂g)	koumen	100
@@ -89848,6 +89841,7 @@ m2竣l☞sió-kīm-á	jun	100
 老鷹☞鷹鳥 (ing-tsiáu)	laoying	100
 老鷹☞lāi-hio̍h	laoying	100
 老鷹☞鶆鴞 (lāi-hio̍h)	laoying	100
+老鷹抓小雞☞覓 (bǎ)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞覓 (bā)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞鴟鴞覓雞仔 (bā-hio̍h bā ke-á)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞鴟鴞覓雞仔 (bā-hio̍h bā kue-á)	laoyingzhuaxiaoji	100
@@ -89855,7 +89849,6 @@ m2竣l☞sió-kīm-á	jun	100
 老鷹抓小雞☞鴟鴞掠雞仔囝 (bā-hio̍h lia̍h kue-á-kiáⁿ)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞覓雞仔 (bā-kere-á)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞覓 (buâ)	laoyingzhuaxiaoji	100
-老鷹抓小雞☞覓 (bǎ)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞㨑 (tsang)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞鋏 (giap)	laoyingzhuaxiaoji	100
 老鷹抓小雞☞挾 (gia̍p)	laoyingzhuaxiaoji	100
@@ -89905,7 +89898,7 @@ m2竣l☞sió-kīm-á	jun	100
 老者☞lāu--ê	laozhe	100
 老者☞老歲仔 (lāu-huè-á)	laozhe	100
 落枕☞交落枕 (ka-la̍uh-tsím)	laozhen	100
-落枕☞跋落枕 (pua̍h-lo̍h-tsím)	laozhen	100
+落枕☞跋落枕 (pua̍h-lo̍h-tsím)	laozhen	100
 落枕☞屈枕 (ut-tsím)	laozhen	100
 老株☞老欉 (lāu-tsâng)	laozhu	100
 老竹雕不彎。小時候若不教好☞Tsíⁿ-tik nā bô tiau, lāu-tik tiau bē khiau	laozhudiaobuwanxiaoshihouruobujiaohao	100
@@ -89970,7 +89963,6 @@ m2竣l☞sió-kīm-á	jun	100
 拉生意☞khiú-sing-lí	lashengyi	100
 拉屎☞疶屎 (tshuah sái)	lashi	100
 拉屎☞放屎 (pàng-sái)	lashi	100
-拉屎☞放屎 (pàng-sái)	lashi	100
 拉手☞門牽 (mn̂g-khian)	lashou	100
 拉手☞屜紐 (thuah-liú)	lashou	100
 拉手☞頓手 (tùn-tshiú)	lashou	100
@@ -90810,14 +90802,14 @@ m2竣l☞sió-kīm-á	jun	100
 立☞立 (li̍p)	li	100
 笠☞笠 (li̍p文)	li	100
 粒☞鈕 (liú)	li	100
+犁☞犁 (lerê)	li	100
+笠☞笠 (lerē)	li	100
 詈☞詈 (lué)	li	100
 犁☞luê	li	100
 裡☞內 (luē文)	li	100
 篱☞篱 (luē替)	li	100
 笠☞笠 (lue̍h)	li	100
 鱧☞lûi-lé	li	100
-犁☞犁 (lerê)	li	100
-笠☞笠 (lerē)	li	100
 哩☞哩 (mai替)	li	100
 荔☞荔 (nāi)	li	100
 莉☞莉 (nī替)	li	100
@@ -91290,9 +91282,9 @@ m2竣l☞sió-kīm-á	jun	100
 量米☞niû bí	liangmi	100
 量米☞量米 (niû-bí)	liangmi	100
 涼麵☞涼麵 (liâng-mī)	liangmian	100
+涼麵☞冷麵 (líng-mī)	liangmian	100
 兩面☞lióng-bīn	liangmian	100
 兩面☞兩面 (lióng-bīn)	liangmian	100
-涼麵☞冷麵 (líng-mī)	liangmian	100
 兩面☞兩面 (nn̄g-bīn)	liangmian	100
 兩面☞兩旁 (nn̄g-pîng)	liangmian	100
 兩面☞雙面 (siang-bīn)	liangmian	100
@@ -94031,8 +94023,8 @@ m2竣l☞sió-kīm-á	jun	100
 吝嗇☞五皮 (ngóo-phî)	linse	100
 吝嗇☞五凍 (ngóo-tàng)	linse	100
 吝嗇☞吝嗇 (nì-sìⁿ)	linse	100
-吝嗇☞niau-lān	linse	100
 吝嗇☞niau-lǎn	linse	100
+吝嗇☞niau-lān	linse	100
 吝嗇☞niau-siâu	linse	100
 吝嗇☞貓潲 (niau-siâu)	linse	100
 吝嗇☞貓神 (niau-sîn)	linse	100
@@ -95111,8 +95103,8 @@ m2竣l☞sió-kīm-á	jun	100
 流行性感冒☞時氣感 (sî-khì-kám)	liuxingxingganmao	100
 流星雨☞落屎星雨 (làu-sái-tsheⁿ-hōo)	liuxingyu	100
 流星雨☞liû-sing-ú	liuxingyu	100
-流星雨☞流星群 (liû‑tsheⁿ-kûn)	liuxingyu	100
-流星雨☞流星群 (liû‑tshiⁿ-kûn)	liuxingyu	100
+流星雨☞流星群 (liû‑tsheⁿ-kûn)	liuxingyu	100
+流星雨☞流星群 (liû‑tshiⁿ-kûn)	liuxingyu	100
 流星雨☞掃帚星雨 (sàu-tshiú-tsheⁿ-hōo)	liuxingyu	100
 留學☞iû-ha̍k	liuxue	100
 留學☞liû-ha̍k	liuxue	100
@@ -95447,8 +95439,8 @@ m2竣l☞sió-kīm-á	jun	100
 荔枝☞荔枝 (nāi-tsi)	lizhi	100
 立志☞長志 (tióng-tsì)	lizhi	100
 荔枝角☞荔枝角 (lāi-tsi-kak)	lizhijiao	100
-荔枝角☞荔枝角 (nāi-tsi-kak)	lizhijiao	100
 荔枝角☞荔枝角 (nǎi-tsi-kak)	lizhijiao	100
+荔枝角☞荔枝角 (nāi-tsi-kak)	lizhijiao	100
 理直氣壯☞理路直 (lí-lōo-ti̍t)	lizhiqizhuang	100
 勵志實行☞lē-tsì si̍t-hîng	lizhishixing	100
 麗質天生☞lē-tsit thian-sing	lizhitiansheng	100
@@ -96378,11 +96370,11 @@ m2竣l☞sió-kīm-á	jun	100
 鸕鶿☞烏魚郎 (oo-hî-lông)	luci	100
 鹿蔥☞鹿蔥 (lo̍k-tshong)	lucong	100
 爐丹☞香烌 (hiuⁿ-hu)	ludan	100
+滷蛋☞滷卵 (lóo-nňg)	ludan	100
 滷蛋☞滷卵 (lóo-nn̄g)	ludan	100
 滷蛋☞lóo-nn̄g	ludan	100
 鹵蛋☞鹵卵 (lóo-nn̄g)	ludan	100
 滷蛋☞滷卵 (lóo-nūi)	ludan	100
-滷蛋☞滷卵 (lóo-nňg)	ludan	100
 爐丹☞爐丹 (lôo-tan)	ludan	100
 爐丹☞lôo-tan	ludan	100
 陸稻☞園稻 (hn̂g-tiū)	ludao	100
@@ -96654,8 +96646,8 @@ m2竣l☞sió-kīm-á	jun	100
 輪迴☞輪迴 (lûn-huê)	lunhui	100
 鹵牛肉☞kiâm-gû-bah	luniurou	100
 論及☞kóng-kah	lunji	100
+輪機☞輪機 (lûn-ki)	lunji	100
 論及☞lūn-ki̍p	lunji	100
-輪機☞輪機 (lûn-ki)	lunji	100
 論價☞lūn-kè	lunjia	100
 論價☞論價 (lūn-kè)	lunjia	100
 輪姦☞lûn-kan	lunjian	100
@@ -97361,12 +97353,12 @@ m2竣l☞sió-kīm-á	jun	100
 路上☞路頂 (lōo-tíng)	lushang	100
 路上☞lōo-thâu	lushang	100
 路上☞路頭 (lōo-thâu)	lushang	100
-陸上行舟☞lio̍k-tuē hîng-tsiu	lushangxingzhou	100
+陸上行舟☞lio̍k-tuē hîng-tsiu	lushanghangzhou	100
 廬山真面目☞lôo-san tsin biān-bo̍k	lushanzhenmianmu	100
 祿山之爪☞五爪龍 (ngóo-jiáu-lîng)	lushanzhizhao	100
+魯蛇☞魯蛇 (lóo-tsuâ)	lushe	100
 魯蛇☞魯跤 (lóo-kha)	lushe	100
 魯蛇☞魯趖 (lóo-sô)	lushe	100
-魯蛇☞魯蛇 (lóo-tsuâ)	lushe	100
 路數☞步數 (pōo-sòo)	lushu	100
 路數☞底柢 (té-tì)	lushu	100
 露水☞lōo-tsúi	lushui	100
@@ -98167,7 +98159,7 @@ m2竣l☞sió-kīm-á	jun	100
 麻豆鎮☞麻豆區 (Muâ-tāu-khu)	madouzhen	100
 馬隊☞bé-tūi	madui	100
 馬隊☞馬隊 (bé-tūi)	madui	100
-馬爾地夫☞馬魯知夫 (Má-luh-tī-hu)	maerdifu	100
+馬爾地夫☞馬魯知夫 (Má-luh-tī-hu)	maerdifu	100
 馬耳東風☞耳孔風 (hīⁿ-khang-hong)	maerdongfeng	100
 馬耳東風☞má-ní tong-hong	maerdongfeng	100
 馬耳東風☞馬耳東風 (má-ní-tong-hong)	maerdongfeng	100
@@ -98494,7 +98486,7 @@ m2竣l☞sió-kīm-á	jun	100
 買方☞人客 (lâng-kheh)	maifang	100
 買方☞糴手 (tia̍h-tshiú)	maifang	100
 買房子☞hak tshù	maifangzi	100
-買房子☞蓄厝 (hak-tshù)	maifangzi	100
+買房子☞蓄厝 (hak-tshù)	maifangzi	100
 麥粉☞be̍h-hún, mī-hún	maifen	100
 埋伏☞bâi-ho̍k	maifu	100
 埋伏☞埋伏 (bâi-ho̍k)	maifu	100
@@ -99463,8 +99455,8 @@ m2竣l☞sió-kīm-á	jun	100
 蠻牛☞牛頭剷 (gû-thâu-thuáⁿ)	manniu	100
 蠻牛☞番王 (huan-ông)	manniu	100
 蔓爬☞suan	manpa	100
+慢跑☞慢走 (bān-tsáu)	manpao	100
 慢跑☞bān-pháu	manpao	100
-慢跑☞慢走 (bān-tsáu)	manpao	100
 慢跑☞走健 (tsáu-kiāⁿ)	manpao	100
 慢跑☞寬走 (khuaⁿ-tsáu)	manpao	100
 瞞騙☞欺瞞 (khi-muâ)	manpian	100
@@ -100062,7 +100054,7 @@ m2竣l☞sió-kīm-á	jun	100
 毛囊炎☞毛管炎 (môo-kóng-iām)	maonangyan	100
 貓膩☞崁步 (khàm-pōo)	maoni	100
 犛牛☞犛牛 (lî-gû)	maoniu	100
-貓奴☞貓仔奴 (niau-á-lôo)	maonu	100
+貓奴☞貓仔奴 (niau-á-lôo)	maonu	100
 冒牌☞ké	maopai	100
 冒牌☞假目頭 (ké-ba̍k-thâu)	maopai	100
 冒牌☞mōo-pâi	maopai	100
@@ -100529,7 +100521,7 @@ m2竣l☞sió-kīm-á	jun	100
 馬纓丹☞山大丹 (suaⁿ-tuā-tan)	mayingdan	100
 馬英九☞Bé-á Ing-káu	mayingjiu	100
 馬英九☞Má Ing-káu	mayingjiu	100
-馬英九☞馬英九 (Má Ing-kiú)	mayingjiu	100
+馬英九☞馬英九 (Má Ing-kiú)	mayingjiu	100
 螞蟻窩☞káu-hiā-siū	mayiwo	100
 螞蟻窩☞蚼蟻岫 (káu-hiā-siū)	mayiwo	100
 麻油☞muâ-iû	mayou	100
@@ -100941,10 +100933,10 @@ m2竣l☞sió-kīm-á	jun	100
 沒關係☞無關係 (bô-kuan-hē)	meiguanxi	100
 沒關係☞無啥物 (bô-siáⁿ-mih)	meiguanxi	100
 沒關係☞無打緊 (bô-táⁿ-kín)	meiguanxi	100
-沒關係☞無所謂 (bû-sóo-ūi)	meiguanxi	100
-沒關係☞袂要緊 (buē-iàu-kín)	meiguanxi	100
 沒關係☞無要緊 (bôr-á-kín)	meiguanxi	100
 沒關係☞無關係 (bôr-kuan-hē)	meiguanxi	100
+沒關係☞無所謂 (bû-sóo-ūi)	meiguanxi	100
+沒關係☞袂要緊 (buē-iàu-kín)	meiguanxi	100
 美規☞美規 (Bí-kui)	meigui	100
 玫瑰☞玫瑰 (muê-kùi)	meigui	100
 玫瑰☞muê-kùi	meigui	100
@@ -101188,7 +101180,7 @@ m2竣l☞sió-kīm-á	jun	100
 妹妹☞小妹 (sió-muē)	meimei	100
 每每☞定定 (tiāⁿ-tiāⁿ)	meimei	100
 眉眉角角☞鋩鋩角角 (mê-mê-kak-kak)	meimeijiaojiao	100
-沒門☞眠夢 (bîn-bāng)	meimen	100
+沒門☞眠夢 (bîn-bāng)	meimen	100
 美夢☞美夢 (bí-bāng)	meimeng	100
 美夢☞bí-bāng	meimeng	100
 沒面子☞bô biān-tsú	meimianzi	100
@@ -102709,14 +102701,14 @@ m2竣l☞sió-kīm-á	jun	100
 麵粉揉散☞Mī-hún jio̍k hōo suàⁿ	mianfenrousan	100
 麵疙瘩☞麵粉粿 (mī-hún-ké)	miangeda	100
 麵疙瘩☞麵粉粿仔 (mī-hún-ké-á)	miangeda	100
-麵疙瘩☞麵粉粿 (mī-hún-kué)	miangeda	100
-麵疙瘩☞麵粉粿仔 (mī-hún-kué-á)	miangeda	100
 麵疙瘩☞麵粉粿 (mī-hún-kér)	miangeda	100
 麵疙瘩☞麵粉粿仔 (mī-hún-kér-á)	miangeda	100
+麵疙瘩☞麵粉粿 (mī-hún-kué)	miangeda	100
+麵疙瘩☞麵粉粿仔 (mī-hún-kué-á)	miangeda	100
 麵疙瘩☞麵猴 (mī-kâu)	miangeda	100
 麵疙瘩☞麵粿 (mī-ké)	miangeda	100
-麵疙瘩☞麵粿 (mī-kué)	miangeda	100
 麵疙瘩☞麵粿 (mī-kér)	miangeda	100
+麵疙瘩☞麵粿 (mī-kué)	miangeda	100
 免官☞甪官 (lut-kuaⁿ)	mianguan	100
 麵龜☞麵龜 (mī-ku)	miangui	100
 麵龜☞mī-ku	miangui	100
@@ -103354,9 +103346,9 @@ m2竣l☞sió-kīm-á	jun	100
 滅火器☞bia̍t-hué-khì	miehuoqi	100
 滅火器☞滅火器 (bia̍t-hué-khì)	miehuoqi	100
 滅火器☞拍火器 (phah-hé-khì)	miehuoqi	100
+滅火器☞拍火器 (phah-hér-khì)	miehuoqi	100
 滅火器☞拍火器 (phah-hué-khì)	miehuoqi	100
 滅火器☞拍火罐 (phah-hué-kuàn)	miehuoqi	100
-滅火器☞拍火器 (phah-hér-khì)	miehuoqi	100
 滅火器☞消火器 (siau-hé-khì)	miehuoqi	100
 滅火器☞消防罐 (siau-hông-kuàn)	miehuoqi	100
 滅火器☞siau-hué-khì	miehuoqi	100
@@ -105562,13 +105554,11 @@ m2竣l☞sió-kīm-á	jun	100
 牧場☞牛埔 (gû-poo)	muchang	100
 牧場物語☞牧場物語 (bo̍k-tiûⁿ-bu̍t-gú)	muchangwuyu	100
 牧場物語☞牧場物語 (gí)	muchangwuyu	100
-牧畜☞bo̍k-thiok	muchu	100
 木船☞木船 (bo̍k-tsûn)	muchuan	100
 木槌☞tshâ-thûi	muchui	100
 木槌☞tshâ-thûi-á	muchui	100
 暮春☞晚春 (buán-tshun)	muchun	100
 暮春☞春尾 (tshun-bué)	muchun	100
-牧畜業☞bo̍k-thiok-gia̍p	muchuye	100
 牡丹☞牡丹 (bóo-tan)	mudan	100
 牡丹☞牡丹 (Bóo-tan)	mudan	100
 牡丹☞bóo-tan	mudan	100
@@ -106187,6 +106177,7 @@ m2竣l☞sió-kīm-á	jun	100
 母系制度☞bó-hē tsè-tōo	muxizhidu	100
 木鬚☞木耳 (bo̍k-ní)	muxu	100
 苜蓿☞苜蓿 (bo̍k-siok)	muxu	100
+牧畜☞bo̍k-thiok	muxu	100
 苜蓿☞金花菜 (kim-hue-tshài)	muxu	100
 苜蓿☞金花菜哖 (kim-hue-tshài-nî)	muxu	100
 目眩☞ba̍k-hîn	muxuan	100
@@ -106200,6 +106191,7 @@ m2竣l☞sió-kīm-á	jun	100
 墓穴☞棺窟 (kuan-khut)	muxue	100
 墓穴☞棺柴窟 (kuaⁿ-tshâ-khut)	muxue	100
 苜蓿芽☞金花菜哖 (kim-hue-tshài-nî)	muxuya	100
+牧畜業☞bo̍k-thiok-gia̍p	muxuye	100
 母鴨☞ah-bó	muya	100
 母鴨☞鴨母 (ah-bó)	muya	100
 母鴨☞ah-bú	muya	100
@@ -106282,7 +106274,7 @@ m2竣l☞sió-kīm-á	jun	100
 拇指☞指頭公 (tsíng-thâu-kong)	muzhi	100
 拇指☞大部拇 (tuā-pōo-bú)	muzhi	100
 拇指☞大頭拇 (tuā-thâu-bú)	muzhi	100
-木質部☞木質部 (bo̍k-tsit-pōo)	muzhibu	100
+木質部☞木質部 (bo̍k-tsit-pōo)	muzhibu	100
 拇指外翻☞大頭拇反 (Tuā-thâu-bú-píng)	muzhiwaifan	100
 拇趾外翻☞大頭拇反 (tuā-thâu-bú-píng)	muzhiwaifan	100
 目中無人☞bo̍k-tiong bû-jîn	muzhongwuren	100
@@ -107608,8 +107600,8 @@ m2竣l☞sió-kīm-á	jun	100
 腦充血☞斷腦筋 (tn̄g-náu-kun)	naochongxue	100
 鬧出☞鬧出 (nāu-tshut)	naochu	100
 鬧出☞nāu-tshut-sū	naochu	100
-腦出血☞náu tshut-hueh	naochuxue	100
-腦出血☞腦出血 (náu-tshut-hueh)	naochuxue	100
+腦出血☞náu tshut-hueh	naochuxie	100
+腦出血☞腦出血 (náu-tshut-hueh)	naochuxie	100
 腦袋☞腦筋 (náu-kin)	naodai	100
 腦袋☞腦筋 (náu-kun)	naodai	100
 腦袋☞thâu-khak	naodai	100
@@ -108095,8 +108087,8 @@ m2竣l☞sió-kīm-á	jun	100
 內側☞內勻 (lāi-ûn)	neice	100
 內層☞lāi-tîng	neiceng	100
 內襯☞裡 (lí)	neichen	100
-內出血☞lāi tshut-hueh	neichuxue	100
-內出血☞內出血 (lāi-tshut-hueh)	neichuxue	100
+內出血☞lāi tshut-hueh	neichuxie	100
+內出血☞內出血 (lāi-tshut-hueh)	neichuxie	100
 內弟☞tshe-kū	neidi	100
 內弟☞妻舅 (tshe-kū)	neidi	100
 內弟☞妻舅仔 (tshe-kū-á)	neidi	100
@@ -108721,16 +108713,16 @@ m2竣l☞sió-kīm-á	jun	100
 娘☞娘 (niû白)	niang	100
 釀☞釀 (nn̂g)	niang	100
 年柑☞桶柑 (tháng-kam)	niangan	100
-年糕☞發粿 (huat-kué)	niangao	100
 年糕☞發粿 (huat-kér)	niangao	100
+年糕☞發粿 (huat-kué)	niangao	100
 年糕☞nî-ko	niangao	100
 年糕☞甜粿 (tiⁿ-ké)	niangao	100
+年糕☞甜粿 (tiⁿ-kér)	niangao	100
 年糕☞tiⁿ-kué	niangao	100
 年糕☞甜粿 (tiⁿ-kué)	niangao	100
-年糕☞甜粿 (tiⁿ-kér)	niangao	100
 年糕類☞粿路 (ké-lōo)	niangaolei	100
-年糕類☞粿路 (kué-lōo)	niangaolei	100
 年糕類☞粿路 (kér-lōo)	niangaolei	100
+年糕類☞粿路 (kué-lōo)	niangaolei	100
 釀成☞釀成 (liōng-sîng)	niangcheng	100
 唸歌☞唸歌 (liām-kua)	niange	100
 年根☞年兜邊 (nî-tau-piⁿ)	niangen	100
@@ -109636,7 +109628,7 @@ m2竣l☞sió-kīm-á	jun	100
 你還要去。☞Giōng-giōng-bueh lo̍h-hōo, lí iáu bueh khì	nihaiyaoqu	100
 你好☞出頭天 (tshut-thâu-thiⁿ)	nihao	100
 你好☞你好 (lí hó)	nihao	100
-妳好☞你好 (lí hó)	nihao	100
+妳好☞你好 (lí hó)	nihao	100
 你好黑☞你真烏 (lí tsin oo)	nihaohei	100
 你好嗎☞食飽袂 (tsia̍h-pá bē)	nihaoma	100
 你好嗎☞食飽未 (tsia̍h-pá--bē)	nihaoma	100
@@ -110096,7 +110088,7 @@ m2竣l☞sió-kīm-á	jun	100
 逆水行舟☞划橫流 (kò-huâiⁿ-lâu)	nishuixingzhou	100
 逆水行舟☞划橫流 (kò-hûiⁿ-lâu)	nishuixingzhou	100
 你說話反覆無常☞Lí kóng-uē huán-khí-huán-tó, guá ná káⁿ siong-sìn	nishuohuafanfuwuchang	100
-你說咧☞你講咧 (lí kóng--leh)	nishuolie	100
+你說咧☞你講咧 (lí kóng--leh)	nishuolie	100
 你說什麼？☞Lí kóng sahⁿ?	nishuoshenme	100
 你說什麼☞你講啥 (lí kóng siáⁿ)	nishuoshenme	100
 你屬什麼生肖？☞Lí siùⁿ sím-mih?	nishushenmeshengxiao	100
@@ -110623,7 +110615,7 @@ m2竣l☞sió-kīm-á	jun	100
 你有沒有錢？☞Lí ū tsîⁿ á bô?	niyoumeiyouqian	100
 你有錢嗎☞Lí ū tsîⁿ bôo? Tsió-khueh	niyouqianma	100
 你又忘了。☞Lí iū bē-kì-tit	niyouwangle	100
-你有在抓寶嗎☞你有咧掠寶無 (Lí ū leh lia̍h-pó--bô)	niyouzaizhuabaoma	100
+你有在抓寶嗎☞你有咧掠寶無 (Lí ū leh lia̍h-pó--bô)	niyouzaizhuabaoma	100
 你預算多少錢要蓋房子？☞Lí ī-suàn luā-tsē tsîⁿ bueh khí-tshù?	niyusuanduoshaoqianyaogaifangzi	100
 你在吃什麼？☞Lí teh tsia̍h sahⁿ-huè?	nizaichishenme	100
 你在吃什麼玩意兒？☞Lí teh tsia̍h sím-mih uáⁿ-ko?	nizaichishenmewanyier	100
@@ -111627,7 +111619,7 @@ m2竣l☞sió-kīm-á	jun	100
 女職員☞lí tsit-uân	nvzhiyuan	100
 女中☞lí-tiong	nvzhong	100
 女中☞女中 (lí-tiong)	nvzhong	100
-女中大夫☞lú-tiong-hu	nvzhongdaifu	100
+女中大夫☞lú-tiong-hu	nvzhongdafu	100
 女中豪傑☞lí-kia̍t	nvzhonghaojie	100
 女中音☞lí tiong-im	nvzhongyin	100
 女中音歌手☞lí tiong-im ê kua-tshiú	nvzhongyingeshou	100
@@ -111830,8 +111822,8 @@ m2竣l☞sió-kīm-á	jun	100
 啪☞擗 (phia̍k替)	pa	100
 帕☞衫帕 (saⁿ-phè)	pa	100
 爬☞sô	pa	100
+爬☞趖 (sô)	pa	100
 爬☞索 (soh)	pa	100
-爬☞趖 (sô)	pa	100
 趴☞罩 (tà白)	pa	100
 怕☞膽 (tám文)	pa	100
 爬不起來☞ngiauh bē khí-lâi	pabuqilai	100
@@ -112510,7 +112502,7 @@ m2竣l☞sió-kīm-á	jun	100
 旁支☞外柱 (guā-thiāu)	pangzhi	100
 旁支☞外祧 (guā-thiāu)	pangzhi	100
 胖子☞肥的 (pûi--ê)	pangzi	100
-攀花折柳☞phan-hua tsiat-liú	panhuasheliu	100
+攀花折柳☞phan-hua tsiat-liú	panhuazheliu	100
 叛將☞puān-tsiòng	panjiang	100
 叛將☞叛將 (puān-tsiòng)	panjiang	100
 叛教☞puān-kàu	panjiao	100
@@ -112766,7 +112758,7 @@ red炮☞phàu	pao	100
 跑不動☞tsáu-bē-khì	paobudong	100
 跑步機☞走健機 (tsáu-kiān-ki)	paobuji	100
 跑步機☞行健機 (kiâⁿ-kiān-ki)	paobuji	100
-跑步機☞練走機 (liān-tsáu-ki)	paobuji	100
+跑步機☞練走機 (liān-tsáu-ki)	paobuji	100
 跑不了☞tsáu bē khui kha	paobuliao	100
 泡菜☞韓國醬菜 (hân-kok tsiùⁿ-tshài)	paocai	100
 泡菜☞韓國鹹菜 (hân-kok kiâm-tshài)	paocai	100
@@ -115022,7 +115014,7 @@ A片☞細齣仔 (sè-tshut-á)	pian	100
 平板☞平板 (pîng-pán)	pingban	100
 平版☞pêⁿ-pán	pingban	100
 平板☞平板 (pêⁿ-pán)	pingban	100
-平板☞平枋 (pêⁿ-pang)	pingban	100
+平板☞平枋 (pêⁿ-pang)	pingban	100
 平板☞平板 (pîⁿ-pán)	pingban	100
 平板☞平枋 (pîⁿ-pang)	pingban	100
 平板☞死板 (sí-pán)	pingban	100
@@ -117373,8 +117365,11 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 錢財☞tsîⁿ-thâu	qiancai	100
 前菜☞頭盤 (thâu-puâⁿ)	qiancai	100
 潛藏☞bih-khǹg	qiancang	100
+茜草☞茜草 (tshiàn-tsháu)	qiancao	100
 乾草☞ta-tsháu	qiancao	100
 乾草☞凋草 (ta-tsháu)	qiancao	100
+茜草樹☞lîng-hê	qiancaoshu	100
+茜草樹☞龍蝦 (lîng-hê)	qiancaoshu	100
 千層蛋糕☞千層雞卵糕 (tshian-tsân ke-nn̄g-ko)	qiancengdangao	100
 千層蛋糕☞千層雞卵糕 (tshian-tsân kue-nn̄g-ko)	qiancengdangao	100
 千層底☞布鞋底 (pòo-ê-té)	qiancengdi	100
@@ -119088,6 +119083,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 欠賬☞khiàm-siàu	qianzhang	100
 前章☞tíng-tsiuⁿ	qianzhang	100
 前瞻計畫☞前瞻計畫 (tsiân-tsiam kè-uē)	qianzhanjihua	100
+前爪☞tsîng-jiáu	qianzhao	100
 前兆☞tsiân-tiāu	qianzhao	100
 前兆☞前兆 (tsiân-tiāu)	qianzhao	100
 前兆☞頭彩 (thâu-tshái)	qianzhao	100
@@ -119119,7 +119115,6 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 牽制球☞khian-tsè-kiû	qianzhiqiu	100
 牽制行動☞khian-tsè hîng-tōng	qianzhixingdong	100
 遷塚☞tshian-thióng	qianzhong	100
-前爪☞tsîng-jiáu	qianzhua	100
 錢賺多☞tsîⁿ tuā-pah, lâng lo̍h bah	qianzhuanduo	100
 錢莊☞tsîⁿ-tsng	qianzhuang	100
 錢莊☞錢莊 (tsîⁿ-tsng)	qianzhuang	100
@@ -119325,7 +119320,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 橋和☞橋和 (Kiô-hô)	qiaohe	100
 巧合☞抵好 (tú-hó)	qiaohe	100
 翹後輪☞翹孤輪 (Khiàu-koo-lián)	qiaohoulun	100
-巧虎☞巧虎 (khiáu-hóo)	qiaohu	100
+巧虎☞巧虎 (khiáu-hóo)	qiaohu	100
 僑匯☞批銀 (phe-gîn)	qiaohui	100
 巧計☞kháu-kè	qiaoji	100
 敲擊☞khiak	qiaoji	100
@@ -121090,7 +121085,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 清潔☞摒掃 (piàⁿ-sàu)	qingjie	100
 清潔☞大摒掃 (tuā-piàⁿ-sàu)	qingjie	100
 清潔隊☞清潔隊 (tshing-kiat-tūi)	qingjiedui	100
-清潔隊員☞清潔隊員 (tshing-kiat tuī-uân)	qingjieduiyuan	100
+清潔隊員☞清潔隊員 (tshing-kiat tūi-uân)	qingjieduiyuan	100
 清潔工☞摒掃的 (piàⁿ-sàu--ê)	qingjiegong	100
 清潔劑☞清潔劑 (tshing-kiat-tse)	qingjieji	100
 輕極了☞khin-niú-siúⁿ	qingjile	100
@@ -121275,8 +121270,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 清明☞清明 (tshiⁿ-miâ)	qingming	100
 清明草☞tshing-bîng-tsháu	qingmingcao	100
 清明草☞清明草 (tshing-bîng-tsháu)	qingmingcao	100
-清明粿☞鼠麴粿 (tshí‑khak‑kué)	qingmingguo	100
-清明粿☞鼠麴粿 (tshú‑khak‑ké)	qingmingguo	100
+清明粿☞鼠麴粿 (tshí‑khak‑kué)	qingmingguo	100
+清明粿☞鼠麴粿 (tshú‑khak‑ké)	qingmingguo	100
 清明節☞Tshing-bîng	qingmingjie	100
 清明節☞清明 (tshing-bîng)	qingmingjie	100
 清明節☞清明節 (tshing-bîng-tseh)	qingmingjie	100
@@ -124526,7 +124521,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 曲棍球☞khiok-kùn-kiû	qugunqiu	100
 曲棍球☞曲棍球 (khiok-kùn-kiû)	qugunqiu	100
 曲棍球☞屈棍球 (khut-kùn-kiû)	qugunqiu	100
-曲棍球☞歪棍仔球 (uai-kùn-á-kiû)	qugunqiu	100
+曲棍球☞歪棍仔球 (uai-kùn-á-kiû)	qugunqiu	100
 去過☞bat  khì-kuè	quguo	100
 去過☞bat khì	quguo	100
 去過☞Bat, guá bat khì	quguo	100
@@ -124707,9 +124702,9 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 曲全☞khiok-tsuân	ququan	100
 屈曲的☞khut-khiok	ququde	100
 曲曲彎彎☞彎彎斡斡 (uan-uan-uat-uat)	ququwanwan	100
-曲曲折折☞三節曲 (saⁿ-tsat-khiau)	ququzheshe	100
-曲曲折折☞彎來斡去 (uan-lâi-uat-khì)	ququzheshe	100
-曲曲折折☞彎彎斡斡 (uan-uan-uat-uat)	ququzheshe	100
+曲曲折折☞三節曲 (saⁿ-tsat-khiau)	ququzhezhe	100
+曲曲折折☞彎來斡去 (uan-lâi-uat-khì)	ququzhezhe	100
+曲曲折折☞彎彎斡斡 (uan-uan-uat-uat)	ququzhezhe	100
 區區之物☞小可物 (sió-khuá-mi̍h)	ququzhiwu	100
 去任☞去任 (khì-jīm)	quren	100
 取人性☞tshú jîn-sìng	qurenxing	100
@@ -125355,8 +125350,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 熱開水☞燒滾水 (sio-kún-tsúi)	rekaishui	100
 熱咳☞熱嗽 (jia̍t-sàu)	reke	100
 熱咳☞熱嗽 (lia̍t-sàu)	reke	100
-熱褲☞熱褲 (jua̍h-khòo)	reku	100
-熱褲☞燒褲 (sio-khòo)	reku	100
+熱褲☞熱褲 (jua̍h-khòo)	reku	100
+熱褲☞燒褲 (sio-khòo)	reku	100
 熱褲☞短褲節仔 (té-khòo-tsat-á)	reku	100
 熱狂☞jia̍t-kông	rekuang	100
 惹來☞惹來 (jiá--lâi)	relai	100
@@ -126005,7 +126000,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 人怕老☞Jîn phàⁿ ló, tsè phàⁿ thó	renpalao	100
 人怕老☞Jîn phàⁿ-ló, tsè phàⁿ thó	renpalao	100
 認票不認人☞jīn phiò, bô jīn lâng	renpiaoburenren	100
-韌皮部☞韌皮部 (jūn-phuê-pōo)	renpibu	100
+韌皮部☞韌皮部 (jūn-phuê-pōo)	renpibu	100
 人品☞人才 (jîn-tsâi)	renpin	100
 人品☞jîn-phín	renpin	100
 人品☞人品 (jîn-phín)	renpin	100
@@ -126063,7 +126058,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 人情債☞jîn-tsîng-tsè	renqingzhai	100
 人情債☞人情債 (jîn-tsîng-tsè)	renqingzhai	100
 人情債☞人情債 (lîn-tsîng-tsè)	renqingzhai	100
-人窮志不窮☞人窮志不窮 (jîn kîng tsì put kîng)	renqiongzhibuqiong	100
+人窮志不窮☞人窮志不窮 (jîn kîng tsì put kîng)	renqiongzhibuqiong	100
 人窮志不窮☞雞屎落塗嘛有三寸煙 (ke-sái lo̍h-thôo mā-ū saⁿ tshùn ian)	renqiongzhibuqiong	100
 人窮志不窮☞mn̂g lâu sui phuà,keⁿ kóo guân-tsāi	renqiongzhibuqiong	100
 人窮志短☞gû sán bô-la̍t,lâng sán pe̍h-tsha̍t	renqiongzhiduan	100
@@ -127918,8 +127913,6 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 乳齒☞ni-khí	ruchi	100
 乳齒☞奶齒 (ni-khí)	ruchi	100
 如癡如醉☞jû-tsùi jû-tshi	ruchiruzui	100
-乳臭未乾☞tshàu-ling-hiàn	ruchouweiqian	100
-乳臭未乾☞臭奶呆 (tshàu-ling-tai)	ruchouweiqian	100
 如初☞jû-tshoo	ruchu	100
 褥瘡☞jio̍k-tshong	ruchuang	100
 乳瘡☞ling-tshng	ruchuang	100
@@ -127940,7 +127933,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 如此一來☞如此一來 (jî-tshú-i̍t-lâi)	ruciyilai	100
 如此云云☞如此如此 (jû-tshú-jû-tshú)	ruciyunyun	100
 如此云云☞如此如此 (lû-tshú-lû-tshú)	ruciyunyun	100
-如此這般☞如此這般 (jû-tshú tsit-pan)	rucizheban	100
+如此這般☞如此這般 (jû-tshú tsit-pan)	rucizheban	100
 褥單☞lio̍k-á-khàm	rudan	100
 入黨☞ji̍p-tóng	rudang	100
 入黨☞入黨 (ji̍p-tóng)	rudang	100
@@ -128605,6 +128598,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 如兄如弟☞jû-hing jû-tē	ruxiongrudi	100
 乳臭☞tshàu-ling-hiàn	ruxiu	100
 乳臭味☞tshàu-ling-hiàn	ruxiuwei	100
+乳臭未乾☞tshàu-ling-hiàn	ruxiuweiqian	100
+乳臭未乾☞臭奶呆 (tshàu-ling-tai)	ruxiuweiqian	100
 入婿☞hōo lâng-tsio	ruxu	100
 入選☞ji̍p-suán	ruxuan	100
 入選☞入選 (ji̍p-suán)	ruxuan	100
@@ -129046,7 +129041,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 三餐不飽☞Lí tsin bòng, saⁿ-tǹg tsia̍h bē pá, iáu siūⁿ-bueh bé tiān-sī	sancanbubao	100
 三餐不繼☞某囝寄人飼 (bóo-kiáⁿ kià lâng tshī)	sancanbuji	100
 三餐不繼☞下昏討無明仔早起頓 (e-hng thó bô bîng á tsá-khí-tǹg)	sancanbuji	100
-三餐不繼☞枵飢失頓 (iau-ki sit tǹg)	sancanbuji	100
+三餐不繼☞枵飢失頓 (iau-ki sit tǹg)	sancanbuji	100
 三餐不繼☞iau-ki sit-tǹg	sancanbuji	100
 三餐不繼☞枵飢失頓 (iau-ki-sit-tǹg)	sancanbuji	100
 三餐不繼☞日食難度 (ji̍t-si̍t lân-tōo)	sancanbuji	100
@@ -129054,7 +129049,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 三餐不繼☞三餐不度 (sam-tshan put-tōo)	sancanbuji	100
 三餐不繼☞三頓綴人袂著 (saⁿ-tǹg tuè-lâng bē-tio̍h)	sancanbuji	100
 三餐不繼☞三頓袂齊勻 (saⁿ-tn̄g bē tsiâu-ûn)	sancanbuji	100
-三餐不繼☞saⁿ-tn̄g tsîng,nn̄g tǹg āu	sancanbuji	100
+三餐不繼☞saⁿ-tn̄g tsîng,nn̄g tǹg āu	sancanbuji	100
 三餐不繼☞三頓逐無一頓飽 (saⁿ-tn̄g jiok bô tsit-tǹg pá)	sancanbuji	100
 三層樓☞saⁿ tsàn lâu	sancenglou	100
 三層樓☞saⁿ-tsàn-lâu	sancenglou	100
@@ -129575,8 +129570,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 三權分立☞sam-kuân hun-li̍p	sanquanfenli	100
 三缺一☞欠一跤 (khiàm tsi̍t kha)	sanqueyi	100
 三缺一☞三跤欠一跤 (saⁿ-kha khiàm tsi̍t-kha)	sanqueyi	100
+散熱☞排熱 (pâi-jua̍h)	sanre	100
 散熱☞pàng-jia̍t	sanre	100
-散熱☞排熱 (pâi-jua̍h)	sanre	100
 三人成虎☞tsi̍t-lâng thuân hi,pah lâng thuân si̍t	sanrenchenghu	100
 三人同行☞Sam jîn hîng, pit iú ngóo su	sanrentonghang	100
 三人同心☞m̄-kiaⁿ hóo ū saⁿ-ki tshùi,tsí kiaⁿ-lâng ū nn̄g phìⁿ sim	sanrentongxin	100
@@ -129700,8 +129695,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 三心二意☞saⁿ-sim-nn̄g-ì	sanxineryi	100
 三星☞八里沙 (pat-lí-sa)	sanxing	100
 三星☞三星 (Sam-sing)	sanxing	100
+三星☞三爽 (sàm-sóng)	sanxing	100
 三星☞三星 (Saⁿ-tsheⁿ)	sanxing	100
-三星☞三爽 (sàm-sóng)	sanxing	100
 三星果藤☞搭肉刺 (tah-bah-tshì)	sanxingguoteng	100
 三星鄉☞三星鄉 (Sam-sing-hiong)	sanxingxiang	100
 三心兩意☞無主張 (bô-tsú-tiuⁿ)	sanxinliangyi	100
@@ -131254,6 +131249,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 商行☞行口 (hâng-kháu)	shanghang	100
 商行☞商行 (siong-hâng)	shanghang	100
 上杭☞上杭 (Siōng-hâng)	shanghang	100
+上行☞siōng-hîng	shanghang	100
 傷寒(症)☞siong-hân	shanghanzheng	100
 傷寒(症)☞siong-hân-tsìng	shanghanzheng	100
 商號☞siong-hō	shanghao	100
@@ -131772,7 +131768,6 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 傷心☞心酸 (sim-sng)	shangxin	100
 傷心☞siong-sim	shangxin	100
 傷心☞傷心 (siong-sim)	shangxin	100
-上行☞siōng-hîng	shangxing	100
 上星期☞tíng lé-pài	shangxingqi	100
 上行下效☞上不正即下歪 (siōng put tsìng tsik hā uai)	shangxingxiaxiao	100
 上行下效☞tuā káu puâⁿ tshiûⁿ,sè káu thàn iūⁿ	shangxingxiaxiao	100
@@ -133029,7 +133024,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 殺氣騰騰☞sat-khì thîng-thîng	shaqitengteng	100
 沙丘☞崙仔 (lûn-á)	shaqiu	100
 沙鰍☞oo-tshiu	shaqiu	100
-殺球☞殺球 (sat-kiû)	shaqiu	100
+殺球☞殺球 (sat-kiû)	shaqiu	100
 沙鰍☞sua-tshiu	shaqiu	100
 沙丘☞沙崙 (sua-lūn)	shaqiu	100
 沙鰍☞thôo-tshiu	shaqiu	100
@@ -133354,8 +133349,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 射程☞siā-thîng	shecheng	100
 折秤☞蝕秤 (si̍h-tshìn)	shecheng	100
 折秤☞蝕秤頭 (si̍h-tshìn-thâu)	shecheng	100
-折秤☞蝕重 (si̍h-tāng)	shecheng	100
 折秤☞蝕重 (si̍h-tǎng)	shecheng	100
+折秤☞蝕重 (si̍h-tāng)	shecheng	100
 奢侈☞tshia-tshí	shechi	100
 奢侈☞奢侈 (tshia-tshí)	shechi	100
 奢侈☞奢華 (tshia-hua)	shechi	100
@@ -134253,8 +134248,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 生孩子☞siⁿ âng-eⁿ iⁿ-á	shenghaizi	100
 生孩子☞siⁿ-kiáⁿ	shenghaizi	100
 生汗疹☞kauh-kuāⁿ	shenghanzhen	100
-生蠔☞生蚵 (tsheⁿ-ô)	shenghao	100
-生蠔☞生蚵 (tshiⁿ-ô)	shenghao	100
+生蠔☞生蚵 (tsheⁿ-ô)	shenghao	100
+生蠔☞生蚵 (tshiⁿ-ô)	shenghao	100
 聖號☞Sìng-hō	shenghao	100
 聖河☞sìng-hô	shenghe	100
 生化☞生化 (sing-huà)	shenghua	100
@@ -134546,7 +134541,7 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 聲名遠播☞名聲敁 (miâ-siaⁿ-tháu)	shengmingyuanbo	100
 聲明在先☞明呼明唱 (bîng-hoo-bîng-tshiàng)	shengmingzaixian	100
 聲明在先☞先品明 (sing phín-bîng)	shengmingzaixian	100
-生命徵狀☞生命現象 (seⁿ-miā-hiān-siōng)	shengmingzhengzhuang	100
+生命徵狀☞生命現象 (seⁿ-miā-hiān-siōng)	shengmingzhengzhuang	100
 盛米器☞米斗 (bí-táu)	shengmiqi	100
 生米糰☞bí-tshè	shengmituan	100
 生米糰☞bí-tshuè	shengmituan	100
@@ -134565,7 +134560,6 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 生母☞seⁿ-bú	shengmu	100
 聲母☞聲母 (siaⁿ-bóo)	shengmu	100
 生母☞siⁿ-bú	shengmu	100
-省墓☞thàm-bōng	shengmu	100
 聖母不染原罪☞Sìng-bó bô jiám guân-tsuē	shengmuburanyuanzui	100
 聖母禱文☞Sìng-bó tó-bûn	shengmudaowen	100
 聖母會☞Sìng-bó Huē	shengmuhui	100
@@ -136215,15 +136209,8 @@ A錢☞歪哥錢 (uai-ko-tsîⁿ)	qian	100
 設置☞設備 (siat-pī)	shezhi	100
 設置☞siat-tì	shezhi	100
 設置☞設置 (siat-tì)	shezhi	100
-折衷☞取中範 (tshú-tiong-pān)	shezhong	100
-折衷☞tsiat-tiong	shezhong	100
-折衷☞折衷 (tsiat-tiong)	shezhong	100
-折衷☞lia̍h-tiong-hô	shezhong	100
-折衷☞lia̍h-tiong-nuâ	shezhong	100
-折衷☞掠中範 (lia̍h-tiong-pān)	shezhong	100
 射中☞siā-tio̍h	shezhong	100
 射中☞射著 (siā-tio̍h)	shezhong	100
-折衷☞對摵 (tùi-tshi̍k)	shezhong	100
 設築☞siat-tiok	shezhu	100
 社子☞社仔 (Siā-á)	shezi	100
 涉足☞行腳到 (kiâⁿ-kha-kàu)	shezu	100
@@ -136602,7 +136589,6 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 失策☞失算 (sit-sǹg)	shice	100
 失策☞ta̍h-thām	shice	100
 失策☞踏窞 (ta̍h-thām)	shice	100
-似曾相識☞敢若捌看過 (kán-ná pat khuàⁿ--kuè)	shicengxiangshi	100
 視察☞考察 (khó-tshat)	shicha	100
 時差☞時差 (sî-tsha)	shicha	100
 時差☞sî-tsha	shicha	100
@@ -139500,8 +139486,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 手電筒☞手電仔 (tshiú-tiān-á)	shoudiantong	100
 手電筒☞tshiú-tiān-á	shoudiantong	100
 手電筒☞手電火 (tshiú-tiān-hué)	shoudiantong	100
-手電筒☞電火 (tiān-hué)	shoudiantong	100
 手電筒☞電火 (tiān-hér)	shoudiantong	100
+手電筒☞電火 (tiān-hué)	shoudiantong	100
 手電筒☞電筒 (tiān-tâng)	shoudiantong	100
 收訂婚禮物☞siu-tiāⁿ	shoudinghunliwu	100
 收定金☞siu-tiāⁿ	shoudingjin	100
@@ -141398,7 +141384,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 雙人☞雙人 (siang-lâng)	shuangren	100
 雙人☞siang-lâng	shuangren	100
 雙人床☞十桱床 (tsa̍p-kèⁿ-tshn̂g)	shuangrenchuang	100
-雙人床☞十桱床 (tsa̍p-kìⁿ-tshn̂g)	shuangrenchuang	100
+雙人床☞十桱床 (tsa̍p-kìⁿ-tshn̂g)	shuangrenchuang	100
 雙人床☞siang-jîn-tshn̂g	shuangrenchuang	100
 雙人床☞雙人床 (siang-jîn-tshn̂g)	shuangrenchuang	100
 雙人房☞siang-jîn-pâng	shuangrenfang	100
@@ -141598,8 +141584,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 數倍☞sòo-puē	shubei	100
 書本☞冊 (tsheh)	shuben	100
 書本☞書本 (su-pún)	shuben	100
-薯餅☞馬鈴薯餅 (má-lîng-tsî-piáⁿ)	shubing	100
-薯餅☞馬鈴薯餅 (má-lîng-tsû-piáⁿ)	shubing	100
+薯餅☞馬鈴薯餅 (má-lîng-tsî-piáⁿ)	shubing	100
+薯餅☞馬鈴薯餅 (má-lîng-tsû-piáⁿ)	shubing	100
 叔伯☞叔伯 (tsik-peh)	shubo	100
 叔伯☞peh-tsik	shubo	100
 恕不奉陪☞sù put hōng-puê	shubufengpei	100
@@ -143112,8 +143098,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 樹木稀少☞tshiū-á tsin lang	shumuxishao	100
 吮☞吮 (tshńg)	shun	100
 順☞就 (tsiū)	shun	100
+吮☞吮 (tsňg)	shun	100
 吮☞吮 (tsn̄g)	shun	100
-吮☞吮 (tsňg)	shun	100
 瞬☞nih	shun	100
 吮☞soh	shun	100
 舜☞舜 (sùn)	shun	100
@@ -144220,6 +144206,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 私藏☞偷藏 (thau-tshàng)	sicang	100
 私藏☞thau-khǹg	sicang	100
 四草生態文化園區☞四草生態文化園區 (Sù-tshó Sing-thài Bûn-huà Uân-khu)	sicaoshengtaiwenhuayuanqu	100
+似曾相識☞敢若捌看過 (kán-ná pat khuàⁿ--kuè)	sicengxiangshi	100
 四叉貓☞四叉貓 (sì-tshe-niau)	sichamao	100
 四叉貓☞四乂猫 (Sù-ngāi-bâ)	sichamao	100
 私產☞sai-khia	sichan	100
@@ -144575,7 +144562,6 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 死了☞khiau-khì	sile	100
 死了☞老去 (lāu--khì)	sile	100
 死了☞sí-à	sile	100
-私了☞私休 (su-hiu)	sile	100
 死了沒人哭☞sí bô lâng khàu	silemeirenku	100
 死了算了☞死煞 (sí-suah)	silesuanle	100
 死了這條心☞死心 (sí-sim)	silezhetiaoxin	100
@@ -144591,6 +144577,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 四兩重小籃子得扣掉☞Sì niú ńg-á tio̍h tî	siliangzhongxiaolanzidekoudiao	100
 飼料☞tshī-liāu	siliao	100
 飼料☞飼料 (tshī-liāu)	siliao	100
+私了☞私休 (su-hiu)	siliao	100
 飼料奶粉☞tshī-liāu-ling-hún	siliaonaifen	100
 撕裂傷☞thiah-li̍h-siong	silieshang	100
 斯里蘭卡☞錫蘭 (Sik-lân)	sililanka	100
@@ -145002,7 +144989,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 私校☞私校 (su-hāu)	sixiao	100
 私梟☞su-hiau	sixiao	100
 私梟☞私梟 (su-hiau)	sixiao	100
-死小孩☞猴死囡仔 (kâu-sí-gín-á)	sixiaohai	100
+死小孩☞猴死囡仔 (kâu-sí-gín-á)	sixiaohai	100
 死小孩☞死囡仔脯 (sí-gín-á-póo)	sixiaohai	100
 死小孩（罵語）☞sí-gín-á	sixiaohaimayu	100
 四小龍☞四小龍 (sì-sió-lîng)	sixiaolong	100
@@ -145216,8 +145203,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 送殯☞sàng-song	songbin	100
 送殯☞送山 (sàng-suaⁿ)	songbin	100
 鬆餅☞格仔粿 (keh-á-ké)	songbing	100
-鬆餅☞格仔粿 (keh-á-kué)	songbing	100
 鬆餅☞格仔粿 (keh-á-kér)	songbing	100
+鬆餅☞格仔粿 (keh-á-kué)	songbing	100
 鬆餅☞格仔膨餅 (keh-á-phòng-piáⁿ)	songbing	100
 鬆餅☞格仔餅 (keh-á-piáⁿ)	songbing	100
 鬆餅☞偏溪缺 (phian-khe-khih)	songbing	100
@@ -146188,7 +146175,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 隨聲附和☞鬥話 (tàu-uē)	suishengfuhe	100
 隨聲附和☞tuè-tshùi-bué	suishengfuhe	100
 隨身聽☞隨身聽 (sûi-sin-thiaⁿ)	suishenting	100
-隨身行李☞隨身行李 (suî‑sin hîng-lí)	suishenxingli	100
+隨身行李☞隨身行李 (sûi‑sin hîng-lí)	suishenxingli	100
 隨身衣服☞sûi-sin ê saⁿ-khòo	suishenyifu	100
 碎石☞碎石 (tshùi-tsio̍h)	suishi	100
 碎石☞石仔 (tsio̍h-á)	suishi	100
@@ -147613,8 +147600,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 太魯閣櫸☞kue-iû	tailugeju	100
 太魯閣蘭☞thài-lóo-koh-lân	tailugelan	100
 太魯閣族☞Tha-lóo-kooh-tso̍k	tailugezu	100
+台羅☞台羅 (tâi-lô)	tailuo	100
 台羅☞台羅字 (Tâi-lô-jī)	tailuo	100
-台羅☞台羅 (tâi-lô)	tailuo	100
 臺羅拼音☞臺羅拼音 (Tâi-lô phing-im)	tailuopinyin	100
 太麻里☞太麻里 (Thài-mâ-lí)	taimali	100
 太麻里☞大貓狸 (Tuā-bâ-lî)	taimali	100
@@ -149062,8 +149049,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 壇角☞tuâⁿ-kak	tanjiao	100
 壇腳☞tuâⁿ-kha	tanjiao	100
 貪假裝客氣☞枵鬼假細膩 (iau-kúi ké sè-jī)	tanjiazhuangkeqi	100
-貪假裝客氣☞枵鬼假細膩 (iau-kúi ké suè-lī)	tanjiazhuangkeqi	100
 貪假裝客氣☞枵鬼假細膩 (iau-kúi ké serè-lī)	tanjiazhuangkeqi	100
+貪假裝客氣☞枵鬼假細膩 (iau-kúi ké suè-lī)	tanjiazhuangkeqi	100
 探究☞探究 (thàm-kiù)	tanjiu	100
 炭疽☞炭疽 (thuàⁿ-tshi)	tanju	100
 痰厥☞痰除 (thâm-tū)	tanjue	100
@@ -149583,8 +149570,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 討救兵☞thó kiù-ping	taojiubing	100
 套嚼環☞lom	taojuehuan	100
 逃開☞tsáu-lī	taokai	100
+討客兄☞討契兄 (thó kheh-hiaⁿ)	taokexiong	100
 討客兄☞討契兄 (thó-kheh-hiaⁿ)	taokexiong	100
-討客兄☞討契兄 (thó kheh-hiaⁿ)	taokexiong	100
 掏空☞piàⁿ-khang-khang	taokong	100
 套口供☞làu kháu-king	taokougong	100
 套口供☞漏口供 (làu-kháu-king)	taokougong	100
@@ -149827,7 +149814,6 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 討厭☞討厭 (thó-ià)	taoyan	100
 討厭☞討厭 (thó-iàm)	taoyan	100
 討厭☞tu̍h-lān	taoyan	100
-討厭☞tu̍h-lān	taoyan	100
 掏腰包☞閹錢 (iam-sîⁿ)	taoyaobao	100
 掏腰包☞閹袋仔 (iam-tē-á)	taoyaobao	100
 逃逸☞流漩 (liû-suan)	taoyi	100
@@ -149960,7 +149946,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 他是何種人物？☞I sī sím-mih khuán ê jîn-bu̍t?	tashihezhongrenwu	100
 他失明是天生的。☞I tsheⁿ-mê sī pē-bó seⁿ-tsiâ ê	tashimingshitianshengde	100
 他是木匠。☞I teh tsò kap-tsoh	tashimujiang	100
-他是怕太太大王☞I sī kiaⁿ-bóo tāi-ông, sóo-í ài kap in thài-thài tsham-siông khah ū-hāu	tashipataitaidaiwang	100
+他是怕太太大王☞I sī kiaⁿ-bóo tāi-ông, sóo-í ài kap in thài-thài tsham-siông khah ū-hāu	tashipataitaidawang	100
 他是強辯者☞I sī tsi̍t ê tshāi-tsèⁿ-ông, lí ná tsèⁿ ē iâⁿ i?	tashiqiangbianzhe	100
 他是台灣大學出身的。☞I sī Tâi-uân Tāi-ha̍k tshut-sin ê	tashitaiwandaxuechushende	100
 他是外表威武而已☞I sī hó-háⁿ-thâu niā-niā, kî-si̍t tsin bô táⁿ	tashiwaibiaoweiwueryi	100
@@ -150325,7 +150311,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 特殊☞特殊 (ti̍k-sû)	teshu	100
 特殊的☞ti̍k-sû	teshude	100
 特殊關係☞ti̍k-sû kuan-hē	teshuguanxi	100
-特殊教育☞特殊教育 (ti̍k-sû kàu-io̍k)	teshujiaoyu	100
+特殊教育☞特殊教育 (ti̍k-sû kàu-io̍k)	teshujiaoyu	100
 特殊境遇家庭扶助條例☞特殊境遇家庭扶助條例 (Ti̍k-sû Kìng-gū Ka-tîng  Hû-tsōo Tiâu-lē)	teshujingyujiatingfuzhutiaoli	100
 特殊性☞ti̍k-sû-sìng	teshuxing	100
 特殊性☞特殊性 (ti̍k-sû-sìng)	teshuxing	100
@@ -151155,8 +151141,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 提案人☞thê-àn-jîn	tianren	100
 提案人☞提案人 (thê-àn-jîn)	tianren	100
 天人菊☞忠心菊 (tiong-sim-kiok)	tianrenju	100
-填塞☞póo-thap	tiansai	100
 田賽☞田賽 (tiân-sài)	tiansai	100
+填塞☞póo-thap	tianse	100
 天色☞thiⁿ-sik	tianse	100
 天色☞天色 (thiⁿ-sik)	tianse	100
 天色矇矓☞天幻幻 (thiⁿ-huáⁿ-huáⁿ)	tiansemenglong	100
@@ -153939,7 +153925,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 銅盤☞tâng-puâⁿ	tongpan	100
 桶盤☞桶盤 (tháng-puâⁿ)	tongpan	100
 通盤☞通盤 (thong-puâⁿ)	tongpan	100
-通盤檢討☞全盤檢討 (tsuân-puâⁿ-kiám-thó)	tongpanjiantao	100
+通盤檢討☞全盤檢討 (tsuân-puâⁿ-kiám-thó)	tongpanjiantao	100
 同袍☞兵仔伴 (ping-á-phuāⁿ)	tongpao	100
 銅盆☞tâng-phûn	tongpen	100
 銅盆魚☞pe̍h-ka-la̍h	tongpenyu	100
@@ -154244,7 +154230,6 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 同學☞同學 (tông-ha̍k)	tongxue	100
 同學☞tông-o̍h	tongxue	100
 同學☞同學 (tông-o̍h)	tongxue	100
-同學☞同學 (tông-o̍h)	tongxue	100
 同學會☞hāu-iú-huē	tongxuehui	100
 同學會☞同窗會 (tông-tshong-huē)	tongxuehui	100
 同學會☞tông-ha̍k-huē	tongxuehui	100
@@ -154931,7 +154916,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 偷竊☞偷提 (thau-the̍h)	touqie	100
 偷竊☞thau-the̍h	touqie	100
 偷竊為生☞tsò-tsha̍t ûi-sing	touqieweisheng	100
-透氣膠布☞通氣貼布 (thang-khì-tah-pòo)	touqijiaobu	100
+透氣膠布☞通氣貼布 (thang-khì-tah-pòo)	touqijiaobu	100
 頭傾斜☞thâu phe-phe	touqingxie	100
 投球☞投球 (tâu-kiû)	touqiu	100
 投球☞tìm-kiû	touqiu	100
@@ -155103,8 +155088,8 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 投降☞投降 (tâu-hâng)	touxiang	100
 頭響☞頂晡 (tíng-poo)	touxiang	100
 頭香☞頭香 (thâu-hiuⁿ)	touxiang	100
-頭香☞頭爐香 (thâu-lôo-hiuⁿ)	touxiang	100
-頭香☞頭路香 (thâu-lōo-hiuⁿ)	touxiang	100
+頭香☞頭爐香 (thâu-lôo-hiuⁿ)	touxiang	100
+頭香☞頭路香 (thâu-lōo-hiuⁿ)	touxiang	100
 頭向前俯☞tshih	touxiangqianfu	100
 偷香竊玉☞tshiap-gio̍k thau-hiong	touxiangqieyu	100
 頭相撞☞thâu-khak sio-kho̍k	touxiangzhuang	100
@@ -155330,7 +155315,7 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 團費☞團費 (thuân-hùi)	tuanfei	100
 團購☞絞幫買 (ká-pang-bé)	tuangou	100
 團購☞絞幫買 (ká-pang-bué)	tuangou	100
-團購☞團買 (thuân-bé)	tuangou	100
+團購☞團買 (thuân-bé)	tuangou	100
 團購☞團買 (thuân-bué)	tuangou	100
 團管區☞Thuân-kuán-khu	tuanguanqu	100
 湍急☞挽水 (bán-tsúi)	tuanji	100
@@ -157062,12 +157047,12 @@ chah實☞恬碇 (tiām-tiāⁿ)	shi	100
 拖油瓶☞隨母嫁 (sûi-bó-kè)	tuoyouping	100
 拖油瓶☞綴轎後的 (tè-kiō-āu--ê)	tuoyouping	100
 拖油瓶☞拖屎連 (thua-sái-liân)	tuoyouping	100
-拖油瓶☞綴母嫁 (tuè-bó-kè)	tuoyouping	100
-拖油瓶☞綴轎後 (tuè-kiō-āu)	tuoyouping	100
-拖油瓶☞綴轎後的 (tuè-kiō-āu--ê)	tuoyouping	100
 拖油瓶☞綴母嫁 (tèr-bú-kè)	tuoyouping	100
 拖油瓶☞綴轎後 (tèr-kiō-āu)	tuoyouping	100
 拖油瓶☞綴轎後的 (tèr-kiō-āu--ê)	tuoyouping	100
+拖油瓶☞綴母嫁 (tuè-bó-kè)	tuoyouping	100
+拖油瓶☞綴轎後 (tuè-kiō-āu)	tuoyouping	100
+拖油瓶☞綴轎後的 (tuè-kiō-āu--ê)	tuoyouping	100
 魠魚☞塗魠 (thôo-thuh)	tuoyu	100
 魠魚☞土托魚 (thôo-thuh-hî)	tuoyu	100
 脫羽☞蛻毛 (thùi-mn̂g)	tuoyu	100
@@ -158429,7 +158414,7 @@ Po網☞鋪網 (phoo-bāng)	wang	100
 網際網路☞網際網路 (bāng-tsè-bāng-lōo)	wangjiwanglu	100
 網際網路☞bāng-tsè-bāng-lōo	wangjiwanglu	100
 網軍☞網軍 (bāng-kun)	wangjun	100
-網咖☞電腦間 (tiān-náu-king)	wangka	100
+網咖☞電腦間 (tiān-náu-king)	wangka	100
 網咖☞電腦間 (tiān-nóo-king)	wangka	100
 網開一面☞網開一面 (bāng-khui-tsi̍t-bīn)	wangkaiyimian	100
 往來☞摻插 (tsham-tshap)	wanglai	100
@@ -158474,7 +158459,7 @@ Po網☞鋪網 (phoo-bāng)	wang	100
 網路教學☞線頂教學 (suàⁿ-tíng kàu-ha̍k)	wanglujiaoxue	100
 網絡☞網絡 (bāng-le)	wangluo	100
 網羅☞網羅 (bāng-lô)	wangluo	100
-网络☞網路 (bāng-lōo)	wangluo	100
+网络☞網路 (bāng-lōo)	wangluo	100
 網羅☞lô-bāng	wangluo	100
 網路卡☞網路卡 (bāng-lōo-khah)	wangluqia	100
 望梅止渴☞癮仙膏 (giàn-sian-ko)	wangmeizhike	100
@@ -158745,7 +158730,7 @@ Po網☞鋪網 (phoo-bāng)	wang	100
 玩具店☞tshit-thô-mih-á-tiàm	wanjudian	100
 玩具店☞guán-khū-tiàm	wanjudian	100
 玩具店☞uán-kū-tiàm	wanjudian	100
-玩具類☞tshit-thô mih-á	wanjulei	100
+玩具類☞tshit-thô mih-á	wanjulei	100
 玩具木馬☞碌硞馬 (lo̍k-kho̍k-bé)	wanjumuma	100
 完竣☞siu-suah	wanjun	100
 完峻☞siu-suah	wanjun	100
@@ -160903,8 +160888,8 @@ po文☞鋪文 (phoo-bûn)	wen	100
 臥病在床☞倒床 (tó-tshn̂g)	wobingzaichuang	100
 我比你強☞Guá khah ū la̍t, hōo lí ián bē tó	wobiniqiang	100
 我不曾看過☞guá m̄ bat khuàⁿ-kìⁿ	wobucengkanguo	100
-我不懂台語☞我毋捌台語 (guá m̄ bat tâi-gí)	wobudongtaiyu	100
-我不懂台語☞我毋捌台語 (guá m̄ bat tâi-gú)	wobudongtaiyu	100
+我不懂台語☞我毋捌台語 (guá m̄ bat tâi-gí)	wobudongtaiyu	100
+我不懂台語☞我毋捌台語 (guá m̄ bat tâi-gú)	wobudongtaiyu	100
 我不放過你（他）。☞Guá m̄ pàng lí  suah	wobufangguonita	100
 我不放你干休。☞Guá m̄ pàng lí kan-hiu	wobufangniganxiu	100
 我不犯人☞i bô ta̍h guá-ê kha,guá bô ta̍h i-ê thâu	wobufanren	100
@@ -161784,7 +161769,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 五短身材☞五短生張 (ngóo-tuán-siⁿ-tiuⁿ)	wuduanshencai	100
 無毒不丈夫☞bû-to̍k put-tiōng-hu	wudubuzhangfu	100
 無度量☞bô tōo-liōng	wuduliang	100
-吳敦義☞吳敦義 (ngôo tun-gī)	wudunyi	100
+吳敦義☞吳敦義 (ngôo tun-gī)	wudunyi	100
 舞蛾☞bú-ngôo	wue	100
 無惡不作☞bû-ok put-tsok	wuebuzuo	100
 忤耳☞噪人耳 (tshò-lâng-hī)	wuer	100
@@ -161909,7 +161894,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 蜈蚣☞蜈蚣 (giâ-kang)	wugong	100
 蜈蚣草☞giâ-kang-tsháu	wugongcao	100
 蜈蚣草☞山毛 (suaⁿ-mn̂g)	wugongcao	100
-蜈蚣閣☞蜈蚣閣 (giâ-kang-koh)	wugongge	100
+蜈蚣閣☞蜈蚣閣 (giâ-kang-koh)	wugongge	100
 蜈蚣崙☞蜈蚣崙 (Giâ-kang-lūn)	wugonglun	100
 蜈蚣旗☞蜈蚣旗 (giâ-kang-kî)	wugongqi	100
 無功受祿☞bû-kong siū-lo̍k	wugongshoulu	100
@@ -162021,6 +162006,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 武漢☞武漢 (Bú-hàn)	wuhan	100
 烏蚶☞oo-ham	wuhan	100
 武漢肺炎☞武漢肺炎 (Bú-hàn-hì-iām)	wuhanfeiyan	100
+武行☞武腳 (bú-kioh)	wuhang	100
 無行情☞無行情 (bô-hâng-tsîng)	wuhangqing	100
 無行情☞無齒虎 (bô-khí-hóo)	wuhangqing	100
 烏寒值年終☞tang-tseh tī gue̍h-thâu, oo-kuâⁿ tī nî-tau	wuhanzhinianzhong	100
@@ -162518,7 +162504,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 五路☞四界 (sì-kuè)	wulu	100
 無路可逃☞走無路 (tsáu-bô-lōo)	wuluketao	100
 無路可逃☞siám-bô-lōo	wuluketao	100
-烏魯木齊☞烏魯木齊 (oo-lóo-bo̍k-tsê)	wulumuqi	100
+烏魯木齊☞烏魯木齊 (oo-lóo-bo̍k-tsê)	wulumuqi	100
 無論☞bô lūn	wulun	100
 無論☞無管 (bô-kuán)	wulun	100
 無論☞bô-lūn	wulun	100
@@ -163184,7 +163170,6 @@ po文☞鋪文 (phoo-bûn)	wen	100
 無心菜☞bô-sim-tshài	wuxincai	100
 無心打石☞Bô-sim phah-tsio̍h, tsio̍h bē ka-nn̂g	wuxindashi	100
 無形☞無形 (bô-hîng)	wuxing	100
-武行☞武腳 (bú-kioh)	wuxing	100
 無形☞bû-hîng	wuxing	100
 無形☞無形 (bû-hîng)	wuxing	100
 五行☞ngóo-hîng	wuxing	100
@@ -163802,7 +163787,6 @@ po文☞鋪文 (phoo-bûn)	wen	100
 下班☞thuè-khui	xiaban	100
 下班☞thuè-khûn	xiaban	100
 下半旗☞落半旗 (lo̍h-puàⁿ-kî)	xiabanqi	100
-下半生☞後半世人 (āu-puàⁿ‑sì‑lâng)	xiabansheng	100
 下班時間☞hā-pan sî-kan	xiabanshijian	100
 下半夜☞暝尾 (mê-bué)	xiabanye	100
 下半夜☞暝尾 (mî-bé)	xiabanye	100
@@ -164297,9 +164281,9 @@ po文☞鋪文 (phoo-bûn)	wen	100
 纖☞kiⁿ	xian	100
 舷☞墘 (kîⁿ)	xian	100
 縣☞kuāiⁿ	xian	100
+縣☞縣 (kuǎn)	xian	100
 縣☞kuān	xian	100
 縣☞縣 (kuān)	xian	100
-縣☞縣 (kuǎn)	xian	100
 蜆☞蜊仔 (lâ-á)	xian	100
 銜☞日銜烏 (li̍t-khâⁿ-oo)	xian	100
 陷☞lop	xian	100
@@ -165842,7 +165826,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 想歪☞想偏 (siūⁿ-phian)	xiangwai	100
 向外發展☞hiòng-guā huat-tián	xiangwaifazhan	100
 想歪了☞siūⁿ-phian	xiangwaile	100
-向晚☞欲暗仔 (beh-àm--á)	xiangwan	100
+向晚☞欲暗仔 (beh-àm--á)	xiangwan	100
 嚮往☞hiàng-óng	xiangwang	100
 嚮往☞hiòng-óng	xiangwang	100
 嚮往☞向往 (hiòng-óng)	xiangwang	100
@@ -167992,7 +167976,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 小金英☞兔仔草 (thòo-á-tsháu)	xiaojinying	100
 小機器☞tshia-á	xiaojiqi	100
 消極態度☞siau-ki̍k thài-tōo	xiaojitaidu	100
-小雞腿☞翼股頭 (si̍t-kóo-thâu)	xiaojitui	100
+小雞腿☞翼股頭 (si̍t-kóo-thâu)	xiaojitui	100
 小舅父☞屘舅 (ban-kū)	xiaojiufu	100
 小舅媽☞屘妗 (ban-kīm)	xiaojiuma	100
 小舅媽☞妻妗仔 (tshe-kīm-á)	xiaojiuma	100
@@ -168343,9 +168327,9 @@ po文☞鋪文 (phoo-bûn)	wen	100
 削皮刀☞剾刀 (khau-to)	xiaopidao	100
 削皮刀☞khau-to-á	xiaopidao	100
 小屁孩☞臭屁囡仔 (tshàu-phùi-gín-á)	xiaopihai	100
-小屁孩☞囡仔疕 (gín-á-phí)	xiaopihai	100
+小屁孩☞囡仔疕 (gín-á-phí)	xiaopihai	100
 小屁孩☞猴囡仔 (kâu-gín-á)	xiaopihai	100
-小屁孩☞猴死囡仔 (kâu-sí-gín-á)	xiaopihai	100
+小屁孩☞猴死囡仔 (kâu-sí-gín-á)	xiaopihai	100
 小屁孩☞毋成囡仔 (m̄-tsiâⁿ-gín-á)	xiaopihai	100
 小屁孩☞屁囝 (phùi-kiáⁿ)	xiaopihai	100
 小屁孩☞屁窒仔 (phùi-that-á)	xiaopihai	100
@@ -168388,8 +168372,8 @@ po文☞鋪文 (phoo-bûn)	wen	100
 小氣☞ku-tsiⁿ	xiaoqi	100
 小氣☞攝屎 (liap-sái)	xiaoqi	100
 小氣☞吝嗇 (nì-sìⁿ)	xiaoqi	100
-小氣☞niau-lān	xiaoqi	100
 小氣☞niau-lǎn	xiaoqi	100
+小氣☞niau-lān	xiaoqi	100
 小氣☞貓潲 (niau-siâu)	xiaoqi	100
 小氣☞貓神 (niau-sîn)	xiaoqi	100
 小氣☞貓筩 (niau-thāng)	xiaoqi	100
@@ -169504,7 +169488,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 下霧☞罩霧 (tà-bū)	xiawu	100
 下午茶☞下晡呷食點心 (e-poo tsia̍h tiám-sim)	xiawucha	100
 下午茶☞下晡點心 (e-poo tiám-sim)	xiawucha	100
-下午茶☞下晡茶 (e-poo-tê)	xiawucha	100
+下午茶☞下晡茶 (e-poo-tê)	xiawucha	100
 下午茶☞下午茶 (hā-ngóo-tê)	xiawucha	100
 下午很熱。☞Tsit king pâng-king àⁿ sai, ē-poo-sî tsin hâⁿ	xiawuhenre	100
 罅隙☞罅颼 (hà-sau)	xiaxi	100
@@ -169827,10 +169811,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 西餐☞西餐 (se-tshan)	xican	100
 西餐☞se-tshan	xican	100
 西餐廳☞西餐廳 (se-tshan-thiaⁿ)	xicanting	100
-茜草☞茜草 (tshiàn-tsháu)	xicao	100
 蓆草☞tshio̍h-tsháu	xicao	100
-茜草樹☞lîng-hê	xicaoshu	100
-茜草樹☞龍蝦 (lîng-hê)	xicaoshu	100
 西側☞西爿 (sai-pîng)	xice	100
 細察☞sè-tsahat	xicha	100
 細察☞sè-tshat	xicha	100
@@ -170560,17 +170541,17 @@ po文☞鋪文 (phoo-bûn)	wen	100
 洗髮精☞洗髮精 (sé-huat-tsing)	xifajing	100
 洗髮精☞sé-huat-tsing	xifajing	100
 洗髮精☞洗頭毛精 (sé-thau-mn̄g-tsing)	xifajing	100
+洗髮精☞洗頭水 (sé-thâu-tsúi)	xifajing	100
 洗髮精☞洗頭毛粉 (sé-thâu-mn̂g-hún)	xifajing	100
 洗髮精☞洗頭毛粉 (sé-thâu-moo-hún)	xifajing	100
-洗髮精☞洗頭水 (sé-thâu-tsuí)	xifajing	100
 洗髮精☞siàm-phuh	xifajing	100
 洗髮精☞洗髮精 (sué-huat-tsing)	xifajing	100
 洗髮精☞頭毛精 (thâu-mn̂g-tsing)	xifajing	100
 稀飯☞bê	xifan	100
 稀飯☞糜 (bê)	xifan	100
+稀飯☞糜 (bêr)	xifan	100
 稀飯☞buê	xifan	100
 稀飯☞糜 (buê)	xifan	100
-稀飯☞糜 (bêr)	xifan	100
 稀飯☞清糜 (tshing-bê)	xifan	100
 稀飯☞清糜 (tshing-muê)	xifan	100
 稀飯☞洘頭糜 (khó-thâu-muâi)	xifan	100
@@ -171473,7 +171454,7 @@ po文☞鋪文 (phoo-bûn)	wen	100
 行程☞道筋 (tō-kun)	xingcheng	100
 行程☞道筋 (tō-kirn)	xingcheng	100
 行程表☞日程表 (ji̍t-tîng-pió)	xingchengbiao	100
-形成層☞形成層 (hîng-sîng-tsân)	xingchengceng	100
+形成層☞形成層 (hîng-sîng-tsân)	xingchengceng	100
 行車時間表☞hîng-tshia sî-kan-pió	xingcheshijianbiao	100
 行車執照☞hîng-tshia tsip-tsiàu	xingchezhizhao	100
 T型尺☞丁字尺 (ting-jī-tshioh)	xingchi	100
@@ -171636,7 +171617,7 @@ B型肝炎☞kuaⁿ-iām-B1	xingganyan	100
 性交☞食粿 (tsia̍h-kué)	xingjiao	100
 性交☞kau-ha̍p	xingjiao	100
 性交☞kiân-pâng	xingjiao	100
-性交☞拍炮 (phah-phàu)	xingjiao	100
+性交☞拍炮 (phah-phàu)	xingjiao	100
 性交☞sing-kau	xingjiao	100
 性交☞sìng-kau	xingjiao	100
 性交☞性交 (sìng-kau)	xingjiao	100
@@ -171647,7 +171628,7 @@ B型肝炎☞kuaⁿ-iām-B1	xingganyan	100
 性交(狗)☞sio-tuà	xingjiaogou	100
 行腳節目☞行踏節目 (kiâⁿ-ta̍h tsiat-bo̍k)	xingjiaojiemu	100
 行腳節目☞拋拋走節目 (pha-pha-tsáu tsiat-bo̍k)	xingjiaojiemu	100
-性交激烈而陰部出血☞破鼎 (phuà-tiáⁿ)	xingjiaojilieeryinbuchuxue	100
+性交激烈而陰部出血☞破鼎 (phuà-tiáⁿ)	xingjiaojilieeryinbuchuxie	100
 性教育☞sìng-kàu-io̍k	xingjiaoyu	100
 性教育☞性教育 (sìng-kàu-io̍k)	xingjiaoyu	100
 行祭常典☞Hîng-tsè Siông-tián	xingjichangdian	100
@@ -171760,6 +171741,7 @@ B型肝炎☞kuaⁿ-iām-B1	xingganyan	100
 醒目☞hiáⁿ-tiûⁿ	xingmu	100
 醒木☞封旨 (hong-tsí)	xingmu	100
 醒目☞影目 (iáⁿ-ba̍k)	xingmu	100
+省墓☞thàm-bōng	xingmu	100
 行囊☞包袱 (pau-ho̍k)	xingnang	100
 性能☞sìng-lîng	xingneng	100
 性能☞性能 (sìng-lîng)	xingneng	100
@@ -171941,6 +171923,8 @@ B型肝炎☞kuaⁿ-iām-B1	xingganyan	100
 行善☞hîng-siān	xingshan	100
 行善☞行善 (hîng-siān)	xingshan	100
 行善☞修善 (siu-siān)	xingshan	100
+行商☞走水的 (tsáu-tsúi-ê)	xingshang	100
+行商☞行商 (hîng-siong)	xingshang	100
 興盛☞興 (hing)	xingsheng	100
 興盛☞興旺 (hing-ōng)	xingsheng	100
 興盛☞hing-sīng	xingsheng	100
@@ -173626,7 +173610,7 @@ O☞khui-kha-khing	xingtui	100
 洶湧☞瀳 (tshîⁿ)	xiongyong	100
 胸有成竹☞心頭定 (sim-thâu-tiāⁿ)	xiongyouchengzhu	100
 凶宅☞hiong-the̍h	xiongzhai	100
-凶宅☞惡厝 (ok-tshù)	xiongzhai	100
+凶宅☞惡厝 (ok-tshù)	xiongzhai	100
 凶宅☞pháiⁿ-khang ê tshù	xiongzhai	100
 凶宅☞pháiⁿ-khiā	xiongzhai	100
 兄長☞兄長 (hing-tióng)	xiongzhang	100
@@ -173833,7 +173817,7 @@ O☞khui-kha-khing	xingtui	100
 洗手乳☞洗手膏 (sé-tshiú-ko)	xishouru	100
 吸收水分☞收泔 (siu-ám)	xishoushuifen	100
 吸收水分☞燥水 (sò-tsúi)	xishoushuifen	100
-洗手台☞手面台 (tshiú-bīn-tâi)	xishoutai	100
+洗手台☞手面台 (tshiú-bīn-tâi)	xishoutai	100
 洗手台☞洗手台仔 (sé-tshiú-tâi-á)	xishoutai	100
 吸收新知識☞khip-siu sin tì-sik	xishouxinzhishi	100
 鼷鼠☞車鼠 (tshia-tshí)	xishu	100
@@ -175296,7 +175280,7 @@ T恤☞thí-siat-tsuh	xu	100
 旋轉☞轉踅 (tńg-se̍h)	xuanzhuan	100
 旋轉車床☞tshia-hui	xuanzhuanchechuang	100
 旋轉木馬☞玲瑯馬 (lin-long-bé)	xuanzhuanmuma	100
-旋轉木馬☞踅玲瑯馬仔 (se̍h-lîng-long-bé)	xuanzhuanmuma	100
+旋轉木馬☞踅玲瑯馬仔 (se̍h-lîng-long-bé)	xuanzhuanmuma	100
 旋轉球☞輾的 (liàn--ê)	xuanzhuanqiu	100
 楦子☞楦頭 (hùn-thâu)	xuanzi	100
 虛報☞hi-pò	xubao	100
@@ -175994,7 +175978,7 @@ T恤☞thí-siat-tsuh	xu	100
 血族☞hiat-tso̍k	xuezu	100
 血族結婚☞hiat-tso̍k kiat-hun	xuezujiehun	100
 鬚髮☞頭毛嘴鬚 (thâu-mn̂g-tshùi-tshiu)	xufa	100
-續發性出血☞sio̍k-huat-sìng  tshut huih	xufaxingchuxue	100
+續發性出血☞sio̍k-huat-sìng  tshut huih	xufaxingchuxie	100
 虛費☞hi-hùi	xufei	100
 虛浮☞浮沖 (phû-tshìng)	xufu	100
 虛浮☞浮蒸 (phû-tshìng)	xufu	100
@@ -176890,7 +176874,7 @@ T恤☞thí-siat-tsuh	xu	100
 壓價☞啄價 (tok-kè)	yajia	100
 雅加達☞雅加達 (Ngá-ka-ta̍t)	yajiada	100
 雅鑒☞ngá-kàm	yajian	100
-牙間刷☞齒托仔攄 (khí-thuh-á-lu)	yajianshua	100
+牙間刷☞齒托仔攄 (khí-thuh-á-lu)	yajianshua	100
 崖椒☞鳥踏刺 (tsiáu-ta̍h-tshì)	yajiao	100
 崖椒☞鱟殼刺 (hāu-khak-tshì)	yajiao	100
 崖椒☞磟碡根 (la̍k-ta̍k-kin)	yajiao	100
@@ -177910,7 +177894,7 @@ T恤☞thí-siat-tsuh	xu	100
 陽器☞iông-khì	yangqi	100
 氧氣☞sàng-soh	yangqi	100
 氧氣☞sàng-sòo	yangqi	100
-氧氣☞酸素 (sàng-sòo)	yangqi	100
+氧氣☞酸素 (sàng-sòo)	yangqi	100
 氧氣☞酸素 (sng-sòo)	yangqi	100
 揚起灰塵☞phōng-phōng-ing	yangqihuichen	100
 揚琴☞揚琴 (iāⁿ-khîm)	yangqin	100
@@ -178411,7 +178395,7 @@ T恤☞thí-siat-tsuh	xu	100
 嚴家淦☞嚴家淦 (Giâm Ka-kàm)	yanjiagan	100
 嚴加管束☞giâm-ka kuán-sok	yanjiaguanshu	100
 眼尖☞目睭金 (ba̍k-tsiu-kim)	yanjian	100
-眼瞼☞目睭墘 (ba̍k-tsiu-kîⁿ)	yanjian	100
+眼瞼☞目睭墘 (ba̍k-tsiu-kîⁿ)	yanjian	100
 眼尖☞目睭利 (ba̍k-tsiu-lāi)	yanjian	100
 眼瞼☞目睭皮 (ba̍k-tsiu-phê)	yanjian	100
 眼瞼☞目睭皮 (ba̍k-tsiu-phuê)	yanjian	100
@@ -179184,7 +179168,7 @@ T恤☞thí-siat-tsuh	xu	100
 諺文☞諺文 (gān-bûn)	yanwen	100
 諺文☞韓字 (hân-jī)	yanwen	100
 諺文☞高麗字 (ko-lê-jī)	yanwen	100
-顏文字☞表情文字 (piáu-tsîng-bûn-jī)	yanwenzi	100
+顏文字☞表情文字 (piáu-tsîng-bûn-jī)	yanwenzi	100
 眼窩☞目睭孔 (ba̍k-tsiu-kháng)	yanwo	100
 眼窩☞目睭臼 (ba̍k-tsiu-khū)	yanwo	100
 眼窩☞ba̍k-tsiu-khut-á	yanwo	100
@@ -181914,7 +181898,7 @@ T恤☞thí-siat-tsuh	xu	100
 一點錢☞sió-khuá tsîⁿ	yidianqian	100
 一點一滴☞一跤一跡 (tsi̍t kha tsi̍t jiah)	yidianyidi	100
 一點一滴☞一點一揬 (tsi̍t-tiám tsi̍t-tuh)	yidianyidi	100
-一點一滴☞一點一滴 (tsi̍t-tiám-tsi̍t-tih)	yidianyidi	100
+一點一滴☞一點一滴 (tsi̍t-tiám-tsi̍t-tih)	yidianyidi	100
 伊甸園☞Ai-tiân	yidianyuan	100
 一點鐘☞tsi̍t tiám-tsing	yidianzhong	100
 一疊鈔票☞tsi̍t tsí gîn-phiò	yidiechaopiao	100
@@ -181982,7 +181966,7 @@ T恤☞thí-siat-tsuh	xu	100
 移動位置☞phôo-suá-ūi	yidongweizhi	100
 疑竇☞疑竇 (gî-tōo)	yidou	100
 疑竇叢生☞gî-tōo tshông-sing	yidoucongsheng	100
-一斗米養個恩人☞káu tùiⁿ bí-ko bô-tsiūⁿ-sùiⁿ,tsi̍t tùiⁿ líng muê khioh--khí-lâi khǹg	yidoumiyanggeenren	100
+一斗米養個恩人☞káu tùiⁿ bí-ko bô-tsiūⁿ-sùiⁿ,tsi̍t tùiⁿ líng muê khioh--khí-lâi khǹg	yidoumiyanggeenren	100
 一度☞bat	yidu	100
 易讀☞hó-tha̍k	yidu	100
 已讀☞看過 (khuàⁿ kuè)	yidu	100
@@ -182194,11 +182178,10 @@ T恤☞thí-siat-tsuh	xu	100
 義工☞義工 (gī-kang)	yigong	100
 移工☞外勞 (guā-lô)	yigong	100
 一共☞it-kiōng	yigong	100
-移工☞移工 (î-kang)	yigong	100
 一共☞攏總 (lóng-tsóng)	yigong	100
 一共☞lóng-tsóng	yigong	100
 一共☞lóng-kiōng	yigong	100
-移工☞徙工 (suá-kang)	yigong	100
+移工☞徙工 (suá-kang)	yigong	100
 一共☞thóng-kiōng	yigong	100
 姨公☞丈公 (tiūⁿ-kong)	yigong	100
 一公升汽油☞tsi̍t kong-tsin khì-iû	yigongshengqiyou	100
@@ -182547,7 +182530,7 @@ T恤☞thí-siat-tsuh	xu	100
 倚靠☞所靠 (sóo-khò)	yikao	100
 依靠☞投靠 (tâu-khò)	yikao	100
 倚靠在☞the-uá	yikaozai	100
-一卡通☞在你行 (tsāi-lí-kiâⁿ)	yikatong	100
+一卡通☞在你行 (tsāi-lí-kiâⁿ)	yikatong	100
 一卡通☞一卡通 (it-khá-thong)	yikatong	100
 一刻☞tsi̍t khik	yike	100
 一刻☞tsi̍t-khik	yike	100
@@ -182988,7 +182971,7 @@ T恤☞thí-siat-tsuh	xu	100
 陰部☞陰部 (im-pōo)	yinbu	100
 陰部☞lí-im	yinbu	100
 陰部☞lú-im	yinbu	100
-陰部出血☞破鼎 (phuà-tiáⁿ)	yinbuchuxue	100
+陰部出血☞破鼎 (phuà-tiáⁿ)	yinbuchuxie	100
 因材施教☞in-tsâi si-kàu	yincaishijiao	100
 因材施教☞因材施教 (in-tsâi-si-kàu)	yincaishijiao	100
 隱藏☞bih	yincang	100
@@ -183803,7 +183786,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 英雄☞英雄 (ing-hiông)	yingxiong	100
 英雄崇拜☞ing-hiông-tsông-pài	yingxiongchongbai	100
 英雄聯盟☞英雄聯盟 (Ing-hiông Liân-bîng)	yingxionglianmeng	100
-英雄聯盟☞英雄聯盟 (ing-hiông-liân-bîng)	yingxionglianmeng	100
+英雄聯盟☞英雄聯盟 (ing-hiông-liân-bîng)	yingxionglianmeng	100
 英雄末路☞ing-hiông bua̍t-lōo	yingxiongmolu	100
 英雄無用武之地.☞Ing-hiông bû iōng-bú tsi tē	yingxiongwuyongwuzhidi	100
 英雄主義☞ing-hiông-tsú-gī	yingxiongzhuyi	100
@@ -184465,7 +184448,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 隱形眼鏡☞藏鏡 (tshàng-kiàⁿ)	yinxingyanjing	100
 隱形眼鏡☞貼目鏡 (tah-ba̍k-kiàⁿ)	yinxingyanjing	100
 隱形眼鏡☞貼目鏡仁 (tah-ba̍k-kiàⁿ-jîn)	yinxingyanjing	100
-隱形眼鏡☞透光目鏡 (thàu-kng ba̍k-kiàⁿ)	yinxingyanjing	100
+隱形眼鏡☞透光目鏡 (thàu-kng ba̍k-kiàⁿ)	yinxingyanjing	100
 銀行業☞銀行業 (gîn-hâng-gia̍p)	yinxingye	100
 銀行員☞gîn-hâng-uân	yinxingyuan	100
 銀行支票☞gîn-hâng tsi-phiò	yinxingzhipiao	100
@@ -184653,7 +184636,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 一瞥☞lió tsi̍t-ē	yipie	100
 藝品☞藝品 (gē-phín)	yipin	100
 一品☞it-phín	yipin	100
-一瓶☞一罐 (tsi̍t-kuàn)	yiping	100
+一瓶☞一罐 (tsi̍t-kuàn)	yiping	100
 夷平☞攄平 (lu-pêⁿ)	yiping	100
 已平地化的高山族☞si̍k-huan	yipingdihuadegaoshanzu	100
 一瓶酒☞tsi̍t kuàn tsiú	yipingjiu	100
@@ -184976,7 +184959,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 以少誘多☞tsit-hî tiò tuā-tāi	yishaoyouduo	100
 一霎時☞tsi̍t-tia̍p-á	yishashi	100
 一霎時☞一霎仔 (tsi̍t-tia̍p-á)	yishashi	100
-以砂填塞☞thūn-sua	yishatiansai	100
+以砂填塞☞thūn-sua	yishatianse	100
 一身☞tsi̍t-sin	yishen	100
 一身☞一身 (tsi̍t-sin)	yishen	100
 一審☞it-sím	yishen	100
@@ -185117,7 +185100,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 議事錄☞議事錄 (gī-sū-lio̍k)	yishilu	100
 議事錄☞議事錄 (gī-sū-lo̍k)	yishilu	100
 一石米☞tsi̍t tsio̍h bí	yishimi	100
-一石米養個仇人☞káu tùiⁿ bí-ko bô-tsiūⁿ-sùiⁿ,tsi̍t tùiⁿ líng muê khioh--khí-lâi khǹg	yishimiyanggechouren	100
+一石米養個仇人☞káu tùiⁿ bí-ko bô-tsiūⁿ-sùiⁿ,tsi̍t tùiⁿ líng muê khioh--khí-lâi khǹg	yishimiyanggechouren	100
 醫師娘☞sian-siⁿ-niû	yishiniang	100
 醫師娘☞sin-seⁿ-niû	yishiniang	100
 議事日程☞gī-sū ji̍t-thîng	yishiricheng	100
@@ -185914,10 +185897,10 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 醫院☞pēⁿ-īn	yiyuan	100
 醫院☞病院 (pēⁿ-īⁿ)	yiyuan	100
 醫院☞pēⁿ-īⁿ	yiyuan	100
+醫院☞病院 (pǐⁿ-ǐⁿ)	yiyuan	100
 醫院☞pīⁿ-īn	yiyuan	100
 醫院☞病院 (pīⁿ-īⁿ)	yiyuan	100
 醫院☞pīⁿ-īⁿ	yiyuan	100
-醫院☞病院 (pǐⁿ-ǐⁿ)	yiyuan	100
 意願☞心向 (sim-hiòng)	yiyuan	100
 一元半☞khoo puàⁿ	yiyuanban	100
 一元化☞it-guân-huà	yiyuanhua	100
@@ -186923,7 +186906,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 郵費☞郵費 (iû-hùi)	youfei	100
 郵費不足☞iû-hùi put-tsiok	youfeibuzu	100
 油分☞iû-hun	youfen	100
-幽浮☞幽浮 (iu-phû)	youfu	100
+幽浮☞幽浮 (iu-phû)	youfu	100
 有福同享☞iú-hok tông-hiáng, iú-hō tông-tng	youfutongxiang	100
 有福同享☞iú-hok tông-hióng, iú-hō tông-tong	youfutongxiang	100
 有夫之婦☞iú-hu tsi hū	youfuzhifu	100
@@ -186992,8 +186975,8 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 又好看☞iū  sio̍k, iū  hó-khuàⁿ	youhaokan	100
 又好氣☞iā-hó khì,iā-hó tshiò	youhaoqi	100
 油耗味☞臭油埃 (tshàu-iû-ai)	youhaowei	100
+油耗味☞臭油埃味 (tshàu-iû-ai-bī)	youhaowei	100
 油耗味☞臭油味 (tshàu-iû-bī)	youhaowei	100
-油耗味☞臭油埃味 (tshàu-iû-ai-bī)	youhaowei	100
 油耗味☞油滓味 (iû-tái-bī)	youhaowei	100
 又好笑☞iā-hó khì,iā-hó tshiò	youhaoxiao	100
 黝黑☞烏戛戛 (oo-khia̍t-khia̍t)	youhei	100
@@ -187689,8 +187672,8 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 遊戲☞kián-muh	youxi	100
 遊戲☞耍戲 (sńg-hì)	youxi	100
 遊戲☞耍奕 (sńg-ī)	youxi	100
+遊戲☞耍物仔 (sńg-mih-á)	youxi	100
 遊戲☞耍 (sńg替)	youxi	100
-遊戲☞耍物仔 (sńg-mih-á)	youxi	100
 遊戲☞電動 (tiān-tōng)	youxi	100
 遊俠☞iû-kiap	youxia	100
 右下☞右下 (iū-hā)	youxia	100
@@ -187874,7 +187857,7 @@ chah營☞搭營 (tah-iâⁿ)	ying	100
 有勇無謀☞iú-ióng bû-bôo	youyongwumou	100
 游泳衣☞iû-íng-i	youyongyi	100
 遊遊逛逛的☞siâ-siâ	youyouguangguangde	100
-悠遊卡☞悠遊卡 (iu-iû-khah)	youyouka	100
+悠遊卡☞悠遊卡 (iu-iû-khah)	youyouka	100
 幽（優）雅☞iu-ngá	youyouya	100
 猶豫☞延緩 (iân-uān)	youyu	100
 由於☞因為 (in-ūi)	youyu	100
@@ -188349,7 +188332,7 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 圓房☞送做堆 (sàng-tsò-tui)	yuanfang	100
 遠方☞uán-hong	yuanfang	100
 遠方☞遠方 (uán-hong)	yuanfang	100
-原發性出血☞guân-huat-sìng tshut-huih	yuanfaxingchuxue	100
+原發性出血☞guân-huat-sìng tshut-huih	yuanfaxingchuxie	100
 緣分☞iân-hūn	yuanfen	100
 緣份☞緣份 (iân-hūn)	yuanfen	100
 緣份☞iân-hūn	yuanfen	100
@@ -189402,7 +189385,7 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 月經不調☞gue̍h-king put-sūn	yuejingbudiao	100
 月經不順☞gue̍h-king put-sūn	yuejingbushun	100
 月經不順☞亂經 (luān-king)	yuejingbushun	100
-月經出血☞破鼎 (phuà-tiáⁿ)	yuejingchuxue	100
+月經出血☞破鼎 (phuà-tiáⁿ)	yuejingchuxie	100
 月經帶☞gue̍h-king-tuà	yuejingdai	100
 月經來潮☞月經 (ge̍h-king)	yuejinglaichao	100
 月經來潮☞月經 (gue̍h-king)	yuejinglaichao	100
@@ -189732,7 +189715,6 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 預防☞張持 (tiuⁿ-tî)	yufang	100
 預防的☞hông-pēⁿ ê	yufangde	100
 預防萬一☞存後步 (tshûn-āu-pōo)	yufangwanyi	100
-預防注射☞預防射 (ī-hông-siā)	yufangzhushe	100
 語法學☞gí-huat-ha̍k	yufaxue	100
 與風浪博鬥☞戰風湧 (tsiàn-hong-íng)	yufenglangbodou	100
 浴佛☞洗佛 (sé-hu̍t)	yufo	100
@@ -191580,8 +191562,8 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 臟☞sīn	zang	100
 臟☞sīn-tsōng	zang	100
 葬☞tâi	zang	100
-髒☞thái-ko-nuā-lô	zang	100
 髒☞thái-ko-nuǎ-lô	zang	100
+髒☞thái-ko-nuā-lô	zang	100
 髒☞thái-kor-nuā-lôr	zang	100
 贓車☞賊仔車 (tsha̍t-á-tshia)	zangche	100
 髒得嚇死人☞lah-sap kah ē kiaⁿ sí lâng	zangdexiasiren	100
@@ -191634,8 +191616,8 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 髒兮兮☞烏鉎鉎 (oo-sian-sian)	zangxixi	100
 髒兮兮☞烏趖趖 (oo-sô-sô)	zangxixi	100
 髒兮兮☞oo-sô-sô	zangxixi	100
-髒兮兮☞thái-ko-nuā-lô	zangxixi	100
 髒兮兮☞thái-ko-nuǎ-lô	zangxixi	100
+髒兮兮☞thái-ko-nuā-lô	zangxixi	100
 髒兮兮☞thái-kor-nuā-lôr	zangxixi	100
 葬儀☞tsòng-gî	zangyi	100
 葬儀☞tsòng-sik	zangyi	100
@@ -192654,7 +192636,6 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 怎麼能疊多重？☞Phōng-phōng-song-song ê mi̍h-kiāⁿ, ná ē-tàng thia̍p kah luā tāng?	zenmenengdieduozhong	100
 怎麼能省？☞Hiān-tú-hiān su-iàu ê tāi-tsì ná ē-tàng séⁿ-tit?	zenmenengsheng	100
 怎麼說☞安怎講 (an-tsuáⁿ kóng)	zenmeshuo	100
-怎麼說☞按怎講 (án-tsuáⁿ-kóng)	zenmeshuo	100
 怎麼說得通？☞Kap hit khuán huan-kī-kā ê lâng kóng, ná kóng ē tshun-tshiaⁿ?	zenmeshuodetong	100
 怎麼閒得下來？☞Hit ê lâng hiah-ni̍h kâu-sìng, ná îng ē tiâu?	zenmexiandexialai	100
 怎麼樣☞tsáiⁿ-iūⁿ	zenmeyang	100
@@ -194984,10 +194965,10 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 找錢☞找 (tsāu)	zhaoqian	100
 找錢☞tsāu-tsîⁿ	zhaoqian	100
 找錢☞找錢 (tsāu-tsîⁿ)	zhaoqian	100
-找錢☞揣錢 (tshē-tsîⁿ)	zhaoqian	100
-找錢☞揣錢 (tshuē-tsîⁿ)	zhaoqian	100
-找錢☞找錢 (tshuē-tsîⁿ)	zhaoqian	100
+找錢☞揣錢 (tshē-tsîⁿ)	zhaoqian	100
 找錢☞揣錢 (tshēr-tsîⁿ)	zhaoqian	100
+找錢☞找錢 (tshuē-tsîⁿ)	zhaoqian	100
+找錢☞揣錢 (tshuē-tsîⁿ)	zhaoqian	100
 找錢☞占找 (tsiam-tsāu)	zhaoqian	100
 找錢☞sio-tsāu	zhaoqian	100
 照牆☞照牆 (tsiò-tshiûⁿ)	zhaoqiang	100
@@ -197853,13 +197834,20 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 這枝鉛筆不尖☞Tsit ki iân-pit bô tsiam, gia̍h to-á lâi hōo guá siah	zhezhiqianbibujian	100
 這隻是他的狗。☞Tsit tsiah sī i ê káu	zhezhishitadegou	100
 這枝竹子很硬。☞Tsit ki tik-á tsin ngē	zhezhizhuzihenying	100
+折衷☞取中範 (tshú-tiong-pān)	zhezhong	100
 蔗種☞tsià-tsíng	zhezhong	100
+折衷☞tsiat-tiong	zhezhong	100
+折衷☞折衷 (tsiat-tiong)	zhezhong	100
 這種☞tsit tsióng	zhezhong	100
 這種☞tsit khuán	zhezhong	100
 這種☞這種 (tsit-tsióng)	zhezhong	100
 這種☞這號 (tsit-hō)	zhezhong	100
 這種☞這款 (tsit-khuán)	zhezhong	100
 折重☞回重 (hê-tāng)	zhezhong	100
+折衷☞lia̍h-tiong-hô	zhezhong	100
+折衷☞lia̍h-tiong-nuâ	zhezhong	100
+折衷☞掠中範 (lia̍h-tiong-pān)	zhezhong	100
+折衷☞對摵 (tùi-tshi̍k)	zhezhong	100
 這種病不能根治。☞Tsit khuán pēⁿ bē tn̄g-kin	zhezhongbingbunenggenzhi	100
 這種病會傳染。☞Tsit khuán pēⁿ ē uè lâng	zhezhongbinghuichuanran	100
 這種病會傳染。☞Tsit khuán pēⁿ ē uè-lâng	zhezhongbinghuichuanran	100
@@ -199545,10 +199533,10 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 執行秘書☞tsip-hîng pì-su	zhixingmishu	100
 執行死刑☞tsip-hîng sí-hîng	zhixingsixing	100
 執行委員☞tsip-hîng úi-uân	zhixingweiyuan	100
-紙星星☞紙仔星 (tsuá-á-tsheⁿ)	zhixingxing	100
-紙星星☞紙仔星 (tsuá-á-tshiⁿ)	zhixingxing	100
-紙星星☞紙天星 (tsuá-thiⁿ-tsheⁿ)	zhixingxing	100
-紙星星☞紙天星 (tsuá-thiⁿ-tshiⁿ)	zhixingxing	100
+紙星星☞紙仔星 (tsuá-á-tsheⁿ)	zhixingxing	100
+紙星星☞紙仔星 (tsuá-á-tshiⁿ)	zhixingxing	100
+紙星星☞紙天星 (tsuá-thiⁿ-tsheⁿ)	zhixingxing	100
+紙星星☞紙天星 (tsuá-thiⁿ-tshiⁿ)	zhixingxing	100
 執行長☞執行長 (tsip-hîng-tiúⁿ)	zhixingzhang	100
 執行職權☞tsop-kuân	zhixingzhiquan	100
 直性子☞硬直 (ngē-ti̍t)	zhixingzi	100
@@ -200421,7 +200409,7 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 中環☞中環 (Tiong-huân)	zhonghuan	100
 中環☞中環 (Tiong-khuân)	zhonghuan	100
 重劃區☞重劃區 (tiông-ue̍h-khu)	zhonghuaqu	100
-中華人民共和國☞中華人民共和國 (Tiong-huâ-lîn-bîn-kiōng-hô-kok)	zhonghuarenmingongheguo	100
+中華人民共和國☞中華人民共和國 (Tiong-huâ-lîn-bîn-kiōng-hô-kok)	zhonghuarenmingongheguo	100
 種花生☞tiām thôo-tāu-tsíng	zhonghuasheng	100
 中華聖母會☞Tiong-huâ Sìng-bó Huē	zhonghuashengmuhui	100
 中華文化☞中華文化 (Tiong-huâ-bûn-huà)	zhonghuawenhua	100
@@ -201359,8 +201347,8 @@ but魚☞飼囝飯 (tshī-kiáⁿ-pn̄g)	yu	100
 種族平等☞tsióng-tso̍k pîng-tíng	zhongzupingdeng	100
 種族歧視☞tsíng-tso̍k kî-sī	zhongzuqishi	100
 種族歧視☞tsióng-tso̍k-khin-sī	zhongzuqishi	100
-粥☞糜 (buê)	zhou	100
 粥☞糜 (bêr)	zhou	100
+粥☞糜 (buê)	zhou	100
 粥☞清糜 (tshing-bê)	zhou	100
 粥☞清糜 (tshing-muê)	zhou	100
 帚☞帚 (tshiú)	zhou	100
@@ -201859,7 +201847,7 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 抓☞扒 (pê)	zhua	100
 抓☞爬 (pê)	zhua	100
 抓☞sa	zhua	100
-抓寶☞掠寶 (lia̍h-pó)	zhuabao	100
+抓寶☞掠寶 (lia̍h-pó)	zhuabao	100
 抓辮子☞khiú bué-liu	zhuabianzi	100
 抓辮子☞掠空縫 (lia̍h-khang-phāng)	zhuabianzi	100
 抓不到頭緒☞掠無頭摠 (lia̍h-bô-thâu-tsáng)	zhuabudaotouxu	100
@@ -202503,8 +202491,8 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 裝載☞裝載 (tsng-tsài)	zhuangzai	100
 裝在一起☞鬥做夥 (tàu-tsò-hué)	zhuangzaiyiqi	100
 裝雜物☞té-tang té-sai	zhuangzawu	100
-狀紙☞狀紙 (tsn̄g-tsuá)	zhuangzhi	100
 狀紙☞tsn̄g-tsuá	zhuangzhi	100
+狀紙☞狀紙 (tsn̄g-tsuá)	zhuangzhi	100
 裝置☞tsō-tsok	zhuangzhi	100
 裝置☞tsong-tì	zhuangzhi	100
 裝置☞裝置 (tsong-tì)	zhuangzhi	100
@@ -204102,6 +204090,8 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 捉迷藏☞站涵貓 (tiàm-âm-niau)	zhuomicang	100
 捉迷藏☞站摸貓 (tiàm-moo-niau)	zhuomicang	100
 捉迷藏☞站貓 (tiàm-niau)	zhuomicang	100
+琢磨☞tshiâu-tshik	zhuomo	100
+琢磨☞雕琢 (tiau-tok)	zhuomo	100
 啄木☞tok-bo̍k	zhuomu	100
 啄木鳥☞犀牛鳥 (sai-gû-tsiáu)	zhuomuniao	100
 啄木鳥☞tok-bo̍k-tsiáu	zhuomuniao	100
@@ -205136,7 +205126,7 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 子宮☞生囝袋 (seⁿ-kiáⁿ-tē)	zigong	100
 子宮癌☞tsú-kiong-gâm	zigongai	100
 子宮病☞tsú-kiong-pēⁿ	zigongbing	100
-子宮大量出血☞血崩 (hiat-phing)	zigongdaliangchuxue	100
+子宮大量出血☞血崩 (hiat-phing)	zigongdaliangchuxie	100
 子宮發炎☞tsú-kiong huat-iām	zigongfayan	100
 子宮環☞tsú-kiong-khuân	zigonghuan	100
 子宮頸☞tsú-kiong thâu	zigongjing	100
@@ -207588,7 +207578,7 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 做愛☞tsò-ài	zuoai	100
 做愛☞行房 (kiâⁿ-pâng)	zuoai	100
 做愛☞拍膭 (phah-kūi)	zuoai	100
-做愛☞拍炮 (phah-phàu)	zuoai	100
+做愛☞拍炮 (phah-phàu)	zuoai	100
 做愛☞捒炮 (sak-phàu)	zuoai	100
 做愛☞相駛 (saⁿ-sái)	zuoai	100
 做愛☞相幹 (sio-kàn)	zuoai	100
@@ -207609,7 +207599,6 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 做白工☞無彩工 (bô-tshái-kang)	zuobaigong	100
 做白工☞做心酸的 (tsò sim-sng--ê)	zuobaigong	100
 做白工☞白了工 (pe̍h-liáu-kang)	zuobaigong	100
-做白工☞白了工 (pe̍h-liáu-kang)	zuobaigong	100
 做伴☞做伙 (tsò-hué)	zuoban	100
 作伴☞tsò-phuāⁿ	zuoban	100
 作伴☞做伴 (tsò-phuāⁿ)	zuoban	100
@@ -207974,8 +207963,6 @@ chhoah肘☞扭後腳 (giú-āu-kha)	zhou	100
 做迷信☞tsò khiàn-sńg	zuomixin	100
 做謎語☞tsò-bê	zuomiyu	100
 做彌月☞tsò muá-gue̍h	zuomiyue	100
-琢磨☞tshiâu-tshik	zuomo	100
-琢磨☞雕琢 (tiau-tok)	zuomo	100
 做木工☞tsò kap-tsoh	zuomugong	100
 做木工☞tsò-ba̍k	zuomugong	100
 做木工☞做木 (tsò-ba̍k)	zuomugong	100
