@@ -14,6 +14,7 @@ rsync -av --delete \
     --exclude='build' \
     --exclude='.git' \
     --exclude='build.sh' \
+    --exclude='release.sh' \
     --exclude='sync.sh' \
     --exclude='LICENSE' \
     --exclude='README.md' \
